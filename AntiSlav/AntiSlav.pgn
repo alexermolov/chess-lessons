@@ -1,0 +1,86 @@
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.d4 d5 2.c4 c6 3.cxd5 cxd5 4.Nc3 
+    ( 4.Bg5 { [%draw arrow,g5,d8,green]} 4...Qb6 { [%draw 
+    arrow,b6,b2,green]} 
+        ( 4...Nc6 5.Nc3 Qb6 
+            ( 5...Nf6 6.Bxf6 exf6 { [%draw full,d5,green]} 
+                ( 6...gxf6 7.e3 e6 8.Bd3 Bd6 9.Nf3 f5 10.g3 Bd7 11.O-O Rc8
+                12.Rc1 h5 
+                    ( 12...O-O { [%draw arrow,b2,b4,green] [%draw 
+                    arrow,d1,e2,green]} )
+                )
+            7.e3 Bb4 8.Ne2 O-O 9.Rc1 { [%draw arrow,e2,f4,green] [%draw 
+            arrow,f4,d5,green]} 9...Be6 10.Nf4 Rc8 { [%draw 
+            arrow,a2,a3,green] [%draw arrow,d1,f3,green]} 11.Bd3 { [%draw 
+            arrow,a2,a3,green] [%draw arrow,d1,f3,green] [%draw 
+            arrow,e1,g1,green]} )
+        6.Nxd5 
+            ( 6.e4 dxe4 
+                ( 6...e6 7.exd5 exd5 8.Bb5 a6 
+                    ( 8...Bb4 9.Qa4 )
+                    ( 8...Be6 )
+                9.Nxd5 Qxb5 10.Nc7+ { [%draw arrow,c7,b5,green] [%draw 
+                arrow,c7,e8,green] [%draw arrow,c7,a8,green]} )
+            7.d5 Nb4 
+                ( 7...Ne5 8.Be3 Qxb2 9.Nb5 { [%draw arrow,b5,c7,green] 
+                [%draw arrow,e3,d4,green]} )
+            8.Bb5+ Bd7 9.Bxd7+ Kxd7 10.Nxe4 )
+        6...Qa5+ {ОШИБКА!} )
+        ( 4...h6 5.Bh4 g5 
+            ( 5...Qb6 6.Nc3 Qxb2 
+                ( 6...e6 { [%draw full,c8,green]} 7.Qd2 )
+            7.Nxd5 e6 8.Rb1 { [%draw arrow,b1,b4,green]} 8...Qxa2 
+                ( 8...Qa3 9.Qc2 exd5 
+                    ( 9...Qa5+ 10.Qc3 
+                        ( 10.Kd1 { [%draw arrow,c2,c7,green] [%draw 
+                        arrow,d5,c7,green] [%draw arrow,c7,c8,green]} 
+                        10...Na6 { [%draw arrow,a6,c7,green] [%draw 
+                        arrow,a8,c8,green]} 11.e4 { [%draw 
+                        arrow,f1,b5,green]} 11...exd5 12.Bb5+ Bd7 13.Bxd7+
+                        Kxd7 14.Rxb7+ Nc7 15.Bg3 Rc8 
+                            ( 15...Bd6 16.e5 Qa6 17.exd6 Qxb7 18.dxc7 )
+                        16.Nf3 { [%draw arrow,f3,e5,green] [%draw 
+                        arrow,g3,c7,green] [%draw arrow,b7,c7,green] 
+                        [%draw arrow,c2,c7,green]} 16...f6 
+                            ( 16...Bd6 17.e5 Bf8 18.e6+ fxe6 19.Ne5+ )
+                        17.exd5 { [%draw arrow,c2,c6,green] [%draw 
+                        arrow,c2,f5,green]} )
+                    10...Qxc3+ 11.Nxc3 )
+                10.Qxc8# )
+            9.Nc7+ { [%draw arrow,c7,e8,green] [%draw arrow,c7,a8,green] 
+            [%draw arrow,f8,b4,green] [%draw arrow,b1,b4,green]} )
+        6.Bg3 Nf6 7.e3 Bg7 8.Bd3 Bd7 9.Nc3 Nc6 10.h4 gxh4 
+            ( 10...g4 11.Nge2 e6 12.Nf4 { [%draw arrow,h4,h5,green] [%draw
+            arrow,g3,h4,green]} )
+        11.Rxh4 )
+    5.Nc3 Qxb2 
+        ( 5...e6 { [%draw full,c8,green]} 6.Qd2 { [%draw 
+        arrow,d2,b2,green] [%draw arrow,e2,e3,green] [%draw 
+        arrow,f1,d3,green] [%draw arrow,g1,f3,green] [%draw 
+        arrow,e1,g1,green]} )
+    6.Nxd5 { [%draw arrow,d5,c7,green]} 6...Na6 { [%draw 
+    arrow,a6,c7,green]} 7.e4 { [%draw arrow,f1,a6,green]} 7...e6 8.Rb1 
+    Qxa2 9.Bb5+ Bd7 10.Ra1 
+        ( 10.Bxd7+ Kxd7 11.Rxb7+ Kc8 12.Rxf7 )
+    10...Qb2 11.Bxd7+ Kxd7 12.Qa4+ )
+4...Nc6 5.Bg5 f6 
+    ( 5...h6 6.Bh4 Qb6 )
+6.Bh4 
+    ( 6.Bd2 Nxd4 7.e3 Nc6 
+        ( 7...Nf5 8.Bd3 e5 9.Nge2 { [%draw arrow,d1,b3,green] [%draw 
+        arrow,a1,c1,green]} 
+            ( )
+        )
+    8.Qh5+ g6 9.Qxd5 Qxd5 10.Nxd5 { [%draw full,e7,green] [%draw 
+    full,f6,green] [%draw full,g6,green]} )
+6...Nh6 
+    { [%draw arrow,h6,f5,green] [%draw full,h4,green]}
+*
+
