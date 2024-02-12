@@ -1,0 +1,11 @@
+[Event "Ловушки в дебюте - Испанская партия: Основная позиция"]
+[Site "https://lichess.org/study/PhCoaP6H/dm7NNkNN"]
+[Result "*"]
+[UTCDate "2020.09.06"]
+[UTCTime "21:51:11"]
+[Variant "Standard"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense"]
+[Annotator "https://lichess.org/@/Dbel"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 (3... a6 4. Ba4 Nf6) 4. d3 *

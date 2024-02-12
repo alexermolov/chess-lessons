@@ -1,0 +1,11 @@
+[Event "Ловушки в дебюте - Испанская партия: Открытый вариант и жертва ладьи"]
+[Site "https://lichess.org/study/PhCoaP6H/ltLcJPST"]
+[Result "*"]
+[UTCDate "2020.09.06"]
+[UTCTime "22:42:19"]
+[Variant "Standard"]
+[ECO "C80"]
+[Opening "Ruy Lopez: Open"]
+[Annotator "https://lichess.org/@/Dbel"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 (4... d6) 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 (7... exd4 8. Re1 d5 9. Nc3 Be6 (9... dxc3 10. Bxd5) 10. Bxd5 Bxd5 11. Nxe4 Be7 12. Nxd4 Nxd4 13. Qxd4) 8. Nxe5 (8. dxe5 Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 Bxf2+ 12. Rxf2 Nxf2 13. Kxf2 f6 14. exf6 Qxf6 15. Kg1 Rae8) 8... Nxe5 9. dxe5 Bb7 10. Be3 Bc5 11. Qg4 (11. Bxc5 Nxc5 12. Qg4) 11... Bxe3 12. Qxg7 (12. fxe3) 12... Qg5 13. Qxh8+ (13. Qxg5 Bxg5) 13... Ke7 14. Qxh7 Bxf2+ 15. Rxf2 Qc1+ 16. Rf1 Qe3+ 17. Kh1 Nf2+ 18. Kg1 (18. Rxf2 Qe1+ 19. Rf1 Qxf1#) 18... Nh3+ 19. Kh1 Qg1+ 20. Rxg1 Nf2# *

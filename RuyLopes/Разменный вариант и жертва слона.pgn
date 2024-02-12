@@ -1,0 +1,11 @@
+[Event "Ловушки в дебюте - Испанская партия: Разменный вариант и жертва слона"]
+[Site "https://lichess.org/study/PhCoaP6H/hvhBH7fC"]
+[Result "*"]
+[UTCDate "2020.09.06"]
+[UTCTime "22:35:30"]
+[Variant "Standard"]
+[ECO "C69"]
+[Opening "Ruy Lopez: Exchange Variation, Alapin Gambit"]
+[Annotator "https://lichess.org/@/Dbel"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 (4... bxc6 5. d4 (5. Nxe5 Qg5 6. Nf3 Qxg2 7. Rg1 Qh3) 5... exd4 6. Qxd4 Qf6 7. Qd3) 5. O-O (5. Nxe5 Qd4 6. Nf3 Qxe4+) 5... Bg4 6. h3 h5 7. d3 (7. hxg4 hxg4 8. Nxe5 (8. Nh2 Qh4 9. Nxg4 Qh1#) 8... Qh4 9. f4 g3 10. Qh5 Rxh5 11. a3 Qh1#) 7... Qf6 8. Be3 Ne7 (8... Bxf3 9. Qxf3 Qxf3 10. gxf3 Bd6) 9. Nbd2 Ng6 10. hxg4 hxg4 11. Ng5 (11. Bg5 Qe6 12. Nh2 g3 13. Nhf3 Bc5 14. d4 exd4 15. Nb3 Bb6 16. Qd3) 11... Nf4 12. Qxg4 Qxg5 13. f3 (13. Qxg5 Ne2#) 13... Nh3+ 14. gxh3 Qxe3+ 15. Kg2 Qxd2+ *

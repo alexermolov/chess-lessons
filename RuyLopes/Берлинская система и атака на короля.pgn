@@ -1,0 +1,11 @@
+[Event "Ловушки в дебюте - Испанская партия: Берлинская система и атака на короля"]
+[Site "https://lichess.org/study/PhCoaP6H/bILRTCpC"]
+[Result "*"]
+[UTCDate "2020.09.06"]
+[UTCTime "21:54:20"]
+[Variant "Standard"]
+[ECO "C67"]
+[Opening "Ruy Lopez: Berlin Defense, Rio Gambit Accepted"]
+[Annotator "https://lichess.org/@/Dbel"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O (4. d3) (4. Nc3 Bb4) 4... Nxe4 (4... Be7 5. Re1 Nd4 6. Nxd4 exd4 7. d3 O-O 8. Bc4 d5 9. exd5 Bg4 10. f3 Bf5) 5. Re1 (5. d4 d5 (5... Be7 6. Qe2 Nd6 7. Bxc6 bxc6 (7... dxc6 8. dxe5 Nf5 9. Rd1 Bd7 10. e6 fxe6 11. Ne5 Bd6 12. Qh5+ g6 13. Nxg6 Ng7 14. Qh6 Nf5 15. Qh5 Ng7 16. Qh6 Nf5) 8. dxe5 Nb7 9. Nc3 O-O 10. Re1) (5... Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8) 6. Nxe5 Bd7 7. Nxf7 Kxf7 8. Qh5+ g6 9. Qxd5+ Kg7 10. Qxe4) 5... Nd6 6. Nxe5 Nxe5 7. Rxe5+ Be7 8. Nc3 O-O (8... Nxb5 9. Nd5 d6 (9... O-O 10. Nxe7+ Kh8 11. Qh5 h6 12. d3 Kh7 13. Nxc8 Rxc8 14. Rxb5) 10. Rxe7+ Kf8 11. Qf3 f6 (11... Be6 12. Rxe6 Nd4 13. Qd3 Nxe6 14. b3 h5 15. Bb2 c6 16. Ne3 d5) 12. d3 c6 13. Qxf6+ gxf6 14. Bh6+ Kg8 15. Nxf6#) *

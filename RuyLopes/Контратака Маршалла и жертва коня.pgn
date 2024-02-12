@@ -1,0 +1,11 @@
+[Event "Ловушки в дебюте - Испанская партия: Контратака Маршалла и жертва коня"]
+[Site "https://lichess.org/study/PhCoaP6H/2AZ0Tw58"]
+[Result "*"]
+[UTCDate "2020.09.06"]
+[UTCTime "22:47:17"]
+[Variant "Standard"]
+[ECO "C89"]
+[Opening "Ruy Lopez: Marshall Attack, Main Line"]
+[Annotator "https://lichess.org/@/Dbel"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O (7... d6) 8. c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re2 Qh4 (13... Bg4 14. f3) 14. g3 Qh3 15. Nd2 Bf5 16. a4 Rae8 17. Rxe8 Rxe8 18. axb5 (18. Nf1 h5 19. Bxd5 cxd5 20. axb5 axb5 21. Ne3) 18... Nf4 19. gxf4 (19. Qf1 Re1 20. Qxe1 Qg2#) 19... Bxf4 20. Nf3 (20. Nf1 Be4 21. f3 Bxf3) 20... Qg4+ 21. Kf1 Bd3+ 22. Qxd3 Qh3+ 23. Kg1 Re1+ 24. Nxe1 Bxh2+ 25. Kh1 Bg3+ 26. Kg1 Qh2+ 27. Kf1 Qxf2# *

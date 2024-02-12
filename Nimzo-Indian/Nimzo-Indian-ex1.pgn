@@ -1,0 +1,56 @@
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.d4 Nf6 2.c4 e6 3.e3 
+    {[%draw arrow,f8,b4,green] тут слон лишний. будет 
+        переход в Bogo-Indian с разменом слонов 
+    или 
+        слона на коня
+         [%draw arrow,b1,c3,green]}
+3...b6 
+    {[%draw arrow,d7,d5,green] второй вариант - уйти в 
+        отказанный ферзевый гамбит}
+4.Nf3 Bb7 5.Be2 
+    {[%draw arrow,f6,e4,green] [%draw arrow,b7,e4,green] отличный
+        контроль поля Е4}
+5...d5 
+    {ход на укрепление центра [%draw 
+        arrow,d5,e4,green] [%draw arrow,b7,e4,green] двойное 
+        давление на Е4}
+6.O-O Bd6 
+    {[%draw arrow,b7,g2,green] [%draw arrow,d6,h2,green] двойное 
+        давление}
+7.Nc3 O-O 8.cxd5 exd5 9.Bd3 
+    {[%draw arrow,d3,e4,green] [%draw arrow,e3,e4,green] [%draw 
+        arrow,f6,e4,green] [%draw arrow,d5,e4,green] [%draw 
+    arrow,b7,e4,green]
+        пока не страшно [%draw arrow,c3,e4,green] [%draw 
+    arrow,f6,e4,green]}
+9...Nbd7 
+    {и только сюда. никаких С6 [%draw 
+        arrow,c3,b5,green] [%draw arrow,a7,a6,green] нужно 
+        предвидеть данный ход белых}
+10.Re1 
+    {продолжает готовиться к Е4}
+10...Re8 
+    {останавливаем давление Е4}
+11.Qc2 c5 
+    {это сильнее, чем А6! [%draw arrow,c3,b5,green] [%draw 
+        arrow,d6,b8,green] всегда есть куда 
+    отступить}
+12.dxc5 bxc5 13.b3 d4 
+    {[%draw arrow,b7,f3,green] [%draw arrow,g2,f3,green] [%draw 
+        arrow,e8,e1,green] можно выиграть ладью за 
+        невнимательность}
+14.exd4 Rxe1+ 15.Nxe1 cxd4 16.Ne2 Rc8 17.Qb2 Bxh2+ 18.Kxh2 Ng4+ 19.Kg1 Qh4
+20.Ng3 Re8 
+    {мало фигур в атаке, подводим еще}
+21.Qd2 Qh2+ 22.Kf1 Nde5 23.Be2 d3 24.Bxg4 Nxg4 25.Bb2 Re2 26.Qxd3 
+    ( 26.Nxe2 Qh1+ 27.Ng1 Nh2# {второй мат} )
+26...Rxf2# *
+

@@ -1,0 +1,53 @@
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 
+    {нормальный вариант}
+    ( 5.Nxd5 Nxd5 6.cxd5 d6 {ненормальный вариант} )
+5...d6 6.Nf3 g6 7.e4 Bg7 8.Be2 O-O 9.O-O Re8 
+    { [%draw arrow,f6,e4,green] [%draw arrow,e8,e4,green] двойная 
+    атака}
+10.Nd2 
+    { [%draw arrow,d2,e4,green] [%draw arrow,c3,e4,green] двойная 
+    защита [%draw arrow,f2,f4,green]}
+10...Na6 
+    { [%draw arrow,a6,c7,green] [%draw arrow,c7,b5,green] борьба 
+    за клетку}
+11.Kh1 Nc7 
+    { [%draw arrow,c7,d5,green] [%draw arrow,c7,b5,green] [%draw 
+    arrow,b7,b5,green] поддержка атаки пешкой}
+12.a4 
+    { [%draw arrow,a4,b5,green] угроза остановлена}
+12...Rb8 
+    { [%draw arrow,b8,b5,green]}
+13.f4 a6 
+    { [%draw arrow,a6,b5,green] [%draw arrow,b7,b5,green]}
+14.a5 
+    { [%draw arrow,b7,b5,green] [%draw arrow,a5,b6,green] на 
+    проходе [%draw arrow,d2,c4,green] [%draw arrow,c4,b6,green]}
+14...Bd7 
+    { [%draw arrow,e4,e5,green] [%draw arrow,f6,d5,green] хотят 
+    сыграть так, но потеряют пешку}
+15.Bf3 
+    { [%draw arrow,f3,d5,green]}
+15...Nb5 16.e5 dxe5 17.fxe5 Rxe5 18.Nc4 Rf5 19.Ne3 Rf4 20.Ne2 Rh4 21.g3 
+Re4 22.Bxe4 Nxe4 23.Nf4 Nd4 
+    { [%draw arrow,d7,b5,green] [%draw arrow,f1,f2,green] [%draw 
+    arrow,e4,f2,green] [%draw arrow,f2,d1,green] [%draw arrow,f2,h1,green]
+    вилка и ни ладьи ни ферзя}
+24.Kg2 Qe7 25.Re1 h5 
+    { [%draw arrow,h5,g4,green]}
+26.Ra3 
+    { [%draw arrow,a3,e3,green]}
+26...Re8 
+    { [%draw arrow,e8,e1,green]}
+27.Ne2 Bh3+ 
+    { [%draw arrow,g2,h1,green] [%draw arrow,e4,f2,green] [%draw 
+    arrow,f2,d1,green] [%draw arrow,f2,h1,green] снова вилка}
+28.Kxh3 *
+

@@ -1,0 +1,307 @@
+[Event "Advanced-2"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 Nc6 5.Nf3 Bg4 6.Be3 e6 *
+
+[Event "Advanced"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Nc3 Bb4 *
+
+[Event "Advanced-2"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+[__replace_game__ "0"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 (4.c3 Nc6) 4...Nc6 5.Nf3 Bg4 6.Be3 (6.Be2 e6
+7.O-O Bxc5) 6...e6
+*
+
+[Event "Advanced-2"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+[__replace_game__ "0"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 (4.c3 Nc6) 4...Nc6 5.Nf3 Bg4 6.Be3 (6.Be2 e6
+7.O-O (7.Be3 Nge7 8.O-O Nf5) 7...Bxc5) 6...e6
+*
+
+[Event "Advanced-2"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+[__replace_game__ "0"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 (4.c3 Nc6) 4...Nc6 5.Nf3 Bg4 6.Be3 (6.Be2 e6
+7.O-O (7.Be3 Nge7 8.O-O Nf5) (7.Bf4 Nge7 8.O-O Ng6 9.Be3) 7...Bxc5) 6...e6
+*
+
+[Event "Advanced-2"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+[__replace_game__ "0"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 (4.c3 Nc6) 4...Nc6 5.Nf3 Bg4 6.Be3 (6.Be2 e6
+7.O-O (7.Be3 Nge7 8.O-O (8.h3 Bxf3 9.Bxf3 Nxe5) 8...Nf5) (7.Bf4 Nge7 8.O-O Ng6
+9.Be3) 7...Bxc5) 6...e6
+*
+
+[Event "Exchange"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5
+*
+
+[Event "Exchange"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+[__replace_game__ "2"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Nf3 Nc6 5.Be2 Nf6 6.O-O Bf5
+*
+
+[Event "Exchange"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+[__replace_game__ "2"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Nf3 Nc6 5.Be2 Nf6 6.O-O Bf5 7.Nc3 e6
+*
+
+[Event "Exchange"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+[__replace_game__ "2"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Nf3 Nc6 5.Be2 Nf6 6.O-O Bf5 (6...Bg4) 7.Nc3 e6
+*
+
+[Event "Exchange"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+[__replace_game__ "2"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Nf3 Nc6 5.Be2 Nf6 6.O-O Bf5 (6...Bg4 7.Nc3 e6)
+7.Nc3 e6
+*
+
+[Event "Exchange"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+[__replace_game__ "2"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Nf3 Nc6 5.Be2 Nf6 6.O-O Bf5 (6...Bg4 7.Nc3 e6)
+7.Nc3 (7.h3 e6 8.Nc3 Bd6) 7...e6
+*
+
+[Event "Exchange-2"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6
+*
+
+[Event "Excgange-knight"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6
+*
+
+[Event "Excgange-knight"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+[__replace_game__ "4"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 (4...Nf6 5.Nxf6+ exf6) 5.Ng3 Bg6 6.h4 h6
+*
+
+[Event "Game-1"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+
+*
+
+[Event "Game-1"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+[__replace_game__ "5"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bg4 6.Be2 e6 7.O-O Nge7 8.h3 Bxf3 9.Bxf3
+Nf5
+*
+
+[Event "Game-1"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+[__replace_game__ "5"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bg4 6.Be2 e6 7.O-O Nge7 8.h3 Bxf3 9.Bxf3
+Nf5 10.Be3 Qb6
+*
+
+[Event "Game-1"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+[__replace_game__ "5"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bg4 6.Be2 e6 7.O-O Nge7 8.h3 Bxf3 9.Bxf3
+Nf5 10.Be3 Qb6 11.b3
+*
+
+[Event "Game-1"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+[__replace_game__ "5"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bg4 6.Be2 e6 7.O-O Nge7 8.h3 Bxf3 9.Bxf3
+Nf5 10.Be3 Qb6 11.b3 cxd4 12.cxd4 Ncxd4 13.Bxd4 Qxd4 14.Qxd4 Nxd4
+*
+
+[Event "Game-1"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+[__replace_game__ "5"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bg4 6.Be2 e6 7.O-O Nge7 8.h3 Bxf3 9.Bxf3
+Nf5 10.Be3 Qb6 11.b3 cxd4 12.cxd4 Ncxd4 13.Bxd4 Qxd4 14.Qxd4 Nxd4 15.Nd2 Bb4
+16.Rad1
+*
+
+[Event "Game-1"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+[__replace_game__ "5"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bg4 6.Be2 e6 7.O-O Nge7 8.h3 Bxf3 9.Bxf3
+Nf5 10.Be3 Qb6 11.b3 cxd4 12.cxd4 Ncxd4 13.Bxd4 Qxd4 14.Qxd4 Nxd4 15.Nd2 Bb4
+16.Rad1 Nc6
+*
+
+[Event "Game-1"]
+[Site ""]
+[Date "2024.01.22"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+[__replace_game__ "5"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bg4 6.Be2 e6 7.O-O Nge7 8.h3 Bxf3 9.Bxf3
+Nf5 10.Be3 Qb6 11.b3 cxd4 12.cxd4 Ncxd4 13.Bxd4 Qxd4 14.Qxd4 Nxd4 15.Nd2 Bb4
+16.Rad1 Nc6 17.Rfe1 Bc3 18.a3 Nxe5 19.b4 Nxf3+ 20.gxf3 Ke7 21.Re2 Rac8 22.Rc1
+Bxd2 23.Rxc8 Rxc8 24.Rxd2 Rc3 25.a4 Rxf3 26.Kg2 Rb3 27.b5 Kd6 28.h4 f5 29.f3 e5
+30.Kg3 f4+ 31.Kg4 h5+ 32.Kxh5 Rxf3 33.Kg4 Ra3 34.Kf5 Rxa4 35.Re2 f3 36.Rxe5 f2
+*
+

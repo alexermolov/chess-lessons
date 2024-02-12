@@ -1,0 +1,121 @@
+[Event "Win00"]
+[Site ""]
+[Date "2024.02.07"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "8/3k4/8/3P3n/2KB4/8/8/8 w - - 0 1"]
+
+*
+
+[Event "Win01"]
+[Site ""]
+[Date "2024.02.07"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "3k3n/8/2BPK3/8/8/8/8/8 w - - 0 1"]
+
+*
+
+[Event "Draw01"]
+[Site ""]
+[Date "2024.02.07"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "4k3/8/3PK3/n2B4/8/8/8/8 w - - 0 1"]
+
+*
+
+[Event "Win02"]
+[Site ""]
+[Date "2024.02.07"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "3n1k2/3P4/5K2/8/8/3B4/8/8 w - - 0 1"]
+
+*
+
+[Event "50-50-01"]
+[Site ""]
+[Date "2024.02.07"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "2K5/3P4/2nk4/8/8/2B5/8/8 w - - 0 1"]
+
+*
+
+[Event "50-50-02"]
+[Site ""]
+[Date "2024.02.07"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "K7/1P6/nk6/8/8/B7/8/8 w - - 0 1"]
+
+*
+
+[Event "Win03"]
+[Site ""]
+[Date "2024.02.07"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "n6k/8/8/6P1/3K4/3B4/8/8 w - - 0 1"]
+
+*
+
+[Event "Draw01"]
+[Site ""]
+[Date "2024.02.07"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "8/8/2N5/2k5/K1b5/1p6/8/8 w - - 0 1"]
+
+*
+
+[Event "Draw02"]
+[Site ""]
+[Date "2024.02.07"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "8/8/2bP4/2N1K3/8/8/8/7k w - - 0 1"]
+
+*
+
+[Event "Draw"]
+[Site ""]
+[Date "2024.02.07"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "8/8/8/8/8/bP6/N1K5/7k w - - 0 1"]
+
+*
+
+[Event "Win"]
+[Site ""]
+[Date "2024.02.07"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "k3b3/2K5/3P4/8/8/2N5/8/8 w - - 0 1"]
+
+*
+
