@@ -1,0 +1,124 @@
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 g6 4.e4 Bg7 5.Bd3 O-O 6.Nge2 
+    {[%draw arrow,f2,f4,green]}
+6...Nc6 
+    {[%draw arrow,e7,e5,green] [%draw arrow,c6,e5,green]}
+7.O-O Nd7 
+    {[%draw arrow,e7,e5,green] [%draw arrow,f7,f5,green]}
+8.Be3 e5 9.Bc2 
+    {[%draw arrow,d1,d4,green]}
+9...exd4 10.Nxd4 Nde5 
+    {[%draw arrow,e5,c4,green]}
+11.Bb3 Na5 
+    {[%draw arrow,a5,c4,green] [%draw arrow,e5,c4,green]}
+12.Qe2 c5 13.Ndb5 a6 14.Na3 Nec6 
+    {[%draw arrow,c6,d4,green]}
+15.Qd2 Be6 16.Rfd1 Qh4 17.Qxd6 Be5 18.g3 Qh3 19.Qxc5 Rab8 
+    {[%draw arrow,b7,b6,green]}
+20.Nc2 b6 21.Qa3 
+    {[%draw arrow,c3,d5,green]}
+21...Bxc3 22.bxc3 Ne5 
+    {[%draw arrow,e5,f3,green]}
+23.Ne1 Naxc4 24.Qc1 Ng4 25.Nf3 Nce5 26.Nxe5 Nxe5 27.f4 Nf3+ 28.Kf2 Qxh2+ 
+29.Kf1 
+    ( 29.Kxf3 Bg4+ 30.Kxg4 Qh5# )
+29...Bh3# *
+
+[Event "Game2"]
+[Site ""]
+[Date "2024.03.19"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 Bg7 4.Bg2 d6 5.d4 O-O 6.Nf3 Nbd7 
+    {[%draw arrow,e7,e5,green] [%draw arrow,c7,c5,green]}
+7.O-O e5 8.e4 c6 
+    {[%draw arrow,c3,d5,green]}
+9.Re1 
+    {[%draw arrow,e1,e4,green]}
+9...Qb6 
+    {[%draw arrow,b6,d4,green] [%draw arrow,b6,b2,green]}
+10.Na4 Qc7 11.b3 b5 12.Nb2 exd4 13.Nxd4 Bb7 14.cxb5 c5 15.Nc2 Rfe8 16.Nc4 
+Nxe4 17.Bxe4 Rxe4 18.Bb2 Rxe1+ 19.Nxe1 Bxb2 20.Nxb2 Re8 21.Rc1 Rxe1+ 
+    {[%draw arrow,e1,f3,green] [%draw arrow,e1,g2,green]}
+22.Qxe1 Ne5 23.Qe3 Qd7 24.f4 Qh3 25.Qe2 Nf3+ 26.Kf2 Qxh2+ 27.Ke3 Qxg3 28.
+Qf2 Qh3 29.Nd3 Ng5+ 30.Ke2 Bf3+ 31.Ke1 Ne4 32.Qf1 Qh4+ 33.Nf2 Qxf4 
+    {[%draw arrow,f4,d2,green] [%draw arrow,e4,d2,green]}
+34.Rd1 
+    ( 34.Rc2 Qe3+ 35.Re2 Qc3+ 36.Kd1 Qd2# )
+34...Qe3+ 35.Qe2 Qxe2# *
+
+[Event "Game3"]
+[Site ""]
+[Date "2024.03.19"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 
+9.b4 Nh5 10.c5 b6 11.g3 f5 12.Nd2 Nf6 13.f3 g5 14.Nc4 f4 15.g4 h5 16.h3 
+Ng6 17.Rf2 Rf7 
+    {[%draw arrow,f7,h7,green] [%draw arrow,f2,h2,green]}
+18.a4 Bf8 19.Ba3 Rh7 20.Bf1 Nh4 21.Raa2 Nxf3+ 22.Rxf3 hxg4 23.hxg4 Bxg4 
+    {[%draw arrow,g4,d1,green]}
+24.Rg2 Bxf3 25.Qxf3 g4 26.Qe2 Rg7 27.Qe1 g3 28.Be2 Nh7 29.Nd2 Qh4 30.Nf3 
+Qh3 31.Bf1 Nf6 32.Rd2 Qh5 33.Qe2 Ng4 34.Bg2 Nh2 35.Nxh2 Qxh2+ 36.Kf1 f3 
+37.Bxf3 Rf7 38.Qxh2 gxh2 39.Kg2 Rxf3 
+    {[%draw arrow,f3,c3,green] [%draw arrow,g2,h1,green]}
+*
+
+[Event "Game4"]
+[Site ""]
+[Date "2024.03.19"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Bd3 O-O 6.Nge2 Nc6 7.O-O Nd7 8.Be3 e5
+9.Bc2 
+    {[%draw arrow,d1,d4,green]}
+9...exd4 10.Nxd4 Nde5 
+    {[%draw arrow,e5,c4,green]}
+11.Bb3 Na5 12.Qe2 c5 13.Ndb5 a6 14.Na3 Nec6 15.Qd2 Be6 16.Rfd1 Qh4 17.Qxd6
+Be5 18.g3 Qh3 19.Qxc5 Rab8 
+    {[%draw arrow,b7,b6,green]}
+20.Nc2 b6 21.Qa3 Bxc3 22.bxc3 Ne5 23.Ne1 Naxc4 24.Qc1 Ng4 25.Nf3 Nce5 26.
+Nxe5 Nxe5 27.f4 Nf3+ 28.Kf2 Qxh2+ 29.Kf1 
+    ( 29.Kxf3 Bg4+ 30.Kxg4 Qh5# )
+29...Bh3# *
+
+[Event "Game5"]
+[Site ""]
+[Date "2024.03.19"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 e5 7.O-O Nc6 8.Be3 Ng4 
+9.Bg5 f6 10.Bc1 f5 11.dxe5 Ngxe5 12.exf5 Bxf5 13.Be3 Qf6 14.Rc1 Rae8 15.b3
+h6 16.Qd2 g5 17.Nd4 Nxd4 18.Bxd4 g4 19.Kh1 Qg6 20.Rg1 Qh5 21.Nd5 Be4 22.
+Nxc7 Nf3 23.gxf3 Rxf3 24.Rg2 Qh3 25.Rcg1 Re5 26.Bxf3 
+    ( 26.Bxe5 Bxe5 { [%draw arrow,e5,h2,green] [%draw arrow,h3,h2,green]} 
+    )
+26...Bxf3 27.Bxe5 Bxe5 28.Qd5+ Kh8 29.Qxe5+ 
+    ( 29.Qxf3 gxf3 30.Rg8+ Kh7 31.R8g3 Bxg3 32.Rxg3 
+        ( 32.fxg3 f2 33.Rg2 f1=Q+ )
+    32...Qf1+ )
+29...dxe5 *
+
