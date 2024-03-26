@@ -1,0 +1,17 @@
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.d4 d5 2.c4 c6 3.cxd5 cxd5 4.Nc3 e6 5.Nf3 Nc6 6.g3 Bb4 7.Bg2 Nf6 8.O-O h6
+9.Re1 Bxc3 10.bxc3 O-O 11.Qc2 Re8 12.Bf4 Nd7 13.Ne5 
+    ( 13.e4 {такой ход дает больше преимущест 
+    белым} 13...dxe4 14.Qxe4 Nf6 15.Qd3 Nd5 16.Bd2 )
+13...Ndxe5 14.Bxe5 Nxe5 15.dxe5 f6 16.exf6 Qxf6 17.Rad1 Kh8 18.e4 Qg6 19.
+Qe2 b6 20.exd5 exd5 21.Qxe8+ Qxe8 22.Rxe8+ Kh7 23.Bxd5 Bg4 24.Be4+ g6 25.
+Rxa8 Bxd1 26.Rxa7+ Kg8 27.Bd5+ Kf8 28.Ra6 b5 29.Rxg6 Ke8 30.Rxh6 b4 31.
+cxb4 Ba4 *
+
