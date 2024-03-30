@@ -1,0 +1,40 @@
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.d4 g6 2.c4 Bg7 3.Nc3 c5 4.d5 Bxc3+ 5.bxc3 f5 6.Nf3 Nf6 7.g3 b6 8.Bg2 Ba6
+    { [%draw arrow,d5,d6,green] [%draw arrow,b8,c6,green] [%draw 
+    arrow,c6,a8,green]}
+9.Nd2 O-O 10.O-O d6 
+    { [%draw arrow,b8,d7,green]}
+11.Re1 Nbd7 12.e4 fxe4 13.Nxe4 
+    { [%draw arrow,e4,g5,green] [%draw arrow,g5,e6,green]}
+13...Nxe4 14.Bxe4 
+    ( 14.Rxe4 Ne5 { [%draw arrow,e5,c4,green] [%draw arrow,a6,c4,green]} )
+14...Bxc4 15.Bg5 
+    { [%draw arrow,e1,e7,green] [%draw arrow,g5,e7,green]}
+15...Nf6 16.Bd3 
+    { [%draw arrow,d1,d5,green]}
+16...Bxd5 
+    { [%draw arrow,d3,g6,green]}
+17.c4 Bc6 18.Qd2 Qd7 
+    { [%draw arrow,d7,h3,green] [%draw arrow,h3,g2,green]}
+19.Bf1 Ne4 
+    { [%draw arrow,e4,d2,green] [%draw arrow,e4,g5,green] [%draw 
+    arrow,c6,e4,green]}
+20.Qe3 Nxg5 21.Qxg5 Rf7 
+    { [%draw arrow,a8,f8,green] [%draw arrow,f7,f2,green]}
+22.Re2 Raf8 
+    { [%draw arrow,a1,e1,green] [%draw arrow,e7,e5,green]}
+23.Bg2 Bxg2 24.Kxg2 Rf5 
+    { [%draw arrow,g5,e7,green]}
+25.Qxe7 Rxf2+ 
+    { [%draw arrow,g2,g1,green]}
+26.Rxf2 Qxe7 27.Rxf8+ Qxf8 28.Rf1 Qxf1+ 29.Kxf1 Kf7 30.Ke2 Ke6 31.Ke3 d5 
+32.cxd5+ Kxd5 33.Kd3 b5 34.Kc3 a5 35.a3 b4+ 36.axb4 axb4+ 37.Kb3 Kd4 38.
+Ka4 Kc3 39.h4 b3 40.Ka3 b2 41.Ka2 Kc2 42.Ka3 b1=Q 43.g4 Qb3# *
+
