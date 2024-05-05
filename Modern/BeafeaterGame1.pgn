@@ -1,0 +1,30 @@
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.d4 g6 2.c4 Bg7 3.Nc3 c5 4.d5 Bxc3+ 5.bxc3 f5 6.Bf4 Nf6 7.e3 O-O 
+    { [%draw arrow,f8,f6,green]}
+8.Nf3 d6 9.Qb3 Qa5 10.Bg5 
+    { [%draw arrow,f6,e4,green] [%draw arrow,g5,e7,green]}
+10...Ne4 11.Rc1 Nxg5 12.Nxg5 a6 
+    { [%draw arrow,b7,b5,green]}
+13.Be2 b5 14.O-O h6 15.Ne6 Bxe6 16.dxe6 Nc6 
+    { [%draw arrow,b3,g8,green]}
+17.cxb5 axb5 18.Bxb5 Ne5 
+    { [%draw arrow,a5,a2,green]}
+19.Rfd1 Qxa2 20.Qxa2 Rxa2 21.f4 Ng4 
+    { [%draw arrow,g4,e3,green]}
+22.h3 Nxe3 23.Re1 Nxg2 
+    { [%draw arrow,g2,f4,green]}
+24.Re2 Rxe2 25.Bxe2 Nxf4 
+    { [%draw arrow,f4,h3,green] [%draw arrow,f4,e2,green]}
+26.Kf2 Nxh3+ 27.Kg3 Ng5 
+    { [%draw arrow,g5,e6,green] [%draw arrow,e2,c4,green] [%draw 
+    arrow,c4,e6,green] [%draw arrow,g5,e4,green] [%draw arrow,e4,c3,green]
+    }
+28.Ra1 Nxe6 29.Bc4 Rf6 30.Ra7 Kf7 31.Bxe6+ Rxe6 32.c4 Re4 *
+

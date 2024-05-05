@@ -1,0 +1,18 @@
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.d4 g6 2.c4 Bg7 3.Nf3 c5 4.Be3 Nc6 5.Qd2 cxd4 6.Nxd4 Nf6 7.Bh6 Bxh6 8.
+Qxh6 Nxd4 9.Qd2 Nc6 10.Nc3 O-O 11.f3 e5 12.e4 Nd4 13.Nb5 Nxb5 14.cxb5 d5 
+15.O-O-O d4 16.Kb1 Be6 { [%draw arrow,e6,a2,green] [%draw arrow,a8,a2,green]} 
+17.h4 a6 18.g4 axb5 { [%draw arrow,a8,a2,green] [%draw arrow,e6,a2,green]} 
+19.Bxb5 Bxa2+ { [%draw arrow,b1,a1,green] [%draw arrow,a2,b3,green] [%draw arrow,b3,d1,green]} 
+20.Kc1 Rc8+ {[%draw arrow,b1,d3,green]} 21.Qc2 Rxc2+ 22.Kxc2 Qa5 23.Bd3 Rc8+ 
+24.Bc4 Rxc4+ 25.Kd3 Rc3+ 26.bxc3 Qxc3+ 27.Ke2 Qe3+ 28.Kf1 Qxf3+ 
+29.Ke1 {[%draw arrow,f3,h1,green]} 29...Nxe4 30.Rh2 Qg3+ 31.Ke2 Bc4+ 
+32.Rd3 Qxd3+ 33.Ke1 Qf1#
+
