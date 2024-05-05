@@ -1,0 +1,4948 @@
+﻿[Event ">=1 Копенгаген"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Петросян"]
+[Black "Ларсен"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2nr2k1/1pq1bppp/p1p5/2p1P1PQ/2P1NP2/1PNR4/P6P/6K1 w - - 0 1"]
+[PlyCount "21"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} {Жертвой коня белые на~~инаo^т форсированнуo^ игру, расскрывая
+~~ерного короля} 1. Nf6+ $1 gxf6 ({Плохо также} 1... Bxf6 2. gxf6 Rxd3 3. Qg5
+Kf8 4. Qxg7+ Ke8 5. Qg8+ Kd7 6. Qxf7+ Kd8 7. Qg8+ Kd7 8. e6+ Kd6 9. Ne4#) 2.
+Rh3 Kf8 3. Qxh7 Ke8 4. g6 Bf8 ({Или} 4... fxg6 5. Qxg6+ Kd7 6. Qf5+ Ke8 7. Qe6
+Kf8 8. Rh7) 5. g7 Bxg7 6. Qxg7 Qe7 7. Ne4 Rd1+ 8. Kf2 f5 9. Nf6+ {~~ерные
+сдались} Kd8 10. Rh8+ Kc7 11. Re8 {с выигрышем ферзя} 1-0
+
+[Event ">=2 Харьков"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Вол~~ок"]
+[Black "Н.Левин"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp3ppp/2n1p3/2PpPn2/1b4Q1/2NB4/PPPB1PPP/R3K1NR w Q - 0 1"]
+[PlyCount "28"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. O-O-O {Приводит к интересным осложнениям, такуo^ игру
+называo^т острой.} ({Спокойнее было} 1. Nf3) 1... d4 2. Bxf5 {Единственное,
+ина~~е 2...К:е5} exf5 3. Qg3 Re8 ({Коне~~но нельзя} 3... dxc3 4. Bh6 cxb2+ 5.
+Kxb2 {и ~~ерные вынуждены отдать ка~~ество} Bc3+ 6. Kxc3 Qa5+ 7. Kb2 g6 8. Bxf8
+) 4. Bg5 f4 ({Плохо} 4... Qa5 5. Bh6 g6 6. Qh4 {грозит7.Фf6 и 8.Фg7x} Re6 ({На
+} 6... Bxc5 {белые отве~~аo^т} 7. Nd5 {сохраняя атакуo^щее положение}) 7. Nd5 {
+и теперь нельзя} Qxa2 {из-за} 8. Nxb4) 5. Bxf4 Bf5 {><ерные грозят путем Фа5 и
+Лас8 полу~~ить выиграшнуo^ позициo^} ({Если} 5... Qa5 6. Bh6 g6 {полу~~аo^тся
+варианты рассмотренные в приме~~аниях к предыдущему ходу}) ({Не проходило} 5...
+Bxc3 6. bxc3 Qa5 {из-за} 7. cxd4 Qxa2 8. Qc3) 6. Nge2 ({Теперь на} 6. Bh6 {
+~~ерные могут играть} Bg6) 6... Qa5 7. Nxd4 Nxd4 8. Rxd4 Qxc5 ({Если} 8... Bxc5
+{то} 9. Rd5 {и нельзя} Be6 {из-за} 10. Bh6 g6 11. Ne4 {в слу~~ае} Bxd5 {решает}
+12. Nf6+ Kh8 13. Qh4) 9. Rhd1 Rac8 {Позиция ~~ерных выглядит подавляo^щей.
+Сей~~ас грозит 10...С:с3 11.Ф:с3 Фh5 и белым впору сдаваться} 10. e6 Bxc3 11.
+Qxc3 ({Нельзя} 11. exf7+ Kxf7 12. Qxc3 Qxc3 13. bxc3 Rxc3 14. R1d2 Rec8 {
+и ~~ерные полу~~аo^т шансы на выигрыш ввиду неуда~~ного положения белого короля
+}) 11... Qxc3 ({Нельзя} 11... Qb5 12. Qxc8 Rxc8 13. Rd8+ Qe8 14. e7 (14. Rxe8+
+Rxe8 15. e7)) 12. bxc3 Rxc3 {Здесь партнеры согласились на ни~~ьo^} 13. R1d2 {
+Поэтому ~~ерные сыграo^т} Bxe6 ({После} 13... fxe6 14. Kb2 Rec8 15. Rd8+ Kf7
+16. Rxc8 Rxc8 17. c3 {с лу~~шим эндшпилем}) 14. Kb2 Rcc8 {после ~~его позиция
+уравнивается} 1/2-1/2
+
+[Event ">=3 Мар-дель-Плата"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Векслер"]
+[Black "Базан"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6k1/p4p1p/2q2p2/3r4/6P1/P4Q1b/1P3P1P/4R1KR b - - 0 1"]
+[PlyCount "1"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} {Вскрытое нападение} 1... Rd1 $1 {Белые сдались} 0-1
+
+[Event ">=4 Москва"]
+[Site "?"]
+[Date "1943.??.??"]
+[Round "?"]
+[White "Равинский"]
+[Black "Панов"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r1kb1r/q2n1ppp/p3p3/1p2n3/5N2/6P1/1PP1QPBP/2BR1RK1 w - - 0 1"]
+[PlyCount "41"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxd7 {ввиду угрозы 2.Ф:е6 следуo^щий ход ~~ерных вынужден}
+Nxd7 2. Nxe6 fxe6 3. Qxe6+ {снова угроза 3.К:g7++ Белые преследуo^т цель с
+помощьo^ жертв раскрыть позициo^ ~~ерного короля и закон~~ить партиo^
+решаo^щей матовой атакой} Be7 ({Проигрывало} 3... Kd8 4. Bg5+ Kc7 5. Qc6+ Kb8
+6. Bf4+ Rc7 7. Bxc7+ Qxc7 8. Qa8#) 4. Re1 {Угрожая 5.Ф:е7х. При проведении
+форсированной операции, особенно после применения жертв, большое зна~~ение
+имеет правильный порядок ходов, так например ошибо~~ным сей~~ас был бы
+напрашиваo^щийся ход 4.Сg5? из-за 1...Фс5 и белым нужно думать о защите своего
+слона} Qc5 5. b4 Nf8 ({После} 5... Qxb4 6. Bg5 {~~ерные беззащитны}) 6. Qg4 Qc3
+7. Rxe7+ $1 {наконец фигуры и пешки, принимавшие непосредственное у~~астие в
+защите ~~ерного короля истреблены. Успех операции теперь зависит от того
+удастся ли белым оставшимися фигурами поставить мат} Kxe7 8. Bg5+ Kd6 ({Или} 
+8... Ke8 9. Qe2+ Kf7 10. Bd5+ Kg6 11. Qe4+ {с матом}) 9. Qd1+ Kc7 10. Bf4+ Kb6
+11. Qd6+ Ka7 12. Qe7+ Rc7 ({Если} 12... Kb6 13. Qb7#) 13. Bxc7 {угрожая 14.
+Сb6++ с матом или 14.Фb7х} Qa1+ 14. Bf1 Ng6 15. Qc5+ Kb7 16. Ba5 Rf8 ({Не
+спасало} 16... Rc8 17. Qb6+ Ka8 18. Qxa6+ Kb8 19. Bc7+) 17. Qb6+ Ka8 18. Qc6+ {
+><ерные сдались так как полу~~аo^т мат} Ka7 ({Или} 18... Kb8 19. Bc7+ Kc8 20.
+Bb6+) 19. Bb6+ Kb8 20. Qc7+ Ka8 21. Qa7# 1-0
+
+[Event ">=5 Вена"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Зита"]
+[Black "Бронштейн"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5rk1/2p3qp/1p1p1r2/p2R4/2P5/PPKQP3/8/3R4 b - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} {><ерные добиваo^тся быстрой победы благодаря, тому, ~~то им
+удается совершить два хода с темпом} 1... c6 2. Rd4 ({Других ходов нет.
+Например} 2. Rh5 Rf5+) (2. Rxd6 Rxd6+ {в обоих слу~~аях с выиграшем ладьи})
+2... c5 3. Rd5 Rf2+ {Белые сдались} 0-1
+
+[Event ">=6 Казань"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Борисенко"]
+[Black "Белов"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1q3b2/3p1pk1/2n2N1p/1r1QP3/1p3B2/1P5P/6P1/R5K1 w - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bxh6+ $1 Kxh6 ({Не спасает} 1... Kh8 2. Qxf7) 2. Qd2+ Kg6 ({
+Или} 2... Kg7 3. Qg5+ Kh8 4. Qg8#) 3. Qd3+ Kg5 ({Не избегаo^т поражения
+~~ерные и после} 3... Kh6 4. Qe3+ Kg6 5. Qe4+ Kh6 6. Qh4+ Kg6 7. Qh5+ Kg7 8.
+Qh7#) 4. h4+ Kf4 (4... Kxh4 5. Qe4+ Kg5 (5... Kg3 6. Qg4#) 6. Qg4+) 5. Qe4+ Kg3
+6. Nh5# 1-0
+
+[Event ">=7 Блед"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Алехин"]
+[Black "Флор"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r2k1/7p/bq2p1p1/p1R1Pp2/Pp5P/4QB2/1P3PP1/6K1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rc8 $1 {><ерные сдались. После} Qxe3 {и белых находится
+промежуто~~ный ход} 2. Rxd8+ Kf7 {и затем} 3. fxe3 {с лишней фигурой} 1-0
+
+[Event ">=8 Гамбург"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Штальберг"]
+[Black "Алехин"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5rk1/1b4p1/1p1p3p/4p1q1/1PPn1r2/4QP2/5RPP/3RNB1K b - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rxf3 $1 {Белые сдались. Если теперь} 2. Qxg5 {то сна~~ала
+с угрозой мата} Rxf2 $1 3. Nf3 hxg5 0-1
+
+[Event ">=9 Гастингс"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Ботвинник"]
+[Black "Мен~~ик"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2rnk2/5ppp/pp2P3/4P3/3N4/Pb4P1/1P3K1P/2RR4 w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. e7+ $1 {><ерные сдались, потому ~~то на} Kxe7 {следует} 2.
+Nc6+ {с выиграшем ладьи} 1-0
+
+[Event ">=10 Штутгарт"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Таль"]
+[Black "NN"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r1k3/1p1bppb1/p2p1np1/q3n1P1/3NP3/2N1BP2/PPPQB3/1K1R3r w - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. gxf6 $1 {Создавая в дополнение к 2.Л:h1 и новуo^ угрозу 2.fg
+} Rxd1+ {коли~~ество угроз не уменьшается. Кроме 3.fg, грозит и 3.Ф:а5} 2. Nxd1
+$1 {опять две угрозы 4.g8Фх и 4.С:d2} Qxd2 3. fxg7 $1 Be6 4. g8=Q+ Kd7 5. Qxc8+
+Kxc8 6. Bxd2 {><ерные сдались.} 1-0
+
+[Event ">=11 Фрунзе"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Устинов"]
+[Black "Иливицкий"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2Q5/2n1qkp1/p6p/1pPpP1P1/1P1N1K2/P7/8 w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. g5+ $1 {><ерные сдались ввиду мата} Kxg5 2. Qf4# 1-0
+
+[Event ">=12 Вена"]
+[Site "?"]
+[Date "1910.??.??"]
+[Round "?"]
+[White "Рети"]
+[Black "Тартаковер"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rnb1kb1r/pp3ppp/2p5/4q3/4n3/3Q4/PPPB1PPP/2KR1BNR w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qd8+ Kxd8 2. Bg5+ Kc7 ({или} 2... Ke8 3. Rd8#) 3. Bd8# 1-0
+
+[Event ">=13 Фрунзе"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Каталымов"]
+[Black "Иливицкий"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rnb1k2r/pp2b1pp/2p2pn1/q3P2Q/5p2/PB6/1BPP2PP/RN2K1NR w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bf7+ $1 {><ерные сдались. Они теряo^т фигуру} Kxf7 (1... Kf8
+2. Bxg6) 2. e6+ Bxe6 3. Qxa5 1-0
+
+[Event ">=14 Москва"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Спасский"]
+[Black "Аверкин"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r3k1/4bppp/1r2p3/qb6/5B2/2N3R1/PP4PP/2R1Q2K w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bc7 $1 Rxc7 2. Qe5 {Грозит мат. ><ерные выбираo^т меньшее
+из зол.} g6 3. Qxc7 {и белые реализовали свой перевес} 1-0
+
+[Event ">=16 Петрополис"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Мекинг"]
+[Black "Тан"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r2k1/pRp2p2/6pQ/5b2/2B5/2qP2P1/P6P/6K1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bxf7+ $1 Kxf7 2. Rxc7+ $1 Qxc7 3. Qh7+ Ke6 4. Qxc7 {и белые
+выиграли} 1-0
+
+[Event ">=17 o/oгославия"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Матанови~~"]
+[Black "Соколов"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5bk1/1bqn1r1p/p3Q1p1/4p3/1PN1Pp2/P1N4P/5PP1/2BR2K1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qxf7+ Kxf7 2. Rxd7+ Qxd7 3. Nxe5+ Ke6 4. Nxd7 Kxd7 5. Bxf4 {
+и ~~ерез три хода ~~ерные сдались} 1-0
+
+[Event ">=18 Ростов-на-Дону"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Каталымов"]
+[Black "Банник"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6k1/1p4n1/3N1Q2/B1pP2Pb/P1P1K3/8/5q2/8 b - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Bg6+ 2. Qxg6 Qc2+ 3. Ke5 Qxg6 {и ~~ерные выиграли} 0-1
+
+[Event ">=19 Карлсбад"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Видмар"]
+[Black "Эйве"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6k1/5pb1/1p1N3p/p5p1/5q2/Q6P/PPr5/3RR1K1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Re8+ Bf8 (1... Kh7 2. Qd3+) 2. Rxf8+ $1 {завлекая короля
+под вскрытый шах, ~~то приносит выигрыш важного темпа} Kxf8 3. Nf5+ Kg8 4. Qf8+
+$1 {и мат следуo^щим ходом} Kxf8 (4... Kh7 5. Qg7#) 5. Rd8# 1-0
+
+[Event ">=20 Йошкар-Ола"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Ру~~кин"]
+[Black "Коскин"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7k/pp4rn/8/4Q3/2P3q1/1P5b/P5B1/4RRK1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Re2 Bxg2 2. Qxg7+ Qxg7 (2... Kxg7 3. Rxg2) 3. Re8+ {><ерные
+сдались.} 1-0
+
+[Event ">=21 Москва"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Гусев"]
+[Black "Ха~~атуров"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4r3/3R3p/6pk/p7/4nN2/4q1PP/Q6K/8 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxh7+ $1 {><ерные сдались, так как полу~~аo^т мат} Kxh7 (
+1... Kg5 2. Qd5+ Kf6 3. Rf7#) 2. Qf7+ Kh8 (2... Kh6 3. Qxg6#) 3. Nxg6# 1-0
+
+[Event ">=22 Штребек"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Гайсерт"]
+[Black "Штарк"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4r1k1/pp2bpp1/2p2n2/q7/3P3R/8/PPQ2PP1/R1B2K2 b - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Qe1+ $1 {Белые сдались из-за мата} 2. Kxe1 Bb4+ 3. Kf1
+Re1# 0-1
+
+[Event ">=23 Со~~и"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Бронштейн"]
+[Black "NN"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b1kb1r/ppp2ppp/2n2n2/6B1/Q3q3/8/PPP2PPP/2KR1BNR w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} {><ерные сдались, так как после} 1. Rd8+ $1 Kxd8 2. Qxe4 {
+они остаo^тся без ферзя} 1-0
+
+[Event ">=24 Берн"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Алехин"]
+[Black "Флор"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b3k1/pp1r2pp/3qp3/B7/3b1p2/5B2/PP2QPPP/2RR2K1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxd4 $1 Qxd4 2. Qxe6+ Rf7 ({Плохо} 2... Kf8 3. Re1 {с
+угрозой мата на е8} g6 4. Qe8+ Kg7 5. Bc3) 3. Rxc8+ Rxc8 4. Qxc8+ Rf8 5. Qxb7
+1-0
+
+[Event ">=25 Москва"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "o/oрков"]
+[Black "Гусев"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2rr4/p5pp/bp1Q1n1k/3pR2B/3P2Pq/B2P4/P6P/5RK1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qxd8 Rxd8 2. Bc1+ g5 3. Rxg5 Nxg4 (3... Qxg5 4. Rxf6+ Kg7 5.
+Bxg5) 4. Rg8+ {><ерные сдались} 1-0
+
+[Event ">=26 ><ССР"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Блатной"]
+[Black "Ковалек"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r3k1/pp2n3/6pQ/4q3/8/2P1p1P1/P5BP/3R2K1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bd5+ Nxd5 2. Qxg6+ Kh8 ({Не меняло дела} 2... Kf8 3. Rf1+
+Ke7 4. Rf7+ Kd8 5. Qg8+ Qe8 6. Rf8) (2... Qg7 3. Qe6+) 3. Rd4 Qxd4 4. cxd4 {
+><ерные сдались} 1-0
+
+[Event ">=27 Со~~и"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Владимиров"]
+[Black "Бобоцов"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5k2/pp3pb1/3p1N2/2pP1r2/2P4Q/2B5/PP2q2P/6RK w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qh8+ {><ерные сдались} Bxh8 2. Rg8+ Ke7 3. Re8# 1-0
+
+[Event ">=28 Петрозаводск"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Доммес"]
+[Black "o/oдови~~ мл."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3q1r2/3N3Q/br1p2p1/n5k1/1p3nP1/1P5P/P4PB1/2R1R1K1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rc5+ dxc5 2. Re5+ Rf5 3. Rxf5+ gxf5 4. h4+ {><ерные сдались.
+На} Kxg4 {следует} 5. Ne5# 1-0
+
+[Event ">=29 Межд. турнир ЦШК"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Полугаевский"]
+[Black "Силади"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2r4/1p1R3p/5p1k/b1B1Pp2/p4P2/P7/1P5P/1K4R1 w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bf8+ Rxf8 2. Rd3 {><ерные сдались, потому ~~то от 3.Лh3х
+защиты нет} 1-0
+
+[Event ">=30 Венгрия"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Дожа"]
+[Black "Титкос"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1rb2r1k/1n4qp/p2p2p1/2pB2P1/2P2P2/8/P2Q3R/3NR1K1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Re7 Qxe7 2. Qb2+ Rf6 (2... Qg7 3. Rxh7+ Kxh7 4. Qh2+) 3.
+gxf6 Qe1+ 4. Kg2 {><ерные сдались} 1-0
+
+[Event ">=31 Лондон"]
+[Site "?"]
+[Date "1189.??.??"]
+[Round "?"]
+[White "Джексон"]
+[Black "Маршалл"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/p1p3k1/2p3P1/2b1rp2/5B1K/2P3PP/P1P2r2/3R3R b - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Kxg6 {с угрозами 2...Се7+ и 2...Л:f4 3.gf Cf2x} 2. Bg5
+Rf4+ {Белые сдались} 0-1
+
+[Event ">=32 Рига"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Пан~~енко"]
+[Black "Ко~~иев"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1r3k1/1p1bnp1p/p2p2pQ/q5P1/3Bp3/1P4R1/1PP1KP1P/3R4 b - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} {ладья отвлекается от наме~~енного маршрута} 1... Bg4+ $1 (1...
+Nf5 $2 2. Qxh7+ Kxh7 3. Rh3+) 2. Rxg4 Nf5 {теперь линия h недоступна для ладьи}
+3. Qh3 {Белые фигуры отброшены назад. Теперь следует быстрая развязка} Rxc2+ 4.
+Kf1 Qb5+ {Белые сдались. После} 5. Kg1 Qe2 {они теряли фигуру} 0-1
+
+[Event ">=33 Венв"]
+[Site "?"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Мейтнер"]
+[Black "Шлехтер"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/p5Q1/2ppq2p/3n1ppk/3B4/2P2P1P/P5P1/6K1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. g4+ fxg4 2. hxg4+ Kh4 3. Qxh6+ Qxh6 4. Kh2 {><ерные сдались,
+так как нет защиты от угрозы 5.Сf2х} 1-0
+
+[Event ">=34 Киев"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Кофман"]
+[Black "Поляк"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6nk/p4rrp/1p1p1p2/1q1Pp2R/4B1P1/1PP2Q1R/P6P/7K w - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. g5 f5 (1... fxg5 2. Qxf7 Rxf7 3. Rxh7+ Rxh7 4. Rxh7#) 2.
+Bxf5 Ne7 $2 ({Затягивало сопротивление} 2... Rxf5 3. Qxf5 Qxd5+ 4. Qf3) 3. Bxh7
+Rxf3 (3... Rxh7 4. Qxf7) 4. Bd3+ Kg8 5. Rh8+ Kf7 6. Rxf3+ {и ~~ерные сдались}
+1-0
+
+[Event ">=35 Тбилиси"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Гуфельд"]
+[Black "Георгадзе"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5rk1/7p/2p2Prb/1p1pP3/3Bp3/2P4q/1P2Q2P/5RRK w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. e6 Qxe6 2. Qh5 {><ерные сдались. От угрозы 3.Л.:g6+ и 2.Ф:
+h6 защиты нет} 1-0
+
+[Event ">=36 Париж"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Алехин"]
+[Black "Колле"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r2k1/p2r1pp1/1pQ3p1/3P2q1/8/P5P1/5P1P/2R1R1K1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qxd7 Rxd7 2. Re8+ Kh7 3. Rcc8 Rd8 4. Rexd8 {><ерные сдались}
+1-0
+
+[Event ">=37 Моравска-Острава"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Шпильман"]
+[Black "Вольф"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5r1k/3b2p1/p6p/1pRpR3/1P1P2q1/P4pP1/5QnP/1B4K1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. h3 $1 Qxh3 2. Qxf3 $1 {><ерные сдались, так как теряo^т
+коня. Нельзя} Rxf3 {из-за} 3. Rc8+ $1 {третье отвле~~ение подряд} Bxc8 4. Re8+
+Rf8 5. Rxf8# 1-0
+
+[Event ">=38 ><ССР"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Яролиш"]
+[Black "Гонсиор"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6k1/p4pb1/1p5p/3bPN1p/3P4/2r5/P2RQBPK/2q5 b - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} {Белые сдались. Оба взятия ладьи ведут к мату.} 1... Rh3+ $1 2.
+Kxh3 (2. gxh3 Qh1+ 3. Kg3 Qg2+ 4. Kf4 Qg5#) 2... Qh1+ 3. Kg3 Qxg2+ 4. Kf4 Qg5#
+0-1
+
+[Event ">=39 Москва"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Ботвинник"]
+[Black "Керес"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3q1rk1/r5p1/2bpn1P1/p1pN1p2/P1PnP2p/3PB2P/5Q1K/1R1B1R2 w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rb8 $1 {><ерные сдались, потому ~~то после} Qxb8 2. Qxh4 {
+мата не избежать} 1-0
+
+[Event ">=40 Швеция"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Олофсон"]
+[Black "Аман"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4r3/Q2bppkp/3p2p1/3Nn3/4P3/6PP/1qr2PB1/R3R1K1 b - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Ra8 2. Qxa8 Rxf2 3. Nf4 Bxh3 4. Qa2 ({Не спасаo^т и
+другие ходы} 4. Bxh3 Nf3+ 5. Kh1 Rh2#) (4. Nxh3 Rxg2+ 5. Kf1 Ng4) 4... Rxg2+ {
+Белые сдались} 0-1
+
+[Event ">=41 Москва"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Спасский"]
+[Black "Петросян"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6R1/kp2qp2/p4p2/PP6/3br1P1/2PQ4/1K6/8 w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qxd4+ $1 {><ерные сдвлись потому, ~~то на} Rxd4 {последует}
+2. b6# 1-0
+
+[Event ">=43"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Зноско-Боровский"]
+[Black "NN"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2qk2r/pppbnp1p/2np2p1/3N2B1/2BbP3/8/PPP2PPP/R2QK2R w KQkq - 0 0"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qxd4 $1 {Унм~~тожение защиты пункта f6} O-O (1... Nxd4 {На}
+2. Nf6+ {последует} Kf8 3. Bh6#) 2. Nf6+ Kh8 3. Ng4+ Nxd4 4. Bf6+ Kg8 5. Nh6#
+1-0
+
+[Event ">=43 Золотые пески"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Георгиу"]
+[Black "Момо"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r2rk1/1bq2ppp/p7/1p1pNN2/1b1PnB2/3Q3P/PP3PP1/R3R1K1 w - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxe4 dxe4 2. Qg3 f6 ({На} 2... g6 {последовало} 3. Nxg6) 3.
+Qb3+ Kh8 4. Ng6+ hxg6 5. Bxc7 a5 6. Nh4 {и белые реализовали перевес} 1-0
+
+[Event ">=44 Карлсбад"]
+[Site "?"]
+[Date "1911.??.??"]
+[Round "?"]
+[White "Дурас"]
+[Black "Кон"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2R5/2R4p/5p1k/6n1/8/1P2QPPq/r7/6K1 w - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxh7+ Kxh7 2. Qe7+ Kg6 3. Rg8+ Kf5 4. Rxg5+ {><ерные
+сдались После} Kxg5 5. Qg7+ Kf5 (5... Kh5 6. Qh7+) 6. Qd7+ {они теряo^т ферзя}
+1-0
+
+[Event ">=45 Реджио-Эмилия"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Мишта"]
+[Black "Наваровский"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2rq1r2/pp1b1pkp/8/P2Q2P1/n1nN4/2P5/2P3BP/R1B2RK1 w - - 0 1"]
+[PlyCount "15"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} {Пункт е6 защищен дважды, Поэтому необходимо сна~~ала отвле~~ь
+слона, а потом уни~~тожить пешку} 1. Rxa4 Bxa4 2. Rxf7+ Kh8 ({После} 2... Rxf7
+{белые осуществили свой основной замысел} 3. Ne6+ Kh8 4. Nxd8) 3. Rxh7+ {
+Все-таки придется взять ладьo^} Kxh7 4. g6+ Kxg6 5. Be4+ {Плохо теперь} Kf6 ({
+А на} 5... Kg7 {следует} 6. Ne6+) 6. Qe6+ Kg7 7. Qg6+ Kh8 8. Qh7# 1-0
+
+[Event ">=46 Мат~~"]
+[Site "?"]
+[Date "1872.??.??"]
+[Round "?"]
+[White "Стейниц"]
+[Black "Цукерторт"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/pq2r1kp/2R3n1/1p1Q4/3P4/1P3pP1/P6R/5K2 w - - 0 1"]
+[PlyCount "19"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} {Уни~~тожением звщиты коня белые на~~инаo^т атаку} 1. Rxh7+
+Kxh7 2. Qh5+ Kg8 ({или} 2... Kg7 3. Rxg6+ Kf8 (3... Kf7 4. Qf5+ Ke8 5. Rg8#) 4.
+Qh8+ Kf7 5. Qg8#) 3. Rxg6+ Rg7 4. Rh6 Kf8 5. Rh8+ Ke7 6. Qe5+ Kf7 7. Qe8+ Kf6
+8. Rh6+ Kf5 9. Qe5+ Kg4 10. Qf4# 1-0
+
+[Event ">=47 П-во США"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Бисгайер"]
+[Black "Фишер"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2r5/p4pk1/8/4bR2/3pP1Pp/P5P1/1P2R1PK/2r4N b - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rxh1+ {Белые сдались, так как полу~~аo^т мат} 2. Kxh1 Rc1+
+3. Kh2 hxg3+ (3... Bxg3+ 4. Kh3 Rh1#) 4. Kh3 Rh1# 0-1
+
+[Event ">=48 Бухарест"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Гиздаву"]
+[Black "Остои~~"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r3k1/5p2/q2p2p1/p2Qb1P1/1p2Pp2/1P6/1PP4R/1K5R w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qxe5 dxe5 2. Rh8+ Kg7 3. R1h7# 1-0
+
+[Event ">=49 Москва"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Гусев"]
+[Black "Березин"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2b1r2k/2Q4p/4q3/1pp5/3b4/4NP2/1P3BP1/3R2K1 w - - 0 1"]
+[PlyCount "17"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxd4 cxd4 2. Nf5 Bd7 ({Нельзя} 2... Qxf5 3. Bxd4+ {с матом})
+3. Bxd4+ Kg8 4. Qg3+ Qg6 5. Nh6+ Kf8 6. Qf4+ Ke7 {><ерные сдались, не
+дожидаясь хода соперника. Могло последовать} 7. Bc5+ Kd8 8. Nf7+ Kc8 9. Nd6+
+1-0
+
+[Event ">=50 ><-т вооруженных сил"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Хасдан"]
+[Black "Уссаковский"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r2rk/1b1qpQ1p/p2pRbpB/1p1n4/3pB3/P4N1P/1PP2PP1/3R2K1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxf6 Nxf6 ({или} 1... exf6 2. Bxd5) 2. Bxb7 Qxb7 3. Ng5 {
+с неотрахимой угрозой 4.Ф:h7+ и 5.Kf7x ><ерные сдались} 1-0
+
+[Event ">=51"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Блэкберн"]
+[Black "NN"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3Bb1r/pQ6/2p2p1p/k3q3/4P3/2N1B3/PP4PP/6K1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} {Белые вынуждаo^т ~~ерных к блокировниo^ полей b4 и b6} 1. b4+
+Bxb4 2. Bb6+ axb6 3. Qxa8# 1-0
+
+[Event ">=52"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Этo^д А.Казанцева"]
+[Black "Выигрыш"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1R6/5p2/4P1pb/2K4p/2pB1N1k/4P3/6PP/2q5 w - - 0 1"]
+[PlyCount "19"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. e7 {Известный прием завле~~ения} Qa3+ 2. Rb4 Qa7+ 3. Kxc4
+Qxe7 {Исходная позиция для проведения комбинация построена} 4. Nxg6+ fxg6 5.
+Bf6+ Qxf6 6. Kd5+ Kg5 7. h4+ Kf5 8. g4+ hxg4 9. Rf4+ Bxf4 10. e4# 1-0
+
+[Event ">=53 Рига"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Петкеви~~"]
+[Black "Мосионжик"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4q3/ppp3k1/2nb1p2/3BpPp1/1P4Q1/2P1B1P1/P4P2/7K w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bxg5 fxg5 2. Qxg5+ Kh7 3. f6 Qg6 (3... Bf8 4. Qg8+ Kh6 5.
+Bf7) (3... Qf8 4. Qh5+ Qh6 5. Bg8+ {><ерные сдались, взятие королем приводит к
+потери ферзя, а в слу~~ае}) 4. Bg8+ Qxg8 5. Qh5# 1-0
+
+[Event ">=54 П-во США"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Фишер"]
+[Black "Бенко"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3qr1k/pp3pbp/2pn4/4p2Q/3nP3/2NBB2P/PPP3P1/R4RK1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bxd4 $1 exd4 2. Rf6 $1 {Ладья жертвуется, ~~тобы
+заблокировать пешку и таким образом парализовать фланг ~~ерных} Kg8 ({Если} 
+2... Bxf6 {то} 3. e5 {с матом}) ({или} 2... dxc3 3. e5) 3. e5 h6 4. Ne2 {
+><ерные сдались. Грозит 5. Л:d6. На отступление коня следует} Bxf6 5. Qxh6 1-0
+
+[Event ">=55 Москва"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Смыслов"]
+[Black "Васo^ков"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5Q2/6qp/6pk/5R2/7P/4b1P1/P1r2P2/6K1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rh5+ gxh5 2. Qd6+ Qg6 3. Qf8+ Qg7 4. Qd6+ {~~ерным ве~~нрго
+шаха не избежать} 1/2-1/2
+
+[Event ">=56"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5rk1/6pp/8/2p3N1/1q6/8/4Q1PP/6K1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qe6+ Kh8 2. Nf7+ Kg8 {Если взять коня, то последует мат по
+последней горизонтали} 3. Nh6+ Kh8 4. Qg8+ Rxg8 5. Nf7# 1-0
+
+[Event ">=57 Даллас"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Эванс"]
+[Black "Ларсен"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3r3k/5pp1/Q4n2/3q3p/8/3pR1N1/PPr2PPP/3R2K1 b - - 0 1"]
+[PlyCount "15"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rxf2 {грозит 2...Ф:g2x} 2. Ne4 ({После} 2. Kxf2 Ng4+ {
+~~ерные с лихвой отыгрываo^т ладьo^}) 2... Nxe4 3. Rexd3 Rf1+ $1 4. Rxf1 (4.
+Kxf1 Qf5+) 4... Qc5+ {Белые сдались, они полу~~аo^т спертый мат} 5. Kh1 Nf2+ 6.
+Kg1 Nh3+ 7. Kh1 Qg1+ 8. Rxg1 Nf2# 0-1
+
+[Event ">=58 Остенде"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Бернштейн"]
+[Black "Метгер"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r6k/ppRrb1pp/5p2/nP2p3/4N3/P2P1NPq/Q3PP1P/5RK1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Neg5 fxg5 2. Rxd7 Qxd7 3. Nxe5 {Грозит спертый мат. Не
+спасает} Qe8 4. Nf7+ Kg8 5. Nd6+ {><ерные сдались} 1-0
+
+[Event ">=59 По переписке"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Попов"]
+[Black "Ангелов"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3rk2/p3Rp1p/1qp1bQ2/8/1p1P4/6R1/PP3PPP/6K1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rd7 $1 {><ерные сдались. Смысл жертвы ладьи с идеей
+блокировки поля d7 виден из варианта} Bxd7 2. Qd6+ Re7 3. Qh6+ Ke8 4. Rg8# 1-0
+
+[Event ">=60 III п-во мира по переписке"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Килландер"]
+[Black "><екки"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5Q2/5p1k/ppB1b1pP/4P1K1/P7/3nr3/3r3P/8 b - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... f6+ $1 {Белые сдались. Нельзя} 2. Kxf6 {из-за} ({А после} 
+2. exf6 Re5+ 3. Kh4 Rh5+ 4. Kg3 Rh3#) 2... Rf2+ {с выиграшем ферзя} 0-1
+
+[Event ">=61 Уругвай"]
+[Site "?"]
+[Date "1943.??.??"]
+[Round "?"]
+[White "Кабрал"]
+[Black "Молинари"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6k1/5ppp/4p3/p1b1n3/PpP1Pq2/5bBP/4B2K/R3R3 b - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Bg1+ 2. Rxg1 Ng4+ 3. hxg4 Qh6+ 4. Bh4 Qxh4# 0-1
+
+[Event ">=62 П-во США"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Эванс"]
+[Black "Бисгайер"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4bk1r/4qppp/1p6/8/4B3/Q7/P4PPP/4R1K1 w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bc6 $1 {><ерные сдались. Если} Qxa3 {то} 2. Rxe8# 1-0
+
+[Event ">=63 БССР"]
+[Site "?"]
+[Date "1867.??.??"]
+[Round "?"]
+[White "Петруша"]
+[Black "o/oшкеви~~"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2kr4/p2r4/4p2R/3bP2P/1qp5/8/PPBQ1P2/1K1R4 b - - 0 1"]
+[PlyCount "1"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Be4 $1 {Из-за связки слона первая горизонталь становится
+незащитимой} 0-1
+
+[Event ">=64 Голландия"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Парр"]
+[Black "Вайткрофт"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r5r1/pp1Q1Nbk/6pp/1R6/q7/1n4P1/PB3P1P/6K1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rh5 $1 {Жертва ферзя обоснована использованием двух связок,}
+Qxd7 2. Ng5+ {сна~~ала пешки} Kh8 3. Rxh6# {а потом слона} 1-0
+
+[Event ">=65 Киев"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Вол~~ок"]
+[Black "Креславский"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3kbnr/1pp2qpp/p1p2p2/8/4PB2/6Q1/PP3PPP/RN1R2K1 b kq - 0 0"]
+[PlyCount "10"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} {У ~~ерных лишняя пешка, но они отстали в развитии фигур.
+Угрожает также 2.С:с7. ><ерные решаo^т вернуть пешку, но закон~~ить развитие} 
+1... Bd6 2. Bxd6 O-O-O {><ерные связываo^т слона и одновременно уводят короля
+в безопасное место} 3. e5 $1 ({><ерные расс~~итывали после} 3. Nc3 Rxd6 4. Rxd6
+cxd6 5. Qxd6 Qe7 {закон~~ить развитие}) {Такого хода ~~ерные не ожидали и
+поэтому не поняли} 3... fxe5 $4 ({Сей~~ас следовало смириться с худшей
+позицией после} 3... cxd6 4. exd6) 4. Qg4+ Qd7 5. Be7 $1 Qxg4 6. Rxd8# 1-0
+
+[Event ">=66 Мар-дель-Плата"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Олафссон"]
+[Black "Базан"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4r1k1/5ppp/p1q3b1/1ppNr3/2P1P3/1P4QP/P4PP1/4RRK1 w - - 0 1"]
+[PlyCount "13"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} {Жертвой двух пешек белые отвлекаo^т слона с линии "g". и
+пешка е7 оказывается связанной} 1. f4 Rxe4 2. f5 Bxf5 ({Также проигрывало} 2...
+Rxe1 3. Rxe1 Bxf5 4. Rxe8+ Qxe8 5. Nf6+) 3. Rxe4 Bxe4 4. Nf6+ Kh8 5. Nxe8 Qxe8
+6. Qc7 bxc4 7. Re1 {><ерные сдались} 1-0
+
+[Event ">=67 Гастингс"]
+[Site "?"]
+[Date "1895.??.??"]
+[Round "?"]
+[White "Тарраш"]
+[Black "Вальброд"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3b2rk/7p/p7/2pbqNrn/Pp1p1R2/1P1Q2P1/1BPN1R1P/6K1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxd4 $1 Nxg3 ({После} 1... Bf6 2. Rxd5 Qxb2 3. Ne4 {белые
+выигрывали пешку и отражали атаку}) (1... cxd4 $2 2. Bxd4) 2. Nxg3 Rxg3+ 3.
+hxg3 Rxg3+ {К этой позиции стремились ~~ерные,но их ждет разо~~арование} 4. Kf1
+$1 Rxd3 5. Rg4 {><ерные сдались, Ввиду угрозы мата 6.Лf8+ Сg8 7.Лg8 ~~ерные
+несут крупные потери} 1-0
+
+[Event ">=68 XVI Олимпиада"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Керес"]
+[Black "Сайди"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1rn2k1/p2qppbp/1pbp1np1/1B4B1/1P1P4/P3PN2/3NQPPP/2R2RK1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxc6 Nxc6 2. Bxf6 Bxf6 3. d5 {и белые выиграв за ладьo^ две
+фигуры, в дальнейшем реализовали свой перевес} 1-0
+
+[Event ">=69 Москва"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "o/oрьев"]
+[Black "Тышлер"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r4rk1/pb3ppp/1p3q2/1Nbp4/2P1nP2/P4BP1/1PQ4P/R1B2R1K b - - 0 1"]
+[PlyCount "13"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... dxc4 {Ради увели~~ения сферы влияния слона b7 ~~ерные
+жертвуo^т фигуру} 2. Bxe4 Qf5 $1 {Белый слон связан по двум пересекаo^щимся
+диагоналям. Он полностьo^ парализован. Остается только усилить на него нажим}
+3. Nc3 Rfe8 4. Re1 Rxe4 5. Nxe4 Re8 6. g4 Rxe4 $1 {Белые сдвлись} 7. gxf5 Rxe1#
+0-1
+
+[Event ">=70 Петербург"]
+[Site "?"]
+[Date "1875.??.??"]
+[Round "?"]
+[White "Шумов"]
+[Black "Винавер"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r1kr2/pR5p/2q5/3p4/Q3bP2/8/PP4PP/4R1K1 w - - 0 1"]
+[PlyCount "1"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rc1 $1 {и белые выиграли} 1-0
+
+[Event ">=71 Студен~~еское п-во мира"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Радулов"]
+[Black "Седерберг"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r4r1k/1p1bbppp/1qp1pn2/4B3/3P3P/1P1B1QR1/P3NPP1/1K1R4 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxg7 Kxg7 2. Qg4+ {><ерные сдались, после} Kh8 3. Qh5 {
+мат неизбежен} 1-0
+
+[Event ">=72 Свердловская обл."]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Шмагин"]
+[Black "Петров"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b3k1/pp4P1/4p2n/1q6/3pB1n1/P6Q/1PPB3r/2KR2R1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bh7+ $1 {Белые выигрываo^т ка~~ество, связывая слона} Kxh7
+2. g8=Q+ Kxg8 3. Qxh2 1-0
+
+[Event ">=73 Бенервейк"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Берг"]
+[Black "Элисказес"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r5/pp2kp2/3q1p1Q/3Pp3/6b1/1B6/P1P3PP/1K3R2 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qh4 Bd7 2. Rxf6 Qxf6 3. d6+ {с выиграшем ферзя} 1-0
+
+[Event ">=74 РСФСР"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "><ерских"]
+[Black "Терентьев"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r1rk1/2p1qp1p/pnP3p1/4n3/PP1NpR2/1BQ4P/6P1/5RK1 w - - 0 1"]
+[PlyCount "13"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Ne6 $1 Nf3+ ({Ни~~его не меняло} 1... fxe6 2. Qxe5) 2. R1xf3
+fxe6 ({Коне~~но не} 2... exf3 {из-за} 3. Qg7#) 3. Qe5 Rd1+ 4. Kh2 Rfd8 5. Rf8+
+$1 Rxf8 6. Bxe6+ Rf7 7. Rxf7 {><ерные сдались} 1-0
+
+[Event ">=75 По переписке"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Сайгин"]
+[Black "Вистанецкис"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r4r1k/bpq3pp/p1b2n2/8/2B5/PQ4NP/1P1B1PP1/R4RK1 b - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Ng4 $1 {освобождая линиo^ "f" для ладьи} 2. hxg4 Rf3 $1 {
+перекрывая третьo^ горизонталь, ~~ерные лишаo^т защиты коня g3. Если} 3. gxf3 {
+то} Qxg3+ 4. Kh1 Bxf3+ {><ерез два хода белые сдались} 0-1
+
+[Event ">=76 Индонезия"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Бахтияр"]
+[Black "Лианг"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4r2k/1Q3ppp/p4n2/q3N3/5N2/1b6/1r3PPP/2R1R1K1 b - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Bd1 2. Nxf7+ Kg8 3. Rxe8+ Nxe8 4. Qe7 $2 (4. Qe4 Re2 5.
+Nh6+ $11) 4... Re2 0-1
+
+[Event ">=77 Цo^рих"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Келлер"]
+[Black "Нивергельт"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/4nQbk/3N2pp/1p6/1P6/6B1/1PqprPPP/5RK1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} {Белые жертвой слона перекрываo^т диагональ a1-h8, делая ее
+недоступной для ~~ерного ферзя} 1. Be5 $1 Rxe5 2. Ne8 Nf5 3. Nf6+ Kh8 4. Qg8#
+1-0
+
+[Event ">=78"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Зада~~а  Э.Лаздыньш"]
+[Black "Мат в два хода"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1qb1R3/2bp4/7N/rr6/4N2k/2B4p/5R2/3B1K2 w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Be5 {не помогает} ({Темати~~еский ложный след} 1. Re5 $2 d6)
+1... d5 2. Bf6# 1-0
+
+[Event ">=79 Москва"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Ненароков"]
+[Black "Григорьев"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6R1/2B5/8/5k2/1b2b3/3pK2p/8/8 b - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... d2 $1 2. Rd8 ({Проигрывает} 2. Rg1 Bc5+) ({или} 2. Ke2
+Bf3+) 2... Bd6 $1 {Белые сдались. На} 3. Rxd6 ({После} 3. Kxd2 Bxc7 {у ~~ерных
+легко выигранный эндшпиль}) {последует} 3... h2 {и ~~ерные пешки неудержимы}
+0-1
+
+[Event ">=80 Ньo^-Йорк"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Ломбарди"]
+[Black "Крамер"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5rk1/p2r1ppp/b2q4/3B4/8/Q3R1P1/PP3P1P/4R1K1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} {Используя идеo^ перекрытия, белые наносят блестящий
+такти~~еский удар} 1. Bc6 $1 Bc8 ({Плохо} 1... Qxc6 2. Qxf8+ Kxf8 3. Re8#) ({
+или} 1... Rdd8 2. Qxa6) 2. Bxd7 Qxd7 3. Rd3 Qc7 4. Qd6 {><ерные сдались} 1-0
+
+[Event ">=82 III п-во СССР"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Левенфиш"]
+[Black "Розенталь"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3Q4/pq3pkp/1p2p3/4P3/1n1P4/5R2/P6P/7K w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. d5 $1 {><ерные сдались} exd5 (1... Nxd5 2. Rg3+ Kh6 3. Qg5#)
+(1... Qxd5 2. Qf6+ Kg8 3. Qxf7+ Kh8 4. Qf8#) 2. Rg3+ Kh6 3. Qh4# 1-0
+
+[Event ">=83 Будапешт"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Оснос"]
+[Black "Дели"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "b1R2nk1/5ppp/1p3n2/5N2/1b2p3/1P2BP2/q3BQPP/6K1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bc5 $1 ({Возможно и} 1. Nh6+ Kh8 2. Bc5) 1... Bxc5 (1...
+bxc5 2. Ne7+ Kh8 3. Rxf8+ Ng8 4. Rxg8#) 2. Qxc5 {уни~~тожение защиты} N6d7 3.
+Qxf8+ Nxf8 4. Ne7+ Kh8 5. Rxf8# 1-0
+
+[Event ">=84"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Зада~~а А.Вол~~ок"]
+[Black "Мат в два хода"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4rb2/2Np2p1/1p4Bp/1Q4B1/3k2N1/1K1P4/1n6/7b w - - 0 1"]
+[PlyCount "1"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Be4 ({Ложный след} 1. Be7 Be4) 1-0
+
+[Event ">=84а"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Зада~~а А.Вол~~ок"]
+[Black "Мат в два хода"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4rb2/2Np2p1/1p4Bp/1Q4B1/3k2N1/1K1p4/1n6/7b w - - 0 1"]
+[PlyCount "1"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Be7 1-0
+
+[Event ">=85 София"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Ренш"]
+[Black "Троянск"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6k1/Bp4bp/2p5/4n2q/1PP1B3/P6p/R3QP1K/3r4 b - - 0 1"]
+[PlyCount "1"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Ng4+ $1 {Белые сдались, угрожает 2...Се5+} 0-1
+
+[Event ">=86 Командное п-во  СССР"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Копаев"]
+[Black "Новопашин"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r7/pp4pk/2n3qp/5p2/3p4/P4QB1/1PP1RPPP/6K1 b - - 0 1"]
+[PlyCount "15"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... d3 2. Qxd3 Rd8 3. Qc3 f4 4. Bxf4 Qg4 5. Bxh6 Rd1+ 6. Re1
+Nd4 7. h3 Nf3+ 8. Kf1 Qc4+ 0-1
+
+[Event ">=87 Москва"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Головко"]
+[Black "Голдин"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3nr1k1/p6p/2n1pRpB/3pP3/2pP2P1/q1P4P/6BK/5Q2 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxg6+ hxg6 2. Qf6 Re7 ({Не лу~~ше} 2... Qe7 3. Qxg6+ Kh8 4.
+Bg5 {с угрозой 5.Сf6}) 3. Qf8+ Kh7 4. Bg5 {от угрозы 5.Сf6и 6.Фh8х защиты нет}
+1-0
+
+[Event ">=88 Таллин"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Микенас"]
+[Black "Полугаевский"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2rr2k1/5ppp/p1b1pn2/q1p5/P1B1PQ2/R1PN1P2/6PP/1R4K1 b - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rxd3 $1 2. Bxd3 c4 $1 3. Qd6 {защищаясь от двух угроз 3...
+Фс5 и 3...сd} Ne8 $1 ({Если сразу} 3... cxd3 $2 {то} 4. Qxc6 {и ферзь неуязвим}
+Rxc6 $2 5. Rb8+ {с матом}) 4. Qb4 Qxb4 5. cxb4 cxd3 {><ерные выиграли две
+фигуры за ладьo^ и в дальнейшем реализовали преимущество} 0-1
+
+[Event ">=89 Москва"]
+[Site "?"]
+[Date "1919.??.??"]
+[Round "?"]
+[White "Алехин"]
+[Black "Шишко"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/5pkp/P2R1p2/8/3P2p1/5qP1/5R1K w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxf2 $1 gxf2 2. Rxf5 $1 Kxf5 3. g4+ $1 Kxg4 4. Kg2 {><ерная
+пешка задержана, а белая... проходит в ферзи} 1-0
+
+[Event ">=90 Ленинград"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Ботвинник"]
+[Black "Степанов"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2br1rk1/1p2bpp1/p1p2n1p/q3Np2/PnBPP3/2N3B1/1P2Q1PP/R4RK1 w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bxf7+ Rxf7 2. Nc4 {и ферзь в ловушке} 1-0
+
+[Event ">=91 Москва"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Рo^мин"]
+[Black "Белавенец"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1rrnbbk1/pp1q3p/1n2pPp1/3pP1Q1/3P2N1/1P4P1/PB1N2B1/2R2RK1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. f7+ Nxf7 2. Nf6+ Kg7 3. Qh4 {><ерные сдались} 1-0
+
+[Event ">=92 По переписке"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Деметриеску"]
+[Black "Нажу"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp2bppp/2n5/2P5/N2pn3/6P1/PPQBPPNP/R4RK1 b - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... d3 $1 2. exd3 Nd4 3. Qd1 Nxd2 {и ~~ерные выиграли фигуру,
+если} 4. Qxd2 {то} Nf3+ 0-1
+
+[Event ">=93 Харьков"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Кирпи~~ников"]
+[Black "Векслер"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r4rk1/3q1ppp/p1n5/1pppP2N/5Qb1/1P3N2/1PP2PPP/4RRK1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. e6 $1 Bxe6 2. Ne5 Nxe5 3. Qxe5 {и во избежание мата ~~ерные
+должны отдать фигуру} 1-0
+
+[Event ">=94 Киев"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Сокольский"]
+[Black "Сайгин"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r1qr1k1/p1pb2b1/n3p1Qp/Np1pP3/n2P2p1/2PBR3/PP3PPP/R1B3K1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rf3 $1 {Белые открываo^т дорогу ~~ернопольному слону,
+грозит мат на h7} gxf3 2. Bxh6 {><ерные сдались. На} Qe7 {последовало} 3. Qh7+
+Kf8 4. Qh8+ Kf7 5. Qxg7# 1-0
+
+[Event ">=95 Колумбия"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Фишер"]
+[Black "Аттилио ди Капило"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3q2k1/1r1P1pp1/8/1p2B1p1/2pQ2P1/3nR2P/1P3PK1/8 w - - 0 1"]
+[PlyCount "1"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bc7 $1 {Белые освобождаo^т линиo^ "е" для ладьи и
+одновременно перекрываo^т седьмуo^ горизонталь, защищая своo^ проходнуo^ пешку.
+От угрозы 2.Ле8+ ~~ерные могут защититься, лишь... пропустив пешку в ферзи} 1-0
+
+[Event ">=96 Лондон"]
+[Site "?"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "><игорин"]
+[Black "Шлехтер"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b2rk1/ppp2ppp/2n3q1/b2N2N1/2BP4/4p2P/PPP3P1/R2Q1RK1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Nxf7 Rxf7 2. Ne7+ Nxe7 3. Bxf7+ Qxf7 4. Rxf7 {><ерные
+сдались. После} Kxf7 5. Qh5+ {они теряли слона а5} 1-0
+
+[Event ">=97 Вена"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Шпильман"]
+[Black "Хелингер"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r1nrk1/p4p1p/1p2p1pQ/nPqbRN2/8/P2B4/1BP2PPP/3R2K1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Ne7+ {><ерные сдались. Могло последовать} Qxe7 2. Qxh7+ Kxh7
+3. Rh5+ Kg8 4. Rh8# 1-0
+
+[Event ">=98 Цo^рих"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Россели"]
+[Black "Негели"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2b1r1k1/1pqn2b1/p5N1/2PpprNp/1P3P2/P5Q1/1B4RP/R5K1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Ne7+ Rxe7 2. Ne6 exf4 (2... Rxe6 3. Qxg7#) 3. Qxg7+ Rxg7 4.
+Rxg7+ Kh8 5. Nxc7 {><ерные сдались} 1-0
+
+[Event ">=99 Болгария"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Манов"]
+[Black "Хайрабедян"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1kqr2r1/ppp5/2nb1p2/1Q1N2pb/P2P4/1RN1P3/3B1PP1/5R1K b - - 0 1"]
+[PlyCount "13"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Be2 2. Nxe2 ({Попытка вызватьразмены путем жертвы
+ка~~ества не проходит} 2. Qxb7+ Qxb7 3. Rxb7+ Kxb7 4. Nxe2 Rh8+ 5. Kg1 Bh2+ 6.
+Kh1 Rxd5 {и ~~ерные должны выиграть}) 2... Rh8+ 3. Kg1 Rh1+ 4. Kxh1 Rh8+ 5. Kg1
+Rh1+ 6. Kxh1 Qh8+ 7. Kg1 Qh2# 0-1
+
+[Event ">=100 Рига"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Клявинь"]
+[Black "В.Журавлев"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r6r/pp2kpp1/1bp1bq1p/8/B7/2N2Q2/PP3PPP/3RR1K1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Nd5+ cxd5 2. Qa3+ {><ерные сдались. После} Kd8 3. Qd6+ Kc8
+4. Rc1+ {мата им не избежать} 1-0
+
+[Event ">=101 Петербург"]
+[Site "?"]
+[Date "1894.??.??"]
+[Round "?"]
+[White "><игорин"]
+[Black "NN"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1n4k1/r5np/1p4PB/p1p5/6P1/2P4P/q3B3/4QRK1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bc4+ ({Вело к мату и} 1. gxh7+) 1... Qxc4 2. Qe8+ Nxe8 3.
+Rf8# 1-0
+
+[Event ">=102 Мат~~-турнир"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Болеславский"]
+[Black "Лилиенталь"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3kbnr/ppp3pp/1q2b3/4B1p1/2B3P1/8/PPP1QP1P/2KR3R w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bxc7 $1 {><ерные сдались. Если} Qxc7 2. Qxe6+ {с матом} 1-0
+
+[Event ">=103 Амстердам"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Медина"]
+[Black "Шлиссер"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3q1r1k/4n1b1/2n1p1Bp/prBpPp2/2pP1P1N/6QP/1PP3RK/R7 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} {У белых несколько выигрышных ходов} 1. Be8 Rg8 2. Bxc6 Nxc6 3.
+Ng6+ Kh7 4. Nf8+ Kh8 5. Qg6 1-0
+
+[Event ">=104"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Полерио"]
+[Black "XVI век"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1bqnrk1/ppp1bppp/2n1p3/3pP3/3P3P/2PB1N2/PP3PP1/RNBQK2R w - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} {(XVI в)} 1. Bxh7+ Kxh7 2. Ng5+ Bxg5 (2... Kg8 3. Qh5 Bxg5 4.
+hxg5 f5 5. g6) (2... Kg6 3. h5+ Kh6 4. Nxf7+) 3. hxg5+ {и белые выигрываo^т}
+Kg6 4. Qh5+ Kf5 5. Qh3+ Kg6 6. Qh7# 1-0
+
+[Event ">=105 Бевервейк"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Доннер"]
+[Black "Портиш"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rn1q1rk1/pb1p1ppp/4p3/2pnP3/1bp5/2N2N2/PP3PPP/RBBQK2R w - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bxh7+ Kxh7 2. Ng5+ Kg8 (2... Kg6 3. h4 Qa5 (3... Nxc3 4. Qg4
+) 4. h5+ Kh6 5. Qc2 Bxc3+ 6. Kf1) 3. Qh5 Qxg5 (3... Re8 4. Qxf7+ Kh8 5. Qh5+
+Kg8 6. Qh7+ Kf8 7. Qh8+ Ke7 8. Qxg7#) 4. Bxg5 Nxc3 5. a3 {Белые выигрываo^т. На
+} Ba5 {следует} 6. Bd2 {одну из фигур находящихся под боем, полу~~ая в
+результате решаo^щий материальный перевес} 1-0
+
+[Event ">=106 Остенде"]
+[Site "?"]
+[Date "1905.??.??"]
+[Round "?"]
+[White "Шлехтер"]
+[Black "Вольф"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "bq3rk1/4nppp/8/1p1pP3/2pP4/5N2/1P3PPP/1B1Q1RK1 w - - 0 1"]
+[PlyCount "23"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bxh7+ Kxh7 2. Ng5+ Kg6 (2... Kg8 3. Qh5 Re8 4. Qxf7+ Kh8 5.
+Ne6) (2... Kh6 3. Qg4 Qc8 4. Qh4+ Kg6 5. Qh7+ Kxg5 6. f4+ Kg4 7. Qh3#) 3. Qg4
+f5 {ина~~е 4.Ке6} 4. exf6 gxf6 5. Ne6+ Kf7 6. Qg7+ Kxe6 7. Re1+ Kf5 8. Qh7+ Kg5
+9. Rxe7 ({Белые упускаo^т возможность объявить мат} 9. h4+ Kg4 10. f3+ Kg3 11.
+Qg7+ {и мат}) 9... Rg8 10. Re3 b4 11. Rg3+ Qxg3 12. Qxg8+ {><ерные сдались} 1-0
+
+[Event ">=107 Амстердам"]
+[Site "?"]
+[Date "1889.??.??"]
+[Round "?"]
+[White "Ласкер"]
+[Black "Бауэр"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r4rk1/1b2bppp/ppq1p3/2ppB2n/5P2/1P1BP3/P1PPQ1PP/R4RK1 w - - 0 1"]
+[PlyCount "15"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bxh7+ Kxh7 2. Qxh5+ Kg8 3. Bxg7 Kxg7 (3... f6 4. Rf3) 4.
+Qg4+ Kh7 5. Rf3 e5 6. Rh3+ Qh6 7. Rxh6+ Kxh6 8. Qd7 {Двойной удар. Белые
+выиграли.} 1-0
+
+[Event ">=108 Портсмут"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Алехин"]
+[Black "Дрo^ит"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r2k1/pp2qppp/2b1p3/3p4/5P2/b2BPR2/1B1N2PP/3Q2K1 w - - 0 1"]
+[PlyCount "13"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bxh7+ $1 Kxh7 ({Уклонится от принятия жертвы нельзя} 1...
+Kh8 2. Rh3) (1... Kf8 2. Bxg7+) 2. Rh3+ Kg8 3. Bxg7 {><ерные сдались. Алехин
+указал такой вариант} f6 4. Bh6 {угрожая 5.Фg4+ Kpf7 6..Фh5+ Kpg8 7.Лg3 Kph7 8.
+Cg7+ Kpg8 9.C:f6+ и т. д.} Qh7 5. Qh5 {грозит 6.Лg3+ и 7.Сg7+} Bf8 6. Qg4+ Kh8
+7. Bxf8 1-0
+
+[Event ">=109 Аргентина"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Меринг"]
+[Black "Финш"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r4rk1/1bq2ppp/p1p1p3/2b1P1B1/3p2Q1/3B4/PPP2PPP/R3R1K1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bxh7+ Kxh7 2. Bf6 gxf6 (2... Rg8 3. Qh5#) (2... g6 3. Qh4+
+Kg8 4. Qh8#) 3. Qh4+ Kg6 4. Qg3+ {><ерные сдались. Если} Kh7 {то} 5. Re4 {
+и 6.Лh4x} 1-0
+
+[Event ">=110"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Волк"]
+[Black "Букреев"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp2nppp/2n1p3/2bpP3/5B2/qN1B1N2/P1P2PPP/R2Q1RK1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bxh7+ Kxh7 2. Ng5+ Kg6 (2... Kg8 {Я Нейштадт приводит
+вариант} 3. Qh5 Rd8 4. Qh7+ Kf8 5. Qh8+ Ng8 6. Nh7+ Ke7 7. Bg5+ {и белые
+выигрываo^т}) 3. Qd3+ {><ерные сдались.} (3. Qg4 f6 4. Nxe6+) 1-0
+
+[Event ">=111 Москва"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Кузьмин"]
+[Black "Свешников"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b2rk1/2qpbppp/pnp1p3/2P5/3B1P2/3B4/PP4PP/R2Q1RK1 w - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bxh7+ Kxh7 2. Qh5+ Kg8 3. Bxg7 Kxg7 4. Qg4+ Kh7 5. Rf3 Bxc5+
+6. Kh1 {><ерные сдались.} 1-0
+
+[Event ">=112"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "Эд.Ласкер"]
+[Black "Томас"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rn3rk1/pbppq1pp/1p2pb2/4N2Q/3PN3/3B4/PPP2PPP/R3K2R w Q - 0 1"]
+[PlyCount "15"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+1. Qxh7+ Kxh7 2. Nxf6+ Kh6 (2... Kh8 3. Ng6#) 3. Neg4+ Kg5 4. h4+ Kf4 5. g3+
+Kf3 6. Be2+ Kg2 7. Rh2+ Kg1 8. O-O-O# 1-0
+
+[Event ">=113 Полуфинал п-ва ДСО \"Буревестник\""]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Тройнов"]
+[Black "Попов"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1bqr1k1/1p1nbppp/p1n5/3pP2Q/3N1P2/1B2B3/PPP3PP/R4RK1 w - - 0 1"]
+[PlyCount "13"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qxf7+ Kxf7 (1... Kh8 2. Ne6) 2. Bxd5+ Kg6 (2... Kf8 3. Ne6+)
+3. f5+ Kh5 4. Bf3+ Kh4 5. g3+ Kh3 6. Bg2+ Kg4 7. Rf4+ {><ерные сдались} 1-0
+
+[Event ">=114 Ереван"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Каспарян"]
+[Black "Манвелян"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2q4r/2p4p/kpnp2p1/p2b4/P6Q/1PR2NP1/2P3BP/2K5 w - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxc6 Bxc6 2. Qc4+ Kb7 3. Qxc6+ Kxc6 4. Ne5+ Kc5 5. Nd3+ Kd4
+6. Kd2 {и от с3х нет защиты} 1-0
+
+[Event ">=115 Москва"]
+[Site "?"]
+[Date "1916.??.??"]
+[Round "?"]
+[White "Алехин"]
+[Black "Зубарев"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4rr2/pb1n1p1k/1p2P1pp/2pP4/2P3nq/3B2N1/PB1Q2PP/4RRK1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxf7+ Rxf7 2. Bxg6+ Kxg6 3. Qd3+ Kg5 4. Bc1+ {><ерные
+сдались.} 1-0
+
+[Event ">=116 П-во ЦС ДСО \"Спартак\""]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Гургенидзе"]
+[Black "Сергиевский"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3rk2r/1b2qpp1/p4n2/1p2pPb1/1N2P3/3B4/1PP2BKP/R3QR2 b - - 0 1"]
+[PlyCount "13"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Bd2 $1 {1. Двойной удар, вынуждаo^щий белых принять
+жертву слона. 2. Завле~~ение ферзя под связку, сто дает ~~ерным на следуo^щем
+ходу выигрыш важного темпа. 3. Освобождение поля g5. 4. Подготовка вскрытого
+шаха.} 2. Qxd2 Nxe4 3. Qe3 Qg5+ 4. Qxg5 (4. Kh1 Nxf2#) 4... Nxg5+ 5. Kg3 (5.
+Kg1 Nh3#) 5... Rh3+ 6. Kg4 Bf3+ 7. Kxg5 Rh5# 0-1
+
+[Event ">=117  Бельгия"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "О`Келли "]
+[Black "Дефос"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r4rk1/ppRn1p2/6pb/2P1pq1p/3N4/P1QPn1Pb/1B1NPP1P/4R1KB b - - 0 1"]
+[PlyCount "13"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Qxf2+ 2. Kxf2 Ng4+ 3. Kf3 (3. Kg1 Be3#) 3... e4+ 4. Kxe4 (
+4. dxe4 Nde5#) 4... Ndf6+ 5. Kf3 Ne5+ 6. Kf2 Nfg4+ 7. Kg1 Be3# 0-1
+
+[Event ">=118 Карлсбад"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Тиц"]
+[Black "Рамиш"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4r3/3k3q/nbb1prRp/pp1p3P/3P4/P2Q4/1P2N1P1/1KRB1N2 w - - 0 1"]
+[PlyCount "13"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxc6 Kxc6 2. Qxb5+ Kxb5 3. Ba4+ Kc4 4. b3+ Kd3 5. Bb5+ Ke4
+6. Rg4+ Kf5 7. Ne3# 1-0
+
+[Event ">=119"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Попов"]
+[Black "Рo^мин"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r7/1bb2p1k/p1n2rpp/1p1q4/1PpP4/P3BNP1/3QBPKP/R3R3 b - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rxf3 2. Bxf3 Qxf3+ 3. Kxf3 Nxd4+ 4. Kg4 Bc8+ 5. Kh4 Nf3#
+0-1
+
+[Event ">=120 Москва"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Войнов"]
+[Black "Татаев"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3q2rk/1b3p1p/p4p2/1p2pNr1/4P2Q/P2P1R2/1P2N1PP/7K w - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qxh7+ Kxh7 2. Rh3+ Rh5 3. Rxh5+ Kg6 4. Rh6+ Kg5 5. h4+ Kg4
+6. Ne3# 1-0
+
+[Event ">=121 Париж, сеанс одн. игры"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Алехин"]
+[Black "Пра"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2qrr1n1/3b1kp1/2pBpn1p/1p2PP2/p2P4/1BP5/P3Q1PP/4RRK1 w - - 0 1"]
+[PlyCount "17"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qh5+ Nxh5 2. fxe6+ Kg6 3. Bc2+ Kg5 4. Rf5+ Kg6 5. Rf6+ Kg5
+6. Rg6+ Kh4 7. Re4+ Nf4 8. Rxf4+ Kh5 9. g3 {и 10.Лh5х} 1-0
+
+[Event ">=122 Лейпциг"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Летелье"]
+[Black "Фишер"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4r1k1/ppq3bp/2n1rnp1/5p2/2P2P2/4BBN1/PP3K1P/RQ2R3 b - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rxe3 2. Rxe3 Rxe3 3. Kxe3 Qxf4+ $1 {Белые сдались. Нельзя}
+4. Kxf4 {из-за} ({Не спасает} 4. Kf2 Nd4 5. Qd3 Ng4+ 6. Kg2 Ne3+) 4... Bh6# 0-1
+
+[Event ">=123 Польша"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Витковский"]
+[Black "Блаш~~ак"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6r1/p4rkp/3RQ1n1/1pp1p1B1/2p1P3/2P3R1/P4qPK/8 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qxe5+ $1 Nxe5 2. Bf6+ Kh6 3. Bg7+ Kh5 4. Rh6# 1-0
+
+[Event ">=124 Гастингс"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Теллер"]
+[Black "Тартаковер"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1b1r1k1/p4p1p/2p2p2/2qP4/8/5P2/P3B1PP/2RQK2R b - - 0 1"]
+[PlyCount "15"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rxe2+ 2. Kxe2 Ba6+ 3. Kd2 Qf2+ 4. Kc3 Rb8 5. Rb1 {грозит
+5...Фb2 мат} Qc5+ 6. Kd2 Qd4+ 7. Kc2 Qc4+ 8. Kd2 Qd3+ {Белые сдались.} 0-1
+
+[Event ">=125 Гастингс"]
+[Site "?"]
+[Date "1895.??.??"]
+[Round "?"]
+[White "Стейниц"]
+[Black "Барделебен"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1r1k3/pp1qn2p/5pp1/3p2N1/6Q1/8/PP3PPP/2R1R1K1 w - - 0 1"]
+[PlyCount "27"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxe7+ Kf8 {><ерные пытаo^тся воспользоваться слабостьo^
+первой горизонтали} ({На} 1... Qxe7 {следовало} 2. Rxc8+) ({Плохо и} 1... Kxe7
+2. Re1+ Kd6 (2... Kd8 3. Ne6+ Ke8 4. Nc5+) 3. Qb4+ Kc7 4. Ne6+ Kb8 5. Qf4+) 2.
+Rf7+ Kg8 3. Rg7+ $1 {><ерные сдались. Партия могла закон~~ится так} Kh8 4.
+Rxh7+ Kg8 5. Rg7+ Kh8 6. Qh4+ Kxg7 7. Qh7+ Kf8 8. Qh8+ Ke7 9. Qg7+ Ke8 10. Qg8+
+Ke7 11. Qf7+ Kd8 12. Qf8+ Qe8 13. Nf7+ Kd7 14. Qd6# 1-0
+
+[Event ">=126 Мат~~"]
+[Site "?"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Эйве"]
+[Black "Рети"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1b4Q/ppp2kpp/3b4/8/4RP1q/8/PPP3PP/3R2K1 b - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Bh3 $1 2. Qxa8 {Теперь ~~ерные форсированно полу~~аo^т мат
+} Bc5+ 3. Kh1 Bxg2+ 4. Kxg2 Qg4+ 5. Kf1 Qf3+ 6. Ke1 Qf2# 0-1
+
+[Event ">=127 XI  П-во CCCР, (в-т из партии)"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Котов"]
+[Black "Ботвинник"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4r1k1/1p3ppp/6q1/8/4nPb1/PN2P3/1Br3PP/RQ3RK1 b - - 0 1"]
+[PlyCount "13"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rxg2+ $1 2. Kxg2 Bh3+ 3. Kxh3 (3. Kf3 Qg2#) (3. Kh1 Qg2#)
+3... Nf2+ 4. Rxf2 Rxe3+ 5. Kh4 Qh6+ 6. Kg4 Qh3+ 7. Kg5 h6# 0-1
+
+[Event ">=128 Рига"]
+[Site "?"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Боль"]
+[Black "Вагенхейм"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4rrk1/pb3ppp/1qp5/3p1Q2/3n4/2N3RP/PPP2PP1/2B1R1K1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxg7+ Kxg7 2. Bh6+ Kxh6 (2... Kg8 3. Qg5+ Kh8 4. Qg7#) 3.
+Qf6+ Kh5 4. g4# 1-0
+
+[Event ">=129 Москва"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Равинский"]
+[Black "Петряев"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3rr1k1/2q1bp1p/p3p1p1/1p1nR3/5P1Q/P1BB1R2/1PP3PP/7K w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qxh7+ {><ерные сдались, ввиду мата} Kxh7 2. Rh5+ Kg8 3. Rh8#
+1-0
+
+[Event ">=130 Сус"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Фишер"]
+[Black "Мягмарсурен"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r2qk1/r4p1p/b3pBpQ/n3P2P/p2p3R/P5P1/2p2PB1/R5K1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qxh7+ {><ерные сдались. После} Kxh7 2. hxg6+ {выбор невелик}
+Kg8 (2... Kxg6 3. Be4#) 3. Rh8# 1-0
+
+[Event ">=131 Лондон"]
+[Site "?"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Яновский"]
+[Black "Шлехтер"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2b3k1/4rrpp/p2p4/2pP2RQ/1pP1Pp1N/1P3P1P/1q6/6RK w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qxh7+ Kxh7 2. Rh5+ Kg8 3. Ng6 {><ерные сдались.} 1-0
+
+[Event ">=132 Германия"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Гергулак"]
+[Black "Кахан"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b1qrk1/1p3ppp/p1p5/3Nb3/5N2/P7/1P4PQ/K1R1R3 w - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxe5 $1 Qxe5 2. Ng6 $1 Qxd5 (2... Qxh2 3. Nde7#) 3. Ne7+ Kh8
+4. Qxh7+ Kxh7 5. Rh1+ Qh5 6. Rxh5# 1-0
+
+[Event ">=133 Москва"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Геллер"]
+[Black "Портиш"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3rbk1/1bp1qpp1/p6p/np2p2Q/4P2N/1BP4P/PP3PP1/R1B1R1K1 w - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bg5 $1 Qd7 ({Плохо} 1... hxg5 2. Ng6) ({или} 1... Qxg5 2.
+Qxf7+) 2. Rad1 Bd6 3. Bxh6 gxh6 ({Если} 3... Nxb3 {то} 4. Bxg7 Kxg7 5. Nf5+) 4.
+Qg6+ Kf8 5. Qf6 Kg8 6. Re3 {><ерные сдались.} 1-0
+
+[Event ">=134 Теплиц-Шенау "]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Ионер"]
+[Black "Рубинштейн"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2r4k/2q2pp1/2r2b1p/p2p4/5PR1/Q2NP2P/PP3P2/1K1R4 b - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Bxb2 $1 2. Kxb2 ({Если} 2. Nxb2 {то} Rc1+ 3. Rxc1 Qxc1#) (
+{А после} 2. Qxb2 Rb6 {белые теряли ферзя}) 2... Rc3 3. Qa4 Rc2+ {Белые сдались
+} 0-1
+
+[Event ">=135 Москва"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "Алаторцев"]
+[Black "Смыслов"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2r1r1k1/5pbp/p5p1/3Pn3/3QP3/N1B5/PP4qP/1K1R3R b - - 0 1"]
+[PlyCount "15"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rxc3 {После этого ~~ерный слон приобретает большуo^ силу}
+2. Qxc3 Nc4 3. Qb4 a5 $1 {Поле е4 нужно освободить от контроля белого ферзя} 4.
+Qb3 Nxa3+ 5. bxa3 ({Не лу~~ше} 5. Qxa3 Rb8 6. b3 Qxe4+) 5... Qxe4+ 6. Qd3 Rb8+
+7. Kc1 Rc8+ 8. Kb1 Qe5 {Белые сдались} 0-1
+
+[Event ">=136 Мангейм"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Ион"]
+[Black "Яновский"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2b1k2r/p2qnpbp/2Q3p1/8/5B2/8/PPP2PPP/R3R1K1 w - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxe7+ Kxe7 2. Re1+ Kf8 (2... Kd8 3. Bg5+) 3. Bd6+ Kg8 4.
+Re8+ Bf8 5. Rxf8+ Kg7 6. Qc3+ {><ерные сдались} 1-0
+
+[Event ">=137 Всесоo^зный студ. турнир"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Восканян"]
+[Black "Ходос"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b2rk1/1pqp1ppp/p1n1pn2/5N2/8/2PBB3/P1P2PPP/R2QR1K1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Nxg7 Kxg7 2. Bh6+ Kxh6 (2... Kg8 3. Qf3) 3. Qd2+ Kh5 4. Re3
+{и белые выигрываo^т} 1-0
+
+[Event ">=138 Болгария"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Стефанов"]
+[Black "Геренски"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4q1rk/p3p2p/3pPpnQ/2p2R2/8/6P1/P3P2P/2B3K1 w - - 0 1"]
+[PlyCount "1"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qxh7+ $1 {><ерные сдались} 1-0
+
+[Event ">=139 Командное п-во РСФСР"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Кузьмина"]
+[Black "Кессельман"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r2q2k1/1b1p1pp1/p6p/1p5r/3P2n1/1BP1B2P/PP1N1PPb/R2Q1R1K b - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rxh3 $1 2. Qxg4 Rh4 3. Qf5 Bd6+ 4. Kg1 Rh1+ $1 5. Kxh1
+Qh4+ {Белые сдались} 0-1
+
+[Event ">=140 Москва"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Слоним"]
+[Black "Рo^мин"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1rb2rk1/p1p1qppp/2p2n2/3P4/1b3P2/2NB4/PPPBQ1PP/2KR3R b - - 0 1"]
+[PlyCount "15"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Ba3 2. Na4 Bxb2+ $1 3. Nxb2 Qa3 4. Qe5 Re8 5. Qd4 c5 6.
+Qc3 Qxa2 7. Be1 Re2 $1 8. Bxe2 Ne4 {Белые сдались} 0-1
+
+[Event ">=141 СФРo/o"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "><ири~~"]
+[Black "Стояновски"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r3rk1/5pp1/1n2qn1p/1p1pPNb1/2pP2QP/2P5/1PB3P1/R1B1R1K1 w - - 0 1"]
+[PlyCount "13"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. exf6 $1 {Жертва ка~~ества, связанная с этим ходом, имеет
+следуo^щие такти~~еские обоснования: 1. Уни~~тожена одна из фигур, мешаo^щая
+развитиo^ атаки 2. ><ерный ферзь удаляется от своего короля, откуда он не
+сможет вернуться сразу, так как в данный момент атакован слон и им придется
+ходить в первуo^ о~~ередь.} Qxe1+ 2. Kh2 Bxf6 3. Bxh6 $1 {Продолжение той же
+идеи: удаление ферзя лт королевского фланга. Кроме того, белые с темпом
+подклo^~~аo^т к атаке слона.} Be5+ 4. Kh3 $1 ({После} 4. dxe5 Qxe5+ 5. Kh1 g6
+6. Bxf8 {белые выигрывали фигуру}) {Однако они предпо~~итаo^т закон~~ить
+партиo^ матом} 4... Qxa1 5. Ne7+ Kh8 6. Bxg7+ $1 {><ерные сдались. Могло
+последовать} Bxg7 7. Qh5+ {и мат следуo^щим ходом} 1-0
+
+[Event ">=142 Полуфинал п-ва РСФСР"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Хохловкин"]
+[Black "><аплинский"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2rr1nk1/pp2q1b1/4p1p1/5p2/1nB5/2B1N1QP/PP4P1/4RRK1 w - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Nxf5 $1 gxf5 2. Rxe6 Nxe6 3. Bxe6+ Kh7 (3... Kh8 4. Rf4) 4.
+Bxf5+ Kh8 5. Bxg7+ Qxg7 6. Qh4+ {><ерные сдались} 1-0
+
+[Event ">=143 Киев"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "?"]
+[White "Вол~~ок"]
+[Black "Поляк"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r4rk1/ppqn1pp1/2p4p/4n2Q/2P5/1P4p1/PB3PBP/3R1RK1 w - - 0 1"]
+[PlyCount "15"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. f4 $1 Ng6 ({Ни~~его не меняло} 1... gxh2+ 2. Kh1) 2. f5 $1
+Nge5 ({На} 2... Nf4 {следовал двойной удар} 3. Qg4) 3. f6 $1 {грозит 4. fg, а
+на 3...g6 белые сыграo^т 4.Ф: h6 с немзбежным матом} gxf6 4. Rxd7 $1 Qxd7 ({Или
+} 4... Nxd7 5. Qg4+ Kh8 6. Rxf6 $1) 5. Rxf6 Rfe8 6. Rxh6 Qd2 7. Qg4+ {><ерные
+сдались, Если} Nxg4 {то} ({тот же результат после} 7... Kf8 8. Ba3+ Re7 9. Rh8#
+) 8. Rh8# 1-0
+
+[Event ">=144 Ереван"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "?"]
+[White "Гургенидзе"]
+[Black "Клован"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2qr3/2p1b1pk/p5pp/1p2p3/nP2P1P1/1BP2RP1/P3QPK1/R1B5 w - - 0 1"]
+[PlyCount "13"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bxh6 gxh6 ({Плохо} 1... Kxh6 2. Rh1+ Kg5 3. Qe3+ Kxg4 4.
+Be6#) 2. Rf7+ Kh8 3. Rd1 Qc8 ({Не спасало} 3... Bd6 4. Qe3 g5 5. Rh1) 4. Qe3
+Bg5 5. Qxg5 hxg5 6. Rh1+ Kg8 7. Rd7+ {><ерные сдались} 1-0
+
+[Event ">=145 Копенгаген"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Пит~~"]
+[Black "Гольц"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1k4r1/1bq2p1p/1p2p3/PPbr1p2/2N2n2/6N1/5PPP/1RR1QBK1 b - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Nh3+ $1 2. gxh3 (2. Kh1 Nxf2+ 3. Kg1 Nd3+) 2... Rxg3+ $1
+3. hxg3 Qxg3+ 4. Bg2 Rd1 $1 {Белые сдались} 0-1
+
+[Event ">=146 Командное п-во СССР"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Сахаров"]
+[Black "Макагонов"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4rbk1/3q3p/4nPp1/ppp1BpP1/3p3Q/3P4/PPP4R/5RK1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxf5 $1 gxf5 ({Не спасало} 1... Qf7 2. Qxh7+ Qxh7 3. f7+
+Qxf7 4. Rh8#) 2. g6 hxg6 3. f7+ $1 {><ерные сдались} 1-0
+
+[Event ">=147 Аргентина"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Гонзалес"]
+[Black "Сангинети"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6rk/pb3p1p/3bpPq1/3P4/1p1B3r/1B4P1/PPRQ1R1P/6K1 b - - 0 1"]
+[PlyCount "13"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Bxg3 2. hxg3 Qxg3+ 3. Rg2 ({не спасало} 3. Kf1 {из-за} Re4
+{с угрозой 4...Фg1х. Например} 4. Rg2 (4. Re2 Qf3+) 4... Ba6+ 5. Bc4 Bxc4+ 6.
+Rxc4 Re1+ 7. Qxe1 Qxg2#) 3... Qh2+ 4. Kf1 Ba6+ 5. Ke1 (5. Bc4 Bxc4+ 6. Rxc4
+Rxg2 7. Qxg2 Rf4+) 5... Re4+ 6. Kd1 Qh1+ 7. Bg1 Qxg1+ {Белые сдались} 0-1
+
+[Event ">=148 П-во ЦС ДСО \"Даугава\""]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Корелов"]
+[Black "Петерсон"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2rqr1k1/1b2bp1p/p3p1p1/1p2N1Bn/3P4/P6Q/1P3PPP/1B1RR1K1 w - - 0 1"]
+[PlyCount "15"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Nxf7 $1 Kxf7 2. Qxe6+ Kf8 3. Bxg6 hxg6 4. Bh6+ Ng7 5. Qxg6 {
+><ерные сдались. После} Bf6 6. Rxe8+ Qxe8 7. Qxf6+ Qf7 8. Bxg7+ {они остаo^тся
+без ~~етырех пешек} 1-0
+
+[Event ">=149 Студен~~еское п-во мира"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Георгиу"]
+[Black "Степак"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "Q4rk1/1bq1rp1p/4pRpP/3pP1N1/1p1P4/1Pp2RPB/1nP2P1K/8 w - - 0 1"]
+[PlyCount "21"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qxf8+ ({Все могло закон~~иться намного раньше} 1. Rxg6+ hxg6
+2. h7+ Kg7 3. Qxf8+ Kxf8 4. h8=Q#) 1... Kxf8 2. Nxe6+ Rxe6 3. Bxe6 Ke8 {
+Защитить поле f7 ~~ерные не могут. Сей~~ас сопротивление можно было прекратить,
+но еще последовало} 4. Rxf7 Qb6 5. Rf8+ Ke7 6. R3f7+ Kxe6 7. Rf6+ Ke7 8. R8f7+
+Ke8 9. Rxb6 Kxf7 10. Rxb7+ Ke6 11. Rxh7 {><ерные сдались} 1-0
+
+[Event ">=150 Париж"]
+[Site "?"]
+[Date "1944.??.??"]
+[Round "?"]
+[White "Россолимо"]
+[Black "NN"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4rb2/1p1q1ppk/p1n1p2p/2p1Pn2/3PNR2/2P2K2/P2QBP2/6R1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxf5 exf5 2. Qxh6+ $1 Kxh6 (2... gxh6 3. Nf6+ Kh8 4. Rg8#)
+3. Rh1+ Kg6 4. Kf4 $1 {Атакует даже король. Грозит 5.Сh5+ Крh7 6.С:f7х} Qe6 5.
+Rh8 {><ерные сдались. От угрозы 6.Сh5 защиты нет} 1-0
+
+[Event ">=151 Ереван"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Багиров"]
+[Black "Николаевский"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3r2k1/3q1pp1/p6p/2pP1b2/2P4r/6bP/P1PN1BP1/R4RQK b - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rxh3+ 2. gxh3 Be4+ 3. Qg2 Qxh3+ {Белые сдались} 0-1
+
+[Event ">=152 Румыния"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Тафлан"]
+[Black "Рузу"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r4rk1/pp2bpp1/1qp1b2p/4B2Q/n7/3B4/PPP2PPP/3RR1K1 w - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bxg7 $1 Kxg7 2. Rxe6 Bg5 (2... fxe6 3. Qg6+ Kh8 4. Qh7#) 3.
+Rg6+ Kh8 4. Rxh6+ Bxh6 5. Qxh6+ Kg8 6. Qh7# 1-0
+
+[Event ">=153 Ке~~кемет"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Алехин"]
+[Black "Асталош"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3rb1k1/1r2qpb1/2p1p3/2P1N2p/p1BP1Q2/P7/5P2/3R2RK w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxg7+ Kxg7 2. Rg1+ Kh7 3. Nxf7 1-0
+
+[Event ">=154 Земмеринг"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Давидсон"]
+[Black "Алехин"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1b1r1k1/ppb2p1p/2p3p1/7n/4P3/3BB2P/PPQ1NPPq/R3RK2 b - - 0 1"]
+[PlyCount "21"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Bxh3 2. gxh3 Qxh3+ 3. Kg1 Bh2+ 4. Kh1 Nf4 5. Nxf4 Bxf4+ 6.
+Kg1 Bh2+ 7. Kh1 Qf3+ 8. Kxh2 Re5 9. Qc5 Rxc5 10. Bxc5 Qh5+ 11. Kg2 Qxc5 {
+и ~~ерные выиграли} 0-1
+
+[Event ">=155 Копенгаген"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Суэтин"]
+[Black "Нильсен"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3rnk1/4qpp1/p5np/4pQ2/Pb2N3/1B5P/1P3PP1/R1BR2K1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bxh6 gxh6 2. Rd7 $1 Nxd7 ({После} 2... Qxd7 3. Nf6+) 3.
+Qxg6+ Kf8 4. Qh7 {><ерные сдались} 1-0
+
+[Event ">=156 Венеция"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Эйве"]
+[Black "Тартаковер"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r7/1p3k2/1Qpn1p2/8/P3b3/KPP5/3q1P2/2R3R1 b - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Nc4+ 2. bxc4 Rxa4+ 3. Kxa4 Qa2+ 4. Kb4 Qb2+ 5. Kc5 Qxf2+ {
+и ~~ерные выиграли} 0-1
+
+[Event ">=157 Острава"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Рубинштейн"]
+[Black "Громадка"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "kb1r2r1/pp3Rp1/2pq3p/P3p3/2B1P3/2PP2Pn/1PK2Q2/R5B1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qb6 $1 {Создав угрозу 2.Ф:b7х} Rd7 ({Принятие жертвы вело к
+немедленному поражениo^} 1... axb6 2. axb6+ Ba7 3. Rxa7+ Kb8 4. Rfxb7+ Kc8 5.
+Ba6) 2. Bc5 $1 {Этот ход приносит победу, потому,~~то ~~ерный ферзь не может
+покинуть поле d6 из-за потери ладьи. Еще последовало} Rxf7 3. Bxd6 Rf2+ 4. Qxf2
+{><ерные сдались} 1-0
+
+[Event ">=158 Цo^рих"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Матулови~~"]
+[Black "Ломбарди"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2b1R1rk/p5p1/2P3Qp/8/5p1B/P6P/1n4P1/2q2B1K w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bf6 $1 {с двумя угрозами 2.Ф:g7x и 2.Ф:h6х} Qxf1+ 2. Kh2 {
+><ерные сдались} 1-0
+
+[Event ">=159 Москва"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Николаевский"]
+[Black "Елистратов"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3rn1k/3bb2p/p3pp2/qp1p4/3P4/2N1PNB1/PPQ2P1P/2KR2R1 w - - 0 1"]
+[PlyCount "1"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Ne5 $1 {Принять жертву ~~ерные не могут из-за мата, а
+ина~~е угрозу 2. Кf7+ Kpg8 3.Cc7 без ущерба не предотвратить. Поэтому они
+сдались.} 1-0
+
+[Event ">=160 Синай"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Савон"]
+[Black "Рее"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b1nrk1/pp1n3p/2pp4/8/2P2q1N/1PB4P/P4PB1/R2QR1K1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bd5+ $1 cxd5 2. Qxd5+ Qf7 3. Qg5+ Ng7 4. Nf5 $1 {От угрозы
+с выиграшем ферзя можно защитится только ходом} Qg6 {но тогда следует} 5. Ne7+
+{><ерные сдались} 1-0
+
+[Event ">=161"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Шапошников"]
+[Black "Михайли~~енко"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rn2k2r/3nqpbp/p3p1p1/P1p1P3/1pBP1N2/1R4QP/3B1PP1/R5K1 w - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Nxe6 {Эта жертва, помимо разрушаo^щего воздействия приносит
+белым два темпа} fxe6 2. Bg5 Qf7 3. Rf3 Qg8 4. Qg4 cxd4 (4... Nf8 5. Rxf8+ Bxf8
+(5... Qxf8 6. Qxe6+) 6. Bxe6 Qg7 7. Bf6) 5. Bxe6 Nxe5 6. Bf7+ {и мат
+следуo^щим ходом} 1-0
+
+[Event ">=162 Гавана"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Кобо"]
+[Black "Ивков"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2k1r3/ppqb1p2/2n5/4Pp2/3p1PrB/P1pQ2P1/2P2K1P/R4B1R b - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rxe5 2. fxe5 Nxe5 3. Qd1 (3. Qe2 Qc5) 3... Rxh4 4. gxh4
+Ng4+ 5. Ke1 (5. Kg2 Ne3+) (5. Kg1 d3 6. cxd3 Qf4) 5... Qf4 6. Qe2 Bb5 {Белые
+сдались} 0-1
+
+[Event ">=163 Блед"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Кости~~"]
+[Black "Боголo^бов"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2b4k/2q1brrp/1p3p1Q/2p2B2/4P3/pPB2P2/P2R3P/3R3K w - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rd7 Bxd7 2. Rxd7 Qc6 3. Rxe7 Rxe7 $2 (3... Qb5 $11) 4. Bxf6
+Kg8 5. Bxg7 Qxh6 6. Bxh6 {и белые выиграли} 1-0
+
+[Event ">=164 Москва"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Кириллов"]
+[Black "Суэтин"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2rr2k1/p1q1pp1p/6p1/n1pB4/b1P2N2/2Q1PPP1/P2R3P/1R4K1 w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Ne6 $1 Rxd5 2. Qg7# 1-0
+
+[Event ">=165 o/oгославия"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Крышник"]
+[Black "Ян~~ев"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4r3/pp6/1n1R1pkp/1Q2qNp1/2p1P3/P4PP1/1P4P1/7K w - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rd7 ({Возможно и} 1. Rxb6 axb6 2. Qd7) 1... Rg8 (1... Qxb5
+2. Rg7+ Kh5 3. g4#) (1... Nxd7 2. Qxd7 Rg8 3. Ne7+) 2. Qxe5 fxe5 3. Rd6+ Kf7 4.
+Nxh6+ Ke7 5. Rxb6 Rh8 6. Rg6 {><ерные сдались} 1-0
+
+[Event ">=166 Москва"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Болеславский"]
+[Black "Мосионжик"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2br2r1/2n2qbk/n3p2p/ppp1Pp1p/5P1N/2P3NQ/PPB3P1/R1B1R1K1 w - - 0 1"]
+[PlyCount "13"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Ngxf5 exf5 2. e6 Qf6 ({Плохо также} 2... Bxe6 3. Rxe6) 3.
+Qxf5+ {><ерные сдались} Qxf5 4. Bxf5+ Kh8 5. Ng6+ Kh7 6. Ne5+ Kh8 7. Nf7# 1-0
+
+[Event ">=167 Ленинград"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Хавский"]
+[Black "Кламан"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r4r/pp2kp2/3p1p1b/1P2p3/4PP1p/qbP1BQ2/4BRPP/3R2K1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. fxe5 Bxe3 2. Qxf6+ Kd7 3. exd6 Bxf2+ 4. Kf1 {><ерные сдались
+} 1-0
+
+[Event ">=168 ХIX п-во РСФСР"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Крогиус"]
+[Black "Сергиевский"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r4nk1/p3rppp/1p6/2PqNQ2/8/4P3/P4PPP/1RR3K1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Ng6 {><ерные сдались} Qxf5 (1... Rd7 2. Qxd5 Rxd5 3. Ne7+
+Kh8 4. Nxd5) 2. Nxe7+ Kh8 3. Nxf5 1-0
+
+[Event ">=169 Москва"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Волкеви~~"]
+[Black "Лысков"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1r3k1/4q1p1/np2p2p/3pNp2/3Pn3/2N5/PPQ2PPP/R1R3K1 w - - 0 1"]
+[PlyCount "13"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Nxd5 exd5 ({Плохо} 1... Rxc2 2. Nxe7+) 2. Qxc8+ Rxc8 3.
+Rxc8+ Kh7 4. Rh8+ $1 {завле~~ение короля} Kxh8 5. Ng6+ Kg8 6. Nxe7+ Kf7 7. Nxd5
+{и белые реализовали свой перевес} 1-0
+
+[Event ">=170 Кисловодск"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Танин"]
+[Black "Максимов"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "b3k3/2q1b1p1/p3p2r/1pPpP2p/1P1N3P/6P1/P3Q3/1BR3K1 w - - 0 1"]
+[PlyCount "13"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bg6+ {Жертва слона с цельo^ завле~~ения ладьи на линиo^
+будушей связки, а также отвле~~ение ее от защиты пешки h5} Rxg6 ({Плохо также} 
+1... Kd7 2. Bf7) 2. Qxh5 Kf7 3. Rf1+ Bf6 4. Rxf6+ gxf6 5. Qh7+ Rg7 6. Qxg7+
+Kxg7 7. Nxe6+ {и белые выиграли две пешки} 1-0
+
+[Event ">=171 Ноттингем"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Александер"]
+[Black "Ботвинник"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r2r2k1/p1q2pbp/bpn1p1p1/2p5/3nP3/2NNB1P1/PPP2PBP/2QRR2K b - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Nxc2 2. Qxc2 Rxd3 3. Rxd3 Nb4 {><ерные отыгрываo^т
+пожертвованый материал, оставаясь с лишней пешкой} 0-1
+
+[Event ">=172 Москва"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Быховский"]
+[Black "Кузнецов"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6k1/pp5p/8/2Pp2r1/1P1n1Rq1/P2P4/7P/5Q1K b - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} {><ерные с помощьo^ коневой вилки осуществляo^т выгодные
+размены, ~~то дает возможность сохранить за собой лишнo^o^ фигуру} 1... Qxf4 ({
+К тому же результату вело} 1... Qg1+) 2. Qxf4 Rg1+ 3. Kxg1 Ne2+ 4. Kf2 Nxf4 0-1
+
+[Event ">=173 Киев"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Платонов"]
+[Black "Р.Романовский"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2b3k1/5p1p/7b/p2B3p/3P4/P2Q1N1P/1q3PP1/6K1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} {Незашищенная фигура- отли~~ный мотив и для комбинаций с
+другими видами двойного удара.} 1. Bxf7+ Kxf7 2. Qxh7+ Bg7 3. Qxh5+ Kf6 ({
+Не спасает} 3... Ke7 {например} 4. Qc5+ Kd7 ({или} 4... Kd8 5. Qg5+) 5. Qf5+
+Kc7 6. Qf7+) 4. Qe5+ Kg6 5. Qe8+ {><ерные сдались} 1-0
+
+[Event ">=174 Полуфинал XIX п-ва РСФСР"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Слепов"]
+[Black "Шкундов"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4r1k1/1pqb1nbp/2pp2p1/8/2PNBP2/rP4PP/2Q2B1K/2R1R3 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bxg6 hxg6 ({На} 1... Rxe1 {следует промежуто~~ный шах} 2.
+Bxh7+) 2. Rxe8+ Bxe8 3. Ne6 Qd7 4. Nxg7 Nh6 ({Вот где выясняется замысел белых:
+на} 4... Kxg7 {следует двойной удар} 5. Qb2+ {и 3.Ф:а3}) 5. Nxe8 {В результате
+комбинации белые выиграли пешку и зна~~ительно ослабили позициo^ ~~ерного
+короля. ><ерез несколько ходов ~~ерные сдались} 1-0
+
+[Event ">=175 Москва"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Кузнецов"]
+[Black "Гольблат"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r3k/6p1/3N2qp/p1p1nr2/2P5/1P2Bb2/P1Q2RPP/3R2K1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Nf7+ {><ерный конь завлекается на незащищенное поле,
+одновременно отвлекается от защиты слона f3} Nxf7 2. Rxd8+ Nxd8 3. Rxf3 Rxf3 ({
+После} 3... Rf6 4. Qxg6 Rxg6 5. Rf8+ {белые выигрывали коня}) 4. Qxg6 {и белые
+выиграли} 1-0
+
+[Event ">=176 Мар-дель-Плата"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Сангинети"]
+[Black "П.Каскелла"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2bqnbn1/r4p1k/pp1p2pp/2pP4/P1P2Q2/2NB2PP/1P1N1P1B/4R1K1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bxg6+ Kxg6 ({Плохо} 1... fxg6 2. Qxf8 Ngf6 3. Nde4 Nxe4 4.
+Rxe4 Bd7 5. Re7+) 2. Qe4+ Kg7 3. Qxe8 Qxe8 4. Rxe8 Bd7 (4... Rc7 5. g4 {
+с угрозой 6.Л:f8 Kp:f8 7.C:d6+}) 5. Rb8 {и ~~ерез 4 хода ~~ерные сдались} 1-0
+
+[Event ">=177 Варна"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Матулови~~"]
+[Black "Цветков"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6k1/p4pq1/2n1p1p1/1p1pP1N1/3P1QPP/8/P3KP2/8 w - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qc1 $1 Nxd4+ ({Если} 1... Ne7 {то} 2. Qc5 {с выиграшем пешки
+}) 2. Kd3 Qxe5 3. Qc8+ Kg7 4. Qh8+ $1 Kxh8 5. Nxf7+ Kg7 6. Nxe5 {и ~~ерный
+конь в ловушке} 1-0
+
+[Event ">=178 По переписке"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Вол~~ок"]
+[Black "Пальмиотто"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3kbr1/3b1p2/p3pp1p/1pp2P2/2B1P3/2N5/PPPR2PP/2K2R2 w - - 0 1"]
+[PlyCount "15"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. fxe6 $1 fxe6 2. Nd5 $1 Bg7 ({Если} 2... exd5 {то двойной
+удар на обе лпдьи наносит слон} 3. Bxd5) 3. Nc7+ Ke7 4. Rfd1 Rad8 5. Bxe6 $1 {
+снова двойной удар, а после} Bxe6 6. Rxd8 Rxd8 7. Rxd8 Kxd8 {решает} 8. Nxe6+ {
+><ерные сдались} 1-0
+
+[Event ">=179 Ленинград"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Степанов"]
+[Black "Романовский"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1b5/p2p2kp/1pn1p3/8/1PP1K3/P4r2/2Q4P/R4B2 b - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... d5+ $1 {Белые сдались. Брать ладьo^ нельзя из-за} 2. Kxf3
+({А после} 2. cxd5 exd5+ 3. Kxd5 {следует} Be6+ $1 {и выясняется, ~~то взятие
+лo^бой фигуры ведет к немедленной потери ферзя, а уклонится от принятия жертвы
+белые не могут} 4. Kxc6 (4. Kxe6 Nd4+) (4. Kd6 Rd8+ 5. Kc7 Rd7+) 4... Rc8+)
+2... Nd4+ 0-1
+
+[Event ">=180 Всесоo^зный т-р o^ношей"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Кадыров"]
+[Black "Алексеев"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5r2/2q1kBb1/1r3pP1/2pQnK2/7p/4B3/7P/6RR b - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Qc8+ 2. Be6 Rxe6 3. Bxc5+ Rd6+ 4. Kf4 Qxc5 {Белые сдались}
+0-1
+
+[Event ">=181"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "R1br2k1/1rp1Rpp1/6N1/1p6/2n5/1B6/1P3PPP/6K1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rd7 $1 Rxd7 (1... Re8 2. Rxc8 Rxc8 3. Ne7+) (1... Bxd7 2.
+Rxd8+ Kh7 3. Nf8+) 2. Rxc8+ Kh7 3. Nf8+ 1-0
+
+[Event ">=182"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3kb2/p2nqp2/4b1p1/1B2Q1P1/4P3/5N2/PPP1KpP1/3R4 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxd7 $1 Bxd7 2. Bxd7+ Kxd7 3. Qd5+ 1-0
+
+[Event ">=183 Венгрия"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Портиш"]
+[Black "Хонфи"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r3bk1/1p2pp1p/1q1p2p1/r1nPP1Bn/8/1P3NP1/5PBP/2R1RQK1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. b4 Qxb4 2. Bd2 Qb5 3. Bxa5 {и белые выиграли} 1-0
+
+[Event ">=184 Ленинград"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Корелов"]
+[Black "Бывшев"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rnb1kr2/p4pQ1/8/1ppPpP2/2p1P3/N6P/Pq4B1/3R1RK1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Nxb5 Qxb5 2. Rb1 Qd7 3. Rxb8 Rxb8 4. Qxe5+ Kd8 5. Qxb8 {
+и белые выиграли} 1-0
+
+[Event ">=185 Цo^рих"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Доннер"]
+[Black "Керес"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2rq1kr1/bp3p2/p2pb3/5N1p/1P1pB2P/P5P1/2P1QP2/3R1RK1 b - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Bxf5 {Белые сдались, потоиу ~~то после} 2. Bxf5 Rxg3+ 3.
+fxg3 {следует вскрытое нападение} d3+ {с выиграшем ферзя} 0-1
+
+[Event ">=186 Берлин"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Рихтер"]
+[Black "Винц"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rr3/1pk2p2/p3bQ2/4R3/P4P2/2q4P/6P1/4R2K w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxe6 $1 {на} Qxf6 {у них находится промежуто~~ный ход} 2.
+Rc1+ Kb8 {затем} 3. Rxf6 {с лишней пешкой} *
+
+[Event ">=187 XV Олимпиада"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Гринк-Клаусен"]
+[Black "Литлвуд"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4r1k1/pp1q1pbp/3N4/2pP1pN1/2P2Qn1/8/PP4PP/5RK1 b - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Qxd6 2. Qxd6 Bd4+ 3. Kh1 Nf2+ {Белые сдались. После} 4.
+Kg1 Ne4+ 5. Kh1 Nxd6 {они остаo^тся без фигуры} 0-1
+
+[Event ">=188 По переписке"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Исаков"]
+[Black "Никитин"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3rkb1r/p2bpp1p/2B3p1/2p5/Q3P3/2q5/P3KPPP/1RB3NR b - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Qd3+ $1 2. Kxd3 Bxc6+ 3. Ke3 Bxa4 {><ерные выиграли} 0-1
+
+[Event ">=189"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Комбинация"]
+[Black "\"Мельница\""]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5nk1/ppp1R3/6pp/8/6b1/6n1/PBP4q/K7 w - - 0 1"]
+[PlyCount "29"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} {У ~~ерных большое материальное преимущество. Однако
+побеждаo^т белые} 1. Rg7+ Kh8 2. Rxc7+ Kg8 3. Rg7+ Kh8 4. Rxb7+ Kg8 5. Rg7+ Kh8
+6. Rxa7+ Kg8 7. Rg7+ Kh8 8. Rxg6+ Kh7 9. Rg7+ Kh8 10. Rxg4+ Kh7 11. Rg7+ Kh8
+12. Rxg3+ Kh7 13. Rg7+ Kh8 14. Rg2+ Kh7 15. Rxh2 {и белые выиграли} 1-0
+
+[Event ">=190 Студен~~еская Олимпиада"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Антунац"]
+[Black "Хo^бнер"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2nk1r1/pb3q1p/4p3/3p2pQ/8/BP6/PP3PPP/2R1R1K1 w - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rc7 {других ходов нет} Qxh5 2. Re7+ Kf8 3. Rxb7+ Ke8 4. Re7+
+Kf8 5. Rxh7+ Ke8 6. Rxh5 {и белые выиграли} 1-0
+
+[Event ">=191 Москва"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Бакулин"]
+[Black "><истяков"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6rk/7p/Q2R1p2/1p2n3/4b3/1P4NP/P1P2PPK/2q5 b - - 0 1"]
+[PlyCount "15"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Qf1 2. Nxf1 (2. f3 Nxf3+ 3. gxf3 Qf2+ 4. Kh1 Bxf3#) 2...
+Rxg2+ 3. Kh1 Rxf2+ 4. Kg1 Rg2+ 5. Kh1 Rxc2+ ({еще быстрее мат} 5... Rg8+ 6. Kh2
+Nf3+ 7. Kh1 Rg1#) 6. Kg1 Nf3+ 7. Kh1 Ng5+ 8. Kg1 Nxh3# 0-1
+
+[Event ">=192 Архангельск"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Шестоперов"]
+[Black "Капелo^ш"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1nbrn2k/2q1r1bp/pp6/2pPpp1R/P1B1N3/1PNQ3P/6P1/2B1R2K w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bg5 fxe4 2. Rxh7+ {><ерные сдались. После} Kxh7 3. Qxe4+ Kh8
+4. Qh4+ Kg8 5. d6+ {они несут крупные материальные потери} 1-0
+
+[Event ">=193 София"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Георгиу"]
+[Black "Ульман"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5rk1/5ppp/2q1Pn2/2p5/p3R2P/P5P1/5PB1/Q5K1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qxf6 {><ерные сдались не ожидая комбинации} gxf6 (1... Qxe4
+2. Qxf7+) 2. Rg4+ Kh8 3. Bxc6 1-0
+
+[Event ">=194 Монте-Карло"]
+[Site "?"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Шлехтер"]
+[Black "Гунсберг"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3qbnk1/3r2b1/1p1r1p2/p2p1PpQ/8/PBBRN2R/1P4P1/6K1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Nxd5 Rxd5 ({Еще хуже} 1... Bxh5 2. Nxf6+ Kh8 3. Rxh5+ Bh6 4.
+Nxd7+ Kh7 5. Rxd6) 2. Rxd5 Bf7 3. Qxf7+ Rxf7 4. Rxd8 {и белые выиграли} 1-0
+
+[Event ">=195 Москва"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Торре"]
+[Black "Ласкер"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3rnk1/pb3pp1/3pp2p/1q4BQ/1P1P4/4N1R1/P4PPP/4R1K1 w - - 0 1"]
+[PlyCount "19"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bf6 $1 Qxh5 2. Rxg7+ Kh8 3. Rxf7+ Kg8 4. Rg7+ Kh8 5. Rxb7+
+Kg8 6. Rg7+ Kh8 7. Rg5+ Kh7 8. Rxh5 Kg6 9. Rh3 Kxf6 10. Rxh6+ {><ерные сдались}
+1-0
+
+[Event ">=196 Белград"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Васo^ков"]
+[Black "Джурашеви~~"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3rqb2/1pR3pk/p3n1pp/3p4/3B4/PP6/1P4PP/4RQK1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxe6 $1 Qxe6 2. Qxf8 Rxf8 3. Rxg7+ Kh8 4. Rxg6+ {><ерные
+сдались} 1-0
+
+[Event ">=197 Цo^рих"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Смыслов"]
+[Black "Эйве"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k1n1r3/p2R2bb/2p2qpp/4pp2/2P5/2B1Q1P1/PP3PBP/6K1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bxe5 Rxe5 2. Qxe5 Qxe5 3. Bxc6+ Kb8 4. Rb7+ Ka8 5. Rb5# 1-0
+
+[Event ">=198 Врня~~ка Баня"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Мини~~"]
+[Black "Хонфи"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2r2k1/2q2ppp/8/pp1RP3/8/1pP1Q3/1P3PPP/3R2K1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qa7 $1 {><ерные сдались. Лo^бое взятие отвлекает их от
+защиты поля d8, а на} Qc8 {следует} 2. Qxa8 Qxa8 3. Rxd8+ Qxd8 4. Rxd8# 1-0
+
+[Event ">=199 Москва"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Лема~~ко"]
+[Black "Попова"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp3ppp/8/8/4NQq1/1P6/P1P3P1/3R1RK1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qxf7+ {><ерные сдались. Если} Rxf7 {то} 2. Rd8+ Rf8 3.
+Rdxf8# 1-0
+
+[Event ">=200  АзССР"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Гульдин"]
+[Black "Богдатьев"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r4k1/p4ppp/5q2/2R5/8/r3P3/3Q1PPP/3R2K1 w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qb4 $1 Rd8 2. Rcd5 $1 {><ерные сдались, так как обе ладьи
+одновременно не защитить} 1-0
+
+[Event ">=201 Гастингс"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Слива"]
+[Black "Бондаревский"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2r2rk1/p2nqpp1/bp2p2p/2p5/3P4/Q5P1/PP1NPPBP/2R1K2R b - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... cxd4 $1 {~~ерные полу~~аo^т возможность осуществить
+комбинациo^, ввиду того ~~то ладья с1 не защищена} 2. Rxc8 Rxc8 3. b4 (3. Qxe7
+Rc1#) 3... Qxb4 $1 0-1
+
+[Event ">=202 Буэнос-Айрес"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Капабланка"]
+[Black "Алехин"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r3r1k1/ppp2ppp/3b4/3p1q2/1n1P1N2/1Q2B3/PPP2PPP/2R1R1K1 b - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Nxc2 {Отвле~~ение ладьи преследует цель ослабить первуo^
+горизонталь и таким образом создать связку пр вертикали "е"} 2. Rxc2 ({Размен
+ферзей} 2. Qxc2 Qxc2 3. Rxc2 Bxf4 {лишал белых на спасение в эндшпиле без пешки
+}) 2... Qxf4 {~~ерные выиграли пешку и в дальнейшем реализовали свой перевес}
+0-1
+
+[Event ">=203 III Олимпиада по переписке"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Викман"]
+[Black "Иов~~и~~"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5rk1/5pp1/3b4/1pp2qB1/4R2Q/1BPn4/1P3PPP/6K1 b - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Bf4 {Сложная идея: 1. Перекрытие ~~етвертой горизонтали.
+2. Освобождение диагонали b1-h7 и завле~~ение белого слона на поле с1 в
+результате разменов} 2. Rxf4 Nxf4 3. Qxf4 Qb1+ 4. Qc1 Qxc1+ 5. Bxc1 Ra8 {
+Белые сдались, угрозу 6...Ла1 не предотвратить} 0-1
+
+[Event ">=204 Мат~~-турнир"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Ботвинник"]
+[Black "Болеславский"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3qr2k/2r3pp/2Q5/4p3/1P2R3/8/2P3PP/4R2K w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} {Белые используo^т слабость восьмой горизонтали для того,
+~~тобы упростить положение и перейти в выигранное окон~~ание} 1. Qxe8+ Qxe8 2.
+Rxe5 Qg8 3. Re8 Rxc2 4. Rxg8+ Kxg8 5. Rb1 {и белые реализовали свой перевес}
+1-0
+
+[Event ">=205 Гамбург"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Керес"]
+[Black "Трегер"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k1rr4/ppq3p1/5p2/4p2Q/2n4P/2PR2P1/PPBR1P2/2K5 w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxd8 Rxd8 2. Qf7 {><ерные сдались} 1-0
+
+[Event ">=206 Киев"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Гаприндашвили"]
+[Black "Неделькови~~"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1b5r/4k3/p3p3/4qp1p/P7/2Q4R/4B1PP/7K b - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rc8 2. Bc4 Rxc4 {Белые сдались} 0-1
+
+[Event ">=207 Маргет"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Керес"]
+[Black "Алехин"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2kr4/1ppb3p/p4r2/8/1qP2p2/3Q1N2/PP3PPP/2KRR3 w - - 0 1"]
+[PlyCount "1"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qxd7+ $1 {><ерные сдались} 1-0
+
+[Event ">=208"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Гертер"]
+[Black "Шейпл"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r4k2/p1R1npp1/Pp5r/1B4Q1/1q1p4/6Pp/1P3P1P/2R3K1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rc8+ {><ерные сдались ввиду мата} Rxc8 2. Rxc8+ Nxc8 3. Qd8#
+1-0
+
+[Event ">=209"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "><иковани"]
+[Black "Геллер"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp3pbp/2pp1np1/2n3B1/2PNP3/2N2P2/PP1QB1PP/R4RK1 b - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Nfxe4 2. Nxe4 Nxe4 3. fxe4 Bxd4+ {Вот где сказывается
+перегрузка} 4. Kh1 (4. Qxd4 Qxg5) 4... Qb6 {><ерные выиграли пешку} *
+
+[Event ">=210 Мат~~-турнир"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Смыслов"]
+[Black "Лилиенталь"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4r2k/pp4pp/2qn4/4Qp2/8/2PB1PP1/P1P3KP/4R3 w - - 0 1"]
+[PlyCount "1"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qxd6 $1 {><ерные сдались} 1-0
+
+[Event ">=211 Бромлей"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Матисон"]
+[Black "Райт"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r3k1/1b2q1pp/p2rp3/1pQpR3/5P2/2NR2P1/PPP4P/2K5 w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Nxd5 $1 {нетрудно убедится в том, ~~то лo^бое из ~~етырех
+возможных взятий приводит ~~ерных к материальным потерям} Qd7 2. Ne7+ {><ерные
+сдались} 1-0
+
+[Event ">=212 Омск"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Цай"]
+[Black "Зоткин"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3rr1k1/1pq2ppp/2b2b2/p3pN2/Pn2P1Q1/2N1B3/1PPR2PP/5RK1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Nh6+ Kh8 ({Не помагает} 1... Kf8 2. Bc5+ Re7 (2... Be7 $2 3.
+Rxf7#)) 2. Rxf6 gxf6 3. Qh4 {><ерные сдались. После} Re6 {перегруженным
+оказывается ферзь, который не может одновременно защитить поля d8 и f7} (3...
+Qe7 4. Nf5 Qe6 5. Qg4 {то перегружается ладья} Rg8 6. Rxd8) 4. Rxd8+ Qxd8 5.
+Nxf7+ 1-0
+
+[Event ">=213 XIV Олимпиада"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Дример"]
+[Black "Помар"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6k1/pb3ppp/1p2p3/4P3/5P2/P1r5/1q4PP/1B2Q1RK b - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rc1 2. Bxh7+ Kh8 ({Последняя надежда белых} 2... Kxh7 $2
+3. Qh4+ Kg8 4. Qd8+ {и ни~~ья}) 3. Qxc1 ({На} 3. Qg3 {~~ерные продолжали} Rxg1+
+4. Kxg1 Qd4+ {беря под контроль поле d8 во избежание ве~~ного шаха, а затем 5..
+.Кр:h7}) 3... Bxg2+ 4. Rxg2 Qxc1+ 5. Rg1 Qc6+ 6. Rg2 Kxh7 {Белые сдались} 0-1
+
+[Event ">=214 Маргет"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Алехин"]
+[Black "Голомбек"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r1r2k1/pp1b2pp/2nqp3/5pN1/3P4/P3P1P1/2Q2PBP/R1R3K1 w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. d5 Ne7 ({Не помагало и} 1... exd5 2. Bxd5+ Qxd5 3. Rd1 Qe5
+4. Qb3+ Be6 5. Nxe6) 2. dxe6 Bxe6 3. Rd1 Qe5 {и другие ходы ферзем приводили к
+тому же результату} 4. Bxb7 {и белые выиграли пешку} 1-0
+
+[Event ">=215 V Всесоo^зный турнир"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ротлеви"]
+[Black "Рубинштейн"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2rr2k1/1b3ppp/pb2p3/1p2P3/1P2BPnq/P1N3P1/1B2Q2P/R4R1K b - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rxc3 $1 {Уни~~тожение защиты слона} 2. gxh4 {отвле~~ение
+пешки} ({В слу~~ае} 2. Bxc3 {~~ерные использовали перегрузку ферзя} Bxe4+ 3.
+Qxe4 Qxh2#) 2... Rd2 $1 {отвле~~ение ферзя} 3. Qxd2 Bxe4+ {связывание ферзя} 4.
+Qg2 Rh3 {Захват пункта и неотразимая кгроза мата 5...Л: h2. Белые сдались.} 0-1
+
+[Event ">=216 Гамбург"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Цветкови~~"]
+[Black "Витолиньш"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/pbr1qpp1/1p1Rp2p/nP6/1QP5/P3PN2/4BPPP/6K1 b - - 0 1"]
+[PlyCount "1"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Nxc4 $1 {~~ерные выигрываo^т пешку} *
+
+[Event ">=217 XXIII п-во СССР"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Микенас"]
+[Black "Бронштейн"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r3r1k1/1p1b1pp1/1p5p/3Pq3/1R6/P2Q1B2/1P4PP/R6K b - - 0 1"]
+[PlyCount "1"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rxa3 $1 {Белые сдались} 0-1
+
+[Event ">=218 Ленинград"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Ботвинник"]
+[Black "Григорьев"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5r1k/p1n1q2p/1p1p1n1Q/3PpB2/5p2/1P4P1/P2R1P1P/4R1K1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxe5 dxe5 2. d6 Qd8 3. dxc7 Qxd2 4. Qxf8+ Ng8 5. c8=Q {
+><ерные сдались} 1-0
+
+[Event ">=219 Поляница-Здруй"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Фурман"]
+[Black "Витковский"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5rrk/p4Rpp/npnb4/8/N4N2/1P4P1/PB5P/4R2K w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Re4 {Угрожая 2.Кg6+ hg3. Лh4х} Bxf4 2. Bxg7+ Rxg7 3. Rxf8+ {
+><ерные сдались} 1-0
+
+[Event ">=220 Ленинград"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Кондратьев"]
+[Black "А.Геллер"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1k6/3b2p1/3P3p/qppn1P2/3p2P1/1P3PBP/1PP1Q3/2KN4 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qe8+ {слон отвлекается с поля d7 и одновременно завлекается
+на поле е8, где должен появится новый ферзь. ><ерные сдались из-за} Bxe8 2. d7+
+Kb7 3. dxe8=Q {с лишней фигурой} 1-0
+
+[Event ">=221 Дрезден"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Энгельс"]
+[Black "Мароци"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r3k1/1p3p2/pn1P2pp/4p3/6Q1/6B1/1bq2PPP/1R3RK1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxb2 Qxb2 2. Qxc8+ Nxc8 3. d7 {и пешка проходит в ферзи} 1-0
+
+[Event ">=222 Москва"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Никитин"]
+[Black "Буткеви~~"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4r1k1/5rPp/3p4/p1pP1b2/Pp3q2/1P2N3/1BB1Q2P/6RK w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Nxf5 Rxe2 2. Ne7+ Rfxe7 3. Bxh7+ Kxh7 4. g8=Q+ {и мат
+следуo^щим ходом} 1-0
+
+[Event ">=223"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "NN"]
+[Black "Капабланка"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1k3r2/7p/1pP5/1P6/P7/6qP/3Q2p1/3R2K1 b - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rf1+ $1 2. Rxf1 Qh2+ $1 3. Kxh2 gxf1=N+ $1 {><ерные
+выигрываo^т} 0-1
+
+[Event ">=224 Магдебург"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Шпильман"]
+[Black "Лерме"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2r2k1/p2nqpp1/2b1p2p/4B1P1/2p4Q/3B4/PPP2P1P/2KR2R1 w - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qxh6 gxh6 2. gxh6+ Kf8 3. Rg8+ {><ерные сдались, потому
+~~то на} Kxg8 {последовало бы} 4. h7+ Kf8 5. h8=Q# 1-0
+
+[Event ">=225 Лондон, сеанс одн. игры вслепуo^"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Алехин"]
+[Black "Шварц"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1n2rr2/R1p1q2k/1pPp3p/1P1Bbp2/2P2B1P/6P1/2Q3K1/4R3 w - - 0 1"]
+[PlyCount "23"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} {Трудно поверить, ~~то ~~ерез 12 форсированных ходов пешка с6
+станет ферзем} 1. c5 $1 bxc5 2. b6 Rc8 3. Qc3 Rfe8 ({Если} 3... Bxc3 {то} 4.
+Rxe7+ Kg6 5. bxc7) 4. Bxe5 dxe5 5. Qxe5 Qxe5 6. Rxe5 Rxe5 7. Rxc7+ Rxc7 8. bxc7
+Re8 9. cxb8=Q Rxb8 10. Be6 Kg6 11. c7 Rf8 12. c8=Q {Белые выиграли} 1-0
+
+[Event ">=226 Рига"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Ауфман"]
+[Black "Жданов"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2kr2r1/1pp5/p1q1b3/2b5/3BP2p/1PP3pP/P2NQ1P1/2R2RK1 b - - 0 1"]
+[PlyCount "13"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Bxh3 2. gxh3 g2 3. Rfe1 {ладья не может уйти с первой
+горизонтали из-за 3...С:d4+} Rxd4 4. cxd4 Bxd4+ 5. Kh2 Qd6+ 6. e5 Bxe5+ {
+Белые сдались} 7. Qxe5 g1=Q+ 0-1
+
+[Event ">=227 ><емпионат РСФСР"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Вельтмандер"]
+[Black "Полугаевский"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4r1k1/5p1p/3q2p1/1p1P4/1P6/2p4P/2Q1nPB1/4RK2 b - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Ng3+ $1 {Белые сдались, потому, ~~то после} 2. fxg3 Qf6+
+3. Qf2 Rxe1+ 4. Kxe1 Qxf2+ 5. Kxf2 c2 {~~ернуo^ пешку не задержать} 0-1
+
+[Event ">=228 Вена"]
+[Site "?"]
+[Date "1911.??.??"]
+[Round "?"]
+[White "Шлехтер"]
+[Black "Перлис"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rn2kbnr/pp2pppp/2P5/8/3Pb3/1P3N2/1P2PPPP/R1B1KB1R w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rxa7 Rxa7 2. c7 {><ерные сдались} 1-0
+
+[Event ">=229"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[White "NN"]
+[Black "Тейхман"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2R5/2p2rpk/1b5p/p4P2/r1p1R1P1/P7/1BP1K3/8 b - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... c3 2. Ree8 Re4+ 3. Rxe4 cxb2 4. Ree8 Re7+ 5. Rxe7 b1=Q {
+и ~~ерные выиграли} 0-1
+
+[Event ">=230 Малага"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Портиш"]
+[Black "Лендьел"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "7k/3q4/6Q1/3p2K1/3P4/4P3/5P2/8 w - - 0 1"]
+[PlyCount "4"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. f4 $2 Qg4+ 2. Kh6 (2. Kxg4 {пат}) 2... Qg5+ {Ни~~ья! Лo^бое
+взятие ведет к пату} 1/2-1/2
+
+[Event ">=231 Одесса"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Пантелеев"]
+[Black "Столяров"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/4Ppk1/6p1/1p6/1Pb1Q3/6pq/8/6K1 w - - 0 1"]
+[PlyCount "8"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} {Слу~~ай с двумя "бешеными" ферзями} 1. Qe5+ Kh7 (1... f6 2.
+e8=N+ {с ни~~ьей}) 2. Qh8+ Kxh8 3. e8=Q+ Kh7 4. Qh8+ Kxh8 1/2-1/2
+
+[Event ">=232 Риека"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Банник"]
+[Black "Ивков"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "k7/1p2q3/pQ2n2B/P2p3P/2pP2P1/2P5/2P2P2/6K1 b - - 0 1"]
+[PlyCount "8"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Nf4 {угрожая 2..Фе1 с быстрым матом} 2. Bxf4 $2 {Ошибка.}
+({Следовало играть} 2. Qb1 {и затем перевести ферзя на королевский фланг}) 2...
+Qe1+ 3. Kg2 Qh1+ 4. Kg3 Qh3+ 5. Kxh3 1/2-1/2
+
+[Event ">=233 Алуксне"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Гоголев"]
+[Black "Варшавский"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "6R1/5p1p/4pN1k/4P1p1/3qQ3/7P/3r2P1/7K b - - 0 1"]
+[PlyCount "8"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rd1+ 2. Kh2 Qg1+ 3. Kg3 Rd3+ 4. Qxd3 Qe3+ 5. Qxe3 {
+><ерная пешка связана. Пат!} 1/2-1/2
+
+[Event ">=234 Будапешт"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Ормош"]
+[Black "Бетацки"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1r6/R7/5p1k/5Qp1/4n1B1/4P2P/2q2PP1/6K1 b - - 0 1"]
+[PlyCount "8"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rb1+ 2. Kh2 Rh1+ 3. Kxh1 Ng3+ 4. fxg3 Qxg2+ 5. Kxg2 {Пат}
+1/2-1/2
+
+[Event ">=235 Ньo^-Йорк"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Маршалл"]
+[Black "Мак-Клo^р"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "k7/2p1rp1P/KpP2R2/7r/1P6/8/8/8 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Rh6 Rxh6 2. h8=Q+ Rxh8 3. b5 {Ни~~ья. Ход ~~ерных, но они
+не могут освободить белого короля из патового окружения} 1/2-1/2
+
+[Event ">=236"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5r1k/R6P/6P1/8/8/4K3/8/8 b - - 0 1"]
+[PlyCount "1"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rf3+ {Ни~~ья. Белый король не может уйти от преследований
+"бешеной" ладьи} 1/2-1/2
+
+[Event ">=237 Москва"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Титенко"]
+[Black "Мурей"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2Q5/8/p3R3/P5pP/3p2P1/3k4/3q4/6K1 b - - 0 1"]
+[PlyCount "2"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Qc1+ 2. Qxc1 1/2-1/2
+
+[Event ">=238 Рига"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Лаздыньш"]
+[Black "Земитис"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "3R4/4Qpk1/4p1p1/7p/7K/5rP1/5P2/2q5 w - - 0 1"]
+[PlyCount "10"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qf8+ Kf6 2. Qh8+ Kf5 3. g4+ hxg4 4. Rd5+ exd5 5. Qc8+ Qxc8 {
+Пат} 1/2-1/2
+
+[Event ">=239 ФРГ"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Папе"]
+[Black "Рот"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/4p3/8/3P3p/P2pK3/6P1/7b/3k4 w - - 0 1"]
+[PlyCount "10"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. d6 exd6 2. Kd3 Bxg3 3. a5 d5 4. a6 Bb8 5. a7 Bxa7 {Пат}
+1/2-1/2
+
+[Event ">=240"]
+[Site "?"]
+[Date "1782.??.??"]
+[Round "?"]
+[White "Понциани"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/3b4/pkp5/1p6/P2qp2B/8/7Q/7K w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bf2 e3 2. Bxe3 Qxe3 3. Qf2 Qxf2 4. a5+ {пат} 1/2-1/2
+
+[Event ">=241 Хабаровск"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Хасдан"]
+[Black "Кло~~ко"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "r2qr1k1/pp4p1/2pb1n1p/5Q1b/2PPN3/4pPP1/PP4BP/R1B2RK1 b - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rxe4 2. fxe4 Bg4 3. Qg6 Bh5 4. Qf5 Bg4 {Белому ферзo^ не
+уйти от преследования. Ни~~ья} 1/2-1/2
+
+[Event ">=242 Таллин"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Ней"]
+[Black "Рытов"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "r4rk1/pbpnq1p1/1p2p2p/4Pp1Q/3P2P1/2PB4/P1PN3P/R4RK1 b - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Nxe5 2. dxe5 Qc5+ 3. Rf2 Qd5 4. Rf3 Qc5+ {Ни~~ья} 1/2-1/2
+
+[Event ">=243 Вильнo^с"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Копаев"]
+[Black "Вистанецкис"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5rk1/8/2p1r1p1/3p1n2/R1qP3P/4P2P/1R3P2/3QB1K1 b - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Qf1+ 2. Kxf1 Nxe3+ 3. Ke2 Nc4+ {Ни~~ья. Белые не могут
+избежать повторения ходов. Например} 4. Kd3 Nxb2+ {и ~~ерные выигрываo^т}
+1/2-1/2
+
+[Event ">=244 Лиепая"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Кенсмин"]
+[Black "Давидсон"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4r1k1/5p2/3p1Pp1/3P2P1/n1nB1N2/1p3K2/7R/8 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Nxg6 fxg6 2. Rh8+ Kf7 ({Не проигрывать же} 2... Kxh8 $2 3.
+f7+) 3. Rh7+ {Ни~~ья} 1/2-1/2
+
+[Event ">=245 Московская обл."]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Шман"]
+[Black "Орлов"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "3r1rk1/p3q1pp/2Rb4/3P4/8/1P2Qp2/PB3PPP/3R2K1 b - - 0 1"]
+[PlyCount "13"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Bxh2+ 2. Kxh2 Qh4+ 3. Kg1 fxg2 4. Kxg2 Rxf2+ 5. Qxf2 Qg4+
+6. Qg3 Qe2+ 7. Kh3 Qh5+ {От шахов по диагонали d1-h5 не укрыться. Ни~~ья}
+1/2-1/2
+
+[Event ">=246 Англия"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Литлвуд"]
+[Black "Хинкль"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2rq1rk1/5ppp/2b1pb2/np6/6N1/2NBB3/PP4PP/R2Q3K w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Bb6 Qxb6 2. Nxf6+ gxf6 3. Bxh7+ Kxh7 ({или} 3... Kh8 4. Qh5
+Bxg2+ 5. Kxg2) 4. Qh5+ {Ни~~ья} 1/2-1/2
+
+[Event ">=247 Гемшивар"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Беженару"]
+[Black "Сабо"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5rrk/3R1Qbp/6p1/6P1/8/1PP5/q5P1/5R1K w - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qxg7+ Rxg7 2. Rxf8+ Rg8 3. Rff7 Rc8 4. Rxh7+ {Ни~~ья}
+1/2-1/2
+
+[Event ">=248 Киев"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Резник"]
+[Black "Вол~~ок"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "r3k3/1b2n2p/p2BBqr1/1pb2N2/8/7P/PP1R3K/4QR2 b - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Qxf5 2. Bxf5 ({После} 2. Rxf5 Bxd6+ 3. Re5 Bc7 {белые
+попадали в крити~~еское положение}) 2... Bxd6+ 3. Rxd6 Rg2+ 4. Kh1 Re2+ {Ни~~ья
+} 1/2-1/2
+
+[Event ">=249 Киев"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Зурахов"]
+[Black "Бухман"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "r4rk1/3bppbp/2np1np1/p7/1p2PP1q/1B2BQNP/PPP1N1P1/3R1RK1 b - - 0 1"]
+[PlyCount "9"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Bg4 2. hxg4 (2. Qf2 Bxe2 3. Nxe2 Qxf2+ 4. Rxf2 Nxe4) 2...
+Nxg4 3. Rfe1 Nh2 4. Qf2 Ng4 5. Qf3 Nh2 {Ни~~ья} 1/2-1/2
+
+[Event ">=250 Сараево"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Осмонаги~~"]
+[Black "Глигори~~"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2r2bk1/pp3p2/4NPp1/3pP1Q1/b5P1/3R4/P3q3/2r2RK1 w - - 0 1"]
+[PlyCount "11"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1. Qxg6+ fxg6 2. f7+ Kh7 3. Rh3+ Bh6 4. Ng5+ Kg7 5. Ne6+ Kh7 6.
+Ng5+ {Ни~~ья} 1/2-1/2
+
+[Event ">=251 o/oгославия"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Стояновски"]
+[Black "Гузел"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2Q5/p1p2k2/2pb1n2/5Pp1/3Pp2q/2P2pR1/PP3P1P/6RK b - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Qxh2+ 2. Kxh2 Ng4+ {Ни~~ья} 1/2-1/2
+
+[Event ">=252 П-во США"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Р.Бирн"]
+[Black "Эванс"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/3R1Qbk/6p1/2q2p1p/2N2P2/1r4PP/4P1K1/8 b - - 0 1"]
+[PlyCount "17"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rxg3+ 2. Kxg3 Qg1+ 3. Kf3 Qf1+ 4. Ke3 Qxh3+ 5. Kf2 Qh4+ 6.
+Kg2 Qg4+ 7. Kf2 Qxf4+ 8. Ke1 Qg3+ 9. Kd1 Qb3+ {Ни~~ья} 1/2-1/2
+
+[Event ">=253 Стокгольм"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Унцикер"]
+[Black "Авербах"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5rk1/1rP3pp/p4n2/3Pp3/1P2Pq2/2Q4P/P5P1/R3R1K1 b - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Уроки шахматной тактики"]
+[Source "ChessZone.org"]
+[SourceDate "2007.04.29"]
+[SourceVersionDate "2007.04.29"]
+[SourceQuality "1"]
+
+{Диаграмма [#]} 1... Rxc7 2. Qxc7 Ng4 3. hxg4 Qf2+ {и ве~~ный шах} 1/2-1/2
+
