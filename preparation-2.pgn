@@ -1,0 +1,37 @@
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.e4 e5 
+    ( 1...c5 2.c3 e6 3.d4 d5 4.e5 Nc6 5.Nf3 Qb6 6.Be2 a5 7.O-O Bd7 8.Na3 
+    c4 9.Nc2 a4 10.h4 Nge7 11.h5 h6 12.Nh4 Nf5 13.Nf3 Nfe7 14.Nh2 g5 15.f4
+    gxf4 16.Bxf4 O-O-O 17.g4 Bg7 18.Kh1 Na5 19.Rb1 Nec6 20.g5 Rdf8 21.gxh6
+    Bxh6 22.Qd2 Bxf4 23.Rxf4 Ne7 24.Ne3 Nf5 25.Nxf5 exf5 26.Rh4 Qh6 27.
+    Qxh6 Rxh6 28.Nf1 f6 29.exf6 Rfxf6 30.Bf3 Rd6 31.Ne3 f4 32.Rxf4 Rdf6 
+    33.Rxf6 Rxf6 34.Bg4 Bxg4 35.Nxg4 Rf4 36.Rg1 Rf3 37.h6 Nc6 38.Kg2 Rf8 
+    39.h7 Ne7 40.Nf6 Rh8 41.Kf3 Kc7 42.Kf4 Kd6 43.Kg5 Ke6 44.Re1+ Kf7 45.
+    a3 b5 46.Re2 Ng6 47.Re8 Nf8 48.Kf5 Kg7 49.Re7+ Kh6 50.Ng8+ 
+        ( 50.Rf7 Ng6 51.Ng4+ Kh5 52.Ne5 Nh4+ 53.Ke6 Re8+ 54.Re7 Rh8 55.Kf6
+        Kh6 56.Nf7+ Kh5 57.Nxh8 )
+    50...Kh5 51.Re8 Ng6 52.Nf6+ Kh6 53.Rg8 Ne7+ 54.Ke6 Nxg8 55.hxg8=Q Rxg8
+    56.Nxg8+ Kg5 )
+2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.O-O h6 6.c3 d6 7.Re1 O-O 8.a4 a6 9.a5 Ba7 
+10.Nbd2 Kh8 
+    { [%draw arrow,f6,h7,green] [%draw arrow,f7,f5,green]}
+11.Nf1 Nh7 12.Qb3 f5 13.h3 fxe4 
+    { [%draw arrow,f8,f2,green] [%draw arrow,a7,f2,green]}
+14.dxe4 Bxh3 
+    { [%draw arrow,g2,h3,green] [%draw arrow,f8,f3,green]}
+    ( 14...Rxf3 15.gxf3 Qh4 16.Re3 Ng5 17.Ng3 Bxh3 18.Nf5 Bxf5 19.exf5 
+    Bxe3 20.Bxe3 Nxf3+ 21.Kf1 Qh1+ 22.Ke2 Qxa1 23.Kxf3 Nxa5 24.Qa2 Qd1+ 
+    25.Be2 e4+ 26.Kxe4 Qxe2 27.Qxa5 Qg4+ 28.Kd3 Qd1+ 29.Bd2 Qb1+ 30.Ke2 
+    Qxb2 31.Qa4 Qb5+ 32.Qxb5 axb5 )
+15.Ng3 Bg4 16.Nh2 Bxf2+ 17.Kh1 Bxg3 18.Nxg4 Qh4+ 19.Kg1 Qh2+ 
+    ( 19...Bf2+ 20.Kf1 Qxg4 21.Bf7 Bxe1 22.Kxe1 Qxe4+ 23.Kd1 Qg4+ 24.Ke1 
+    Qxg2 25.Qd5 Qg1+ 26.Kd2 Qf2+ 27.Kd1 Qxf7 28.Qxf7 Rxf7 )
+*
+

@@ -1,0 +1,162 @@
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.O-O h6 6.c3 d6 7.Re1 O-O 8.a4 a6 9.
+a5 Ba7 10.Nbd2 Kh8 
+    { [%draw arrow,f6,h7,green] [%draw arrow,f7,f5,green]}
+11.Nf1 Nh7 12.Qb3 f5 13.h3 fxe4 
+    { [%draw arrow,f8,f2,green] [%draw arrow,a7,f2,green]}
+14.dxe4 Bxh3 
+    { [%draw arrow,g2,h3,green] [%draw arrow,f8,f3,green]}
+    ( 14...Rxf3 15.gxf3 Qh4 16.Re3 Ng5 17.Ng3 Bxh3 18.Nf5 Bxf5 19.exf5 
+    Bxe3 20.Bxe3 Nxf3+ 21.Kf1 Qh1+ 22.Ke2 Qxa1 23.Kxf3 Nxa5 24.Qa2 Qd1+ 
+    25.Be2 e4+ 26.Kxe4 Qxe2 27.Qxa5 Qg4+ 28.Kd3 Qd1+ 29.Bd2 Qb1+ 30.Ke2 
+    Qxb2 31.Qa4 Qb5+ 32.Qxb5 axb5 )
+15.Ng3 Bg4 16.Nh2 Bxf2+ 17.Kh1 Bxg3 18.Nxg4 Qh4+ 19.Kg1 Qh2+ 
+    ( 19...Bf2+ 20.Kf1 Qxg4 21.Bf7 Bxe1 22.Kxe1 Qxe4+ 23.Kd1 Qg4+ 24.Ke1 
+    Qxg2 25.Qd5 Qg1+ 26.Kd2 Qf2+ 27.Kd1 Qxf7 28.Qxf7 Rxf7 )
+*
+
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.O-O h6 6.c3 d6 7.Re1 O-O 8.a4 a6 9.a5 Ba7
+10.Nbd2 Kh8 {[%draw arrow,f6,h7,green] [%draw arrow,f7,f5,green]} 11.Nf1 Nh7
+12.Qb3 f5 13.h3 fxe4 {[%draw arrow,f8,f2,green] [%draw arrow,a7,f2,green]}
+14.dxe4 Bxh3 {[%draw arrow,g2,h3,green] [%draw arrow,f8,f3,green]} (14...Rxf3
+15.gxf3 Qh4 16.Re3 Ng5 17.Ng3 Bxh3 18.Nf5 Bxf5 19.exf5 Bxe3 20.Bxe3 Nxf3+ 21.Kf1
+Qh1+ 22.Ke2 Qxa1 23.Kxf3 Nxa5 24.Qa2 Qd1+ 25.Be2 e4+ 26.Kxe4 Qxe2 27.Qxa5 Qg4+
+28.Kd3 Qd1+ 29.Bd2 Qb1+ 30.Ke2 Qxb2 31.Qa4 Qb5+ 32.Qxb5 axb5) 15.Ng3 Bg4 16.Nh2
+Bxf2+ 17.Kh1 Bxg3 18.Nxg4 Qh4+ 19.Kg1 Qh2+ (19...Bf2+ 20.Kf1 Qxg4 21.Bf7 Bxe1
+22.Kxe1 Qxe4+ 23.Kd1 Qg4+ 24.Ke1 Qxg2 25.Qd5 Qg1+ 26.Kd2 Qf2+ 27.Kd1 Qxf7
+28.Qxf7 Rxf7)
+*
+
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.e4 e5 (1...c5 2.c3 e6 3.d4 d5 4.e5 Nc6 5.Nf3 Qb6 6.Be2 a5 7.O-O Bd7 8.Na3 c4
+9.Nc2 a4 10.h4 Nge7 11.h5 h6 12.Nh4 Nf5 13.Nf3 Nfe7 14.Nh2 g5 15.f4 gxf4 16.Bxf4
+O-O-O 17.g4 Bg7 18.Kh1 Na5 19.Rb1 Nec6 20.g5 Rdf8 21.gxh6 Bxh6 22.Qd2 Bxf4
+23.Rxf4 Ne7 24.Ne3 Nf5 25.Nxf5 exf5 26.Rh4 Qh6 27.Qxh6 Rxh6 28.Nf1 f6 29.exf6
+Rfxf6 30.Bf3 Rd6 31.Ne3 f4 32.Rxf4 Rdf6 33.Rxf6 Rxf6 34.Bg4 Bxg4 35.Nxg4 Rf4
+36.Rg1 Rf3 37.h6 Nc6 38.Kg2 Rf8 39.h7 Ne7 40.Nf6 Rh8 41.Kf3 Kc7 42.Kf4 Kd6
+43.Kg5 Ke6 44.Re1+ Kf7 45.a3 b5 46.Re2 Ng6 47.Re8 Nf8 48.Kf5 Kg7 49.Re7+ Kh6
+50.Ng8+ (50.Rf7 Ng6 51.Ng4+ Kh5 52.Ne5 Nh4+ 53.Ke6 Re8+ 54.Re7 Rh8 55.Kf6 Kh6
+56.Nf7+ Kh5 57.Nxh8) 50...Kh5 51.Re8 Ng6 52.Nf6+ Kh6 53.Rg8 Ne7+ 54.Ke6 Nxg8
+55.hxg8=Q Rxg8 56.Nxg8+ Kg5) 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.O-O h6 6.c3 d6 7.Re1
+O-O 8.a4 a6 9.a5 Ba7 10.Nbd2 Kh8
+{[%draw arrow,f6,h7,green] [%draw arrow,f7,f5,green]} 11.Nf1 Nh7 12.Qb3 f5 13.h3
+fxe4 {[%draw arrow,f8,f2,green] [%draw arrow,a7,f2,green]} 14.dxe4 Bxh3
+{[%draw arrow,g2,h3,green] [%draw arrow,f8,f3,green]} (14...Rxf3 15.gxf3 Qh4
+16.Re3 Ng5 17.Ng3 Bxh3 18.Nf5 Bxf5 19.exf5 Bxe3 20.Bxe3 Nxf3+ 21.Kf1 Qh1+ 22.Ke2
+Qxa1 23.Kxf3 Nxa5 24.Qa2 Qd1+ 25.Be2 e4+ 26.Kxe4 Qxe2 27.Qxa5 Qg4+ 28.Kd3 Qd1+
+29.Bd2 Qb1+ 30.Ke2 Qxb2 31.Qa4 Qb5+ 32.Qxb5 axb5) 15.Ng3 Bg4 16.Nh2 Bxf2+ 17.Kh1
+Bxg3 18.Nxg4 Qh4+ 19.Kg1 Qh2+ (19...Bf2+ 20.Kf1 Qxg4 21.Bf7 Bxe1 22.Kxe1 Qxe4+
+23.Kd1 Qg4+ 24.Ke1 Qxg2 25.Qd5 Qg1+ 26.Kd2 Qf2+ 27.Kd1 Qxf7 28.Qxf7 Rxf7)
+*
+
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.e4 d5 2.Nc3 d4 3.Nd5 e5 4.Bc4 c6 5.Nb4 Bxb4 6.c3 Bc5 7.d3 Nf6 8.Nf3 Bg4 9.O-O
+O-O 10.h3 Bxf3 11.Qxf3 Nbd7 12.Bg5 Be7 13.cxd4 exd4 14.Rfe1 Ne5 15.Rac1 Nxc4
+16.Rxc4 Nd7 17.Rec1 Bxg5
+*
+
+[Event ""]
+[Site ""]
+[Date "2024.05.21"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+
+*
+
+[Event ""]
+[Site ""]
+[Date "2024.05.21"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+[__replace_game__ "4"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Bd3 e6 6.O-O Nd7 7.Re1 Bg6 8.b3 Ngf6
+9.Bb2 Be7 10.Qe2 O-O 11.h3 Nd5 12.c4 Nf4 13.Qd1 Nxd3 14.Rf1 Nxb2 15.Rb1 Nxd1
+*
+
+[Event ""]
+[Site ""]
+[Date "2024.05.21"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.Nf3 c6 5.d4 Bf5 6.Bc4 e6 7.Bd2 Nf6 8.O-O Bb4
+9.a3 Bxc3 10.Bxc3 Qc7 11.Ne5 Nbd7 12.Re1 O-O 13.Bd3 Bxd3 14.Qxd3 Rad8 15.Qf3
+(15.Qg3 Nd5
+{ [%draw arrow,d5,c7,green] [%draw arrow,g3,c7,green] [%draw arrow,d5,c3,green]}
+16.Bd2 f6 17.Nxd7 Qxd7 { [%draw arrow,d7,e6,green]} 18.Be3 b5
+{ [%draw arrow,c2,c4,green]} 19.Re2 a5 20.Rae1 Rfe8 21.c3 a4 22.Bd2 Qd6 23.Qh3
+Nc7 { [%draw arrow,c7,e6,green]} 24.Re4 Qd7 25.Rh4 g6 26.Rhe4 e5
+{ [%draw arrow,d8,d2,green]} 27.Qxd7 Rxd7 28.Be3 Nd5 29.dxe5 f5 30.Rh4 Rxe5
+31.Kf1 Rde7 32.Bd2 Rxe1+ 33.Bxe1 Re4 34.f3 Rxh4 35.Bxh4 Ne3+ 36.Kf2 Nc4 37.Be7
+Kf7 38.Bb4 Nxb2 39.Ke2 Ke6 40.Kd2 Kd5 41.Ke3 c5 42.Ba5 Nc4+)
+*
+
+[Event ""]
+[Site ""]
+[Date "2024.05.21"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 Bc5 4.Nf3 d6 5.c3 Bg4 6.Nbd2 c6 7.h3 Bxf3 8.Nxf3 Nbd7
+9.O-O Nb6 10.Bb3 d5 11.Nxe5 { [%draw arrow,b3,f7,green]} 11...O-O 12.exd5 cxd5
+13.d4 Bd6 14.Bg5 { [%draw arrow,b3,c2,green] [%draw arrow,d1,d3,green]} 14...Qc7
+15.Bxf6 gxf6 16.Ng4 f5 17.Nh6+ Kh8 18.Nxf5 Bh2+ 19.Kh1 Rg8 20.g3 Bxg3 21.fxg3
+Rxg3 22.Nxg3 Qxg3 23.Qf3 Qh4 24.Qf6+ Qxf6 25.Rxf6 Kg7 26.Raf1 Rf8 27.Rxb6 axb6
+28.Bxd5 f6 29.Rg1+ Kh6 30.Rg7 (30.Rg8 Rxg8 31.Bxg8 Kg5 32.Bxh7 Kf4 33.h4)
+*
+
+[Event ""]
+[Site ""]
+[Date "2024.05.21"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.c5 Nd5 5.Nc3 Nxc3 6.dxc3 g6 7.h4 h5 8.Nf3 Bg7 9.Bc4
+Nc6 10.Bf4 O-O 11.Qd3 Na5 12.Bb5 c6 13.Ba4 b5 14.Bc2 Nb7 15.g4 Nxc5 16.Qe3 hxg4
+17.h5 gxf3 18.Bh6 Ne6 19.Bxg7 Kxg7 20.hxg6 Rh8 21.O-O-O fxg6 22.Rdg1 g5 23.Rxg5+
+Kf7 24.Qxf3+ Nf4 25.Qxf4+ Ke6 26.Bb3+ d5 27.Qf5#
+*
+
