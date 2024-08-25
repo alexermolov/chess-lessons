@@ -1,0 +1,45 @@
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.e4 Nf6 2.Nc3 d5 3.e5 d4 4.Nce2 Ng4 5.f4 c5 6.Ng3 Nc6 7.Nf3 f6 8.Bc4 e6 
+9.O-O Be7 10.Nh4 Nh6 11.Qh5+ Nf7 12.exf6 gxf6 13.f5 Ne5 14.fxe6 *
+
+[Event ""]
+[Site ""]
+[Date "2024.07.24"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.f3 d5 6.Nxc6 bxc6 7.e5 Nd7 8.f4 
+e6 9.Bd3 Qb6 10.Nc3 f6 11.Qe2 fxe5 12.fxe5 Bb4 13.Bd2 Qd4 14.O-O-O Nxe5 
+15.a3 Nxd3+ 16.cxd3 Be7 17.Be3 Qe5 18.d4 Qf6 19.Rhf1 Qg6 20.g4 e5 21.dxe5 
+Bxg4 22.Qa6 Bxd1 23.Rxd1 O-O 24.Qb7 Qe6 25.Bf4 Rae8 26.Bg3 Rf7 27.Qa6 Bg5+
+28.Kb1 Bf4 29.Bxf4 Rxf4 30.Qxa7 Qxe5 31.Qd7 Rf2 32.Qxc6 Rb8 33.Na4 Rfxb2+ 
+34.Ka1 Rb1+ 35.Ka2 Qa1# *
+
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Nf6 5.Ng5 h6 6.N5f3 Bg4 7.Bc4 e6 8.h3 
+Bh5 9.g4 Bg6 10.Ne5 Bh7 11.c3 Bd6 12.f4 Nd5 13.Ngf3 Nd7 14.Qe2 b5 15.Bb3 
+    ( 15.Nxc6 Qc8 16.Bxd5 O-O 17.Ne7+ Bxe7 18.Bxa8 Qxa8 19.O-O )
+15...a5 16.Nxc6 Nxf4 17.Bxf4 Qc7 18.Bxd6 Qxd6 19.Nce5 a4 20.Bc2 Bxc2 21.
+Qxc2 a3 22.O-O O-O 23.Nxd7 Qxd7 24.b3 Qc7 25.Rac1 Rfd8 26.Qg2 Rd5 27.g5 h5
+28.Ne5 Rf8 29.Qf3 g6 30.Kh1 Qa7 31.Nxg6 Rc8 32.Ne5 b4 33.Qxh5 Qb7 34.Rxf7 
+Rd7+ 35.Rf3 Rf8 36.Rf1 Rh7 37.Qg6+ Kh8 38.Kh2 Rxf3 39.Rxf3 Qxf3 40.Nxf3 
+Rg7 41.Qxg7+ Kxg7 42.cxb4 e5 43.b5 e4 44.b6 exf3 45.b7 f2 46.Kg2 f1=Q+ 47.
+Kxf1 Kg6 48.b8=Q Kxg5 49.Qe5+ *
+
