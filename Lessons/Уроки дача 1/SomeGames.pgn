@@ -1,0 +1,56 @@
+[Event "Против шотландки"]
+[Site ""]
+[Date "2024.08.28"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nc3 Bb4 6.Nxc6 dxc6 7.Bd3 Nf6 8.
+O-O Bc5 9.g3 Qh3 10.Qf3 Bg4 11.Qg2 Qh5 12.Re1 Bf3 13.Qf1 Ng4 *
+
+[Event "Против карокана"]
+[Site ""]
+[Date "2024.08.28"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 e6 5.g4 Bg6 6.Nge2 c5 7.h4 h5 8.Nf4 Nc6 9.
+Nxg6 fxg6 10.Bd3 cxd4 11.Bxg6+ Kd7 12.Ne2 Bb4+ 13.Kf1 Nxe5 14.gxh5 Nxg6 
+15.Qxd4 Qb6 16.Qxb6 axb6 17.hxg6 Nf6 18.Be3 Rac8 19.c3 Bc5 20.Bxc5 Rxc5 
+21.Ng3 Rh6 22.h5 Kc6 23.Re1 Kd6 24.Kg2 Ng4 25.Re2 Ne5 26.Rhe1 Nd7 27.Rxe6+
+Kc7 28.Re7 Kd8 29.Rxg7 d4 30.Ree7 Rd5 31.Rxd7+ Rxd7 32.Rxd7+ Kxd7 33.g7 
+dxc3 34.bxc3 Rc6 35.g8=Q Rxc3 36.Qg7+ Kc8 37.Qxc3+ *
+
+[Event "Против ферзевого староиндийкой"]
+[Site ""]
+[Date "2024.08.28"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 O-O 5.Be2 d6 6.Bg5 c5 7.dxc5 Qa5 8.Qc2 
+Nxe4 9.Bxe7 Nxc3 10.Bxf8 Kxf8 11.Kf1 Nxe2 12.Qxe2 Qxc5 13.Nf3 Be6 14.b3 
+Bxa1 15.Ng5 Qxg5 16.Qxe6 fxe6 17.h4 Qd2 18.g4 Bd4 19.Kg2 Qxf2+ 20.Kh3 Qf3+
+21.Kh2 Bf2 22.h5 Qg3# *
+
+[Event "Гамбит Морра против сицилианки"]
+[Site ""]
+[Date "2024.08.28"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.c3 dxc3 5.Nxc3 Nc6 6.Bc4 Nf6 7.O-O e6 8.Bf4 
+Be7 9.Qe2 O-O 10.Rfd1 Qc7 11.Nb5 Qb8 12.Nxd6 e5 13.Nxe5 Bxd6 14.Nxc6 bxc6 
+15.Bxd6 Qb6 16.Bxf8 Kxf8 17.Qd2 Bg4 18.Qd6+ Kg8 19.Rd4 h6 20.e5 Ne8 21.Qe7
+Qxd4 22.Qxf7+ Kh7 23.Qg8+ Kg6 24.Bf7+ Kg5 25.Bxe8 Qxe5 26.h3 Rxe8 27.Qf7 
+Bf5 28.f4+ Kxf4 29.Rf1+ Kg3 30.Rf3+ Kh4 31.Rxf5 Qe1+ 32.Rf1 Qe3+ 33.Kh1 
+Qg3 34.Rf4+ Qxf4 35.Qxf4+ Kh5 36.Qg4# *
+

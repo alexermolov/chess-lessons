@@ -1,0 +1,316 @@
+﻿[Event "Чемпионат СССР,"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "В. Смыслов"]
+[Black "П. Керес"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6k1/8/5P2/1p3n2/8/3Q1K2/P7/4r3 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1941.??.??"]
+[SourceVersionDate "2023.08.21"]
+
+{[%evp 0,7,707,1014,1016,1016,1016,1016,1016,1012]} {[#]} 1. Qxf5 Rf1+ 2. Kg4
+Rxf5 3. Kxf5 Kf7 4. a3 1-0
+
+[Event "Минск,"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Г. Каспаров"]
+[Black "А. Юсупов"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6k1/2R2p2/8/pp3r1p/6p1/1BP5/PP4KP/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1941.??.??"]
+[SourceVersionDate "2023.08.21"]
+
+{[%evp 0,19,288,396,413,413,476,576,688,40,688,815,1002,555,1079,1086,1130,
+1132,1904,2143,29957,29958]} {[#]} 1. Rxf7 Rxf7 2. Kg3 a4 3. Bxf7+ Kxf7 4. Kh4
+Kg6 5. b3 a3 6. c4 bxc4 7. bxc4 Kf5 8. Kxh5 Ke4 9. Kxg4 Kd4 10. h4 1-0
+
+[Event "Чемпионат РФ, 1 Лига,"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "М. Ракитская"]
+[Black "Ю. Машинская"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3k4/ppp3b1/4p3/4P2p/4K1n1/3N4/PP4P1/8 b - - 0 1"]
+[PlyCount "17"]
+[EventDate "2005.??.??"]
+[SourceVersionDate "2023.08.21"]
+
+{[%evp 0,17,-407,-200,-200,-208,-203,-203,-217,-222,-329,-335,-589,-717,-1015,
+-1015,-1015,-980,-1210,-967]} {[#]} 1... Bxe5 2. Nxe5 Nxe5 3. Kxe5 Ke7 4. b4 c6
+5. a4 b6 6. b5 c5 7. g3 Kd7 8. Kf4 Kd6 9. Kg5 c4 0-1
+
+[Event "Чемпионат РФ, 1 Лига,"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Ю. Машинская"]
+[Black "Ю. Комаришкина"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "Q7/4nk2/3rbq2/2pp4/5pP1/1P3B2/P3RP2/4R1K1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "2002.??.??"]
+[SourceVersionDate "2023.08.21"]
+
+{[%evp 0,11,536,379,406,397,397,411,942,1824,1914,1914,1914,1914]} {[#]} 1.
+Rxe6 Rxe6 2. Bxd5 Nxd5 3. Qxd5 f3 4. Qxe6+ Qxe6 5. Rxe6 Kxe6 6. Kh2 1-0
+
+[Event "Полуфинал СССР,"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Р. Нежметдинов"]
+[Black "И. Араманович"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7r/pp1k1p2/8/3PbN2/7B/2P5/6P1/3K3R w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1949.??.??"]
+[SourceVersionDate "2023.08.21"]
+
+{[%evp 0,13,325,329,341,284,351,370,348,346,708,862,929,957,1187,1187]} {[#]} 
+1. Re1 f6 2. Bg3 Rh5 3. Bxe5 Rxf5 4. g4 Rxe5 5. Rxe5 fxe5 6. g5 Ke7 7. g6 1-0
+
+[Event "Будапешт,"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "А. Хорват"]
+[Black "Р. Хасангатин"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r7/P3R3/1K2p1k1/6p1/8/7p/P7/8 b - - 0 1"]
+[PlyCount "21"]
+[SourceVersionDate "2023.08.21"]
+
+{[#]} 1... g4 2. Rxe6+ Kg5 3. Re5+ Kh4 4. Re7 g3 5. Rh7+ Kg4 6. Kb7 Rxa7+ 7.
+Kxa7 g2 8. Rg7+ Kf3 9. a4 h2 10. Rxg2 Kxg2 11. a5 h1=Q 0-1
+
+[Event "Командн. чемпионат РФ"]
+[Site "?"]
+[Date "2020.??.??"]
+[Round "?"]
+[White "Е. Наер"]
+[Black "В. Артемьев"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1b3n2/1P5p/8/3Kpk2/1N6/8/8/8 b - - 0 1"]
+[PlyCount "11"]
+[EventDate "2020.??.??"]
+[SourceVersionDate "2023.08.21"]
+
+{[%evp 0,11,-599,-618,-945,-1012,-1448,-1299,-1444,-1934,-2242,-1013,-1441,
+-1463]} {[#]} 1... h5 2. Na6 Nd7 3. Nxb8 Nxb8 4. Kd6 e4 5. Kc7 e3 6. Kxb8 e2
+0-1
+
+[Event "Полуфинал России"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "А. Алавкин"]
+[Black "М. Хасанов"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/7p/5p1k/8/3N1K1P/8/8/8 w - - 0 1"]
+[PlyCount "13"]
+[SourceVersionDate "2023.08.21"]
+
+{[#]} 1. Kf5 Kh5 2. Nf3 h6 3. Kxf6 Kg4 4. Kg6 h5 5. Kh6 Kxf3 6. Kxh5 Kf4 7. Kg6
+1-0
+
+[Event "ПриФО,"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "В. Ахмадеев"]
+[Black "Р. Шарипов"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3q3k/8/1p6/p6P/P5P1/1P3Q1K/8/8 w - - 0 1"]
+[PlyCount "9"]
+[SourceVersionDate "2023.08.21"]
+
+{[#]} 1. Qe3 Kh7 2. g5 Qd6 3. Qe4+ Kg8 4. Qg6+ Qxg6 5. hxg6 1-0
+
+[Event "Кубок Европы онлайн,"]
+[Site "?"]
+[Date "2021.??.??"]
+[Round "?"]
+[White "В. Артемьев"]
+[Black "М. Блюбаум"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/1R6/5k2/2pB1p2/2Pn1P1K/r5P1/8/8 w - - 0 1"]
+[PlyCount "3"]
+[SourceVersionDate "2023.08.21"]
+
+{[#]} 1. Kh5 $1 Ne6 2. Rb6 1-0
+
+[Event "Кубок России,"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "С. Юдин"]
+[Black "В. Яндемиров"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/2p1kppQ/1p1p3p/3P3P/P1P3PK/P4q2/8/8 b - - 0 1"]
+[PlyCount "3"]
+[SourceVersionDate "2023.08.21"]
+
+{[#]} 1... Qg2 2. Qd3 Qh2+ {Белые сдались} 0-1
+
+[Event "Кубок России,"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "В. Яндемиров"]
+[Black "А. Нагимов"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/1r1k3p/R3p2P/3pP3/1P1N4/2P4b/1K6/8 w - - 0 1"]
+[PlyCount "11"]
+[SourceVersionDate "2023.08.21"]
+
+{[#]} 1. Ra8 Bf5 2. Rg8 Kc7 3. Rg7+ Kb6 4. Rxb7+ Kxb7 5. Nxf5 exf5 6. Kc2 1-0
+
+[Event "Чемпионат Мира, рапид,"]
+[Site "?"]
+[Date "2021.??.??"]
+[Round "?"]
+[White "А. Тимофеев"]
+[Black "Ф. Блохбергер"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/5r1k/2Pp3p/3Pb3/4pp1P/B6K/1p3P2/1R6 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "2021.??.??"]
+[SourceVersionDate "2023.08.21"]
+
+{[%evp 0,9,167,167,153,153,157,67,472,226,468,1238]} {[#]} 1. Bxb2 Bxb2 2. Rxb2
+Kg6 3. Rb7 e3 4. fxe3 fxe3 5. Rxf7 1-0
+
+[Event "Межзональный турнир,"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "А. Марич"]
+[Black "А. Галлямова"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/2n5/2k5/1pB2p2/1P2p3/4P1K1/8/8 w - - 0 1"]
+[PlyCount "18"]
+[SourceVersionDate "2023.08.21"]
+
+{[#]} 1. Kf4 Ne6+ 2. Kxf5 Nxc5 3. bxc5 Kxc5 4. Kxe4 Kc4 5. Kf3 b4 6. Ke2 Kc3 7.
+Kd1 Kb2 8. e4 b3 9. e5 Ka2 0-1
+
+[Event "Новгород,"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "И. Ибрагимов"]
+[Black "А. Захаров"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/Pk1p2p1/3P1nPp/1B2K3/7P/8/8 w - - 0 1"]
+[PlyCount "5"]
+[SourceVersionDate "2023.08.21"]
+
+{[#]} 1. Bxd6 $1 Nxd6+ 2. Ke5 Ne8 3. d6 1-0
+
+[Event "США,"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "А. Кречетов"]
+[Black "И. Ибрагимов"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5rk1/p5p1/1p1p4/3P4/r1PR2P1/7P/5pK1/5R2 b - - 0 1"]
+[PlyCount "11"]
+[SourceVersionDate "2023.08.21"]
+
+{[#]} 1... b5 2. Rxf2 Rxc4 3. Rxc4 Rxf2+ 4. Kxf2 bxc4 5. Ke3 g5 6. Kd4 Kf7 0-1
+
+[Event "Открытый турнир,"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Х. Накамура"]
+[Black "И. Ибрагимов"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/6pk/2q4p/8/8/6P1/2p2K1P/2Q5 b - - 0 1"]
+[PlyCount "9"]
+[SourceVersionDate "2023.08.21"]
+
+{[#]} 1... Qb6+ 2. Ke2 Qb1 3. Kd2 Qxc1+ 4. Kxc1 Kg6 5. Kxc2 Kf5 0-1
+
+[Event "Боржоми,"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "А. Галлямова"]
+[Black "Е. Ахмыловская"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/p1b3p1/8/2P2k1p/P4PbP/2B1pBK1/4P3/8 w - - 0 1"]
+[PlyCount "21"]
+[SourceVersionDate "2023.08.21"]
+
+{[#]} 1. Be5 Bxe5 2. fxe5 Kxe5 3. Bxg4 hxg4 4. Kxg4 Kd5 5. Kf3 Kxc5 6. Kxe3 Kb4
+7. Kd4 Kxa4 8. Kc4 Ka5 9. Kc5 Ka6 10. Kc6 Ka5 11. e4 1-0
+
+[Event "Высшая Лига России,"]
+[Site "?"]
+[Date "2023.??.??"]
+[Round "?"]
+[White "А. Тимофеев"]
+[Black "Э. Хубукшанов"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r2kb1R/5p2/3p4/1p1Np3/1P2P3/2P5/1K3P2/8 w - - 0 1"]
+[PlyCount "11"]
+[SourceVersionDate "2023.08.21"]
+
+{[#]} 1. Nf6+ Ke7 2. Nh7 Rd8 3. Rxf8 Rxf8 4. Nxf8 Kxf8 5. c4 Ke7 6. cxb5 1-0
+
+[Event "Москва,"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "А. Морозевич"]
+[Black "Г. Камский"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3b4/6k1/4p1P1/4P3/3P1K1p/7P/8/8 b - - 0 1"]
+[PlyCount "23"]
+[SourceVersionDate "2023.08.21"]
+
+{[#]} 1... Bb6 2. Ke4 Bxd4 $1 3. Kxd4 Kxg6 4. Ke4 Kg5 5. Ke3 Kf5 6. Kf3 Kxe5 7.
+Kg4 Ke4 8. Kxh4 Kf4 $1 9. Kh5 e5 10. h4 e4 11. Kg6 e3 12. h5 e2 0-1
+
+[Event "Полуфинал СССР,"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Р. Нежметдинов"]
+[Black "А. Будо"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3R4/6b1/p1r1p1k1/1p2Pp1p/1P1B4/2P1K1P1/7P/8 w - - 0 1"]
+[PlyCount "11"]
+[SourceVersionDate "2023.08.21"]
+
+{[#]} 1. Rd6 Rxd6 2. exd6 Bxd4+ 3. cxd4 Kf7 4. Kf4 Ke8 5. Ke5 Kd7 6. h4 1-0
+

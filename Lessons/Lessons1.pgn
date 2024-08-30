@@ -1,0 +1,315 @@
+﻿[Event "Узбекистан 2023"]
+[Site "?"]
+[Date "2024.07.30"]
+[Round "?"]
+[White "Т.Арутo^нян"]
+[Black "Е.Томашевский"]
+[Result "*"]
+[Annotator "Соня"]
+[SetUp "1"]
+[FEN "8/5p2/4p1p1/3k3p/3r3P/2p1K1P1/5P2/R7 b - - 0 1"]
+[PlyCount "23"]
+[SourceVersionDate "2024.07.30"]
+
+{[#]} 1... Rc4 2. Kd3 c2 3. Rc1 e5 4. f3 f5 5. Rxc2 e4+ 6. fxe4+ fxe4+ 7. Kd2
+Rxc2+ 8. Kxc2 Kd4 9. Kd2 e3+ 10. Ke1 Kd3 11. Kd1 e2+ 12. Ke1 Ke3 *
+
+[Event "Со~~и 2018"]
+[Site "?"]
+[Date "2024.07.30"]
+[Round "?"]
+[White "Шинкеви~~ В."]
+[Black "Томашевский Е."]
+[Result "*"]
+[Annotator "Соня"]
+[SetUp "1"]
+[FEN "8/5pp1/7p/r7/7P/4kPKN/6P1/8 b - - 0 1"]
+[PlyCount "7"]
+[SourceVersionDate "2024.07.30"]
+
+{[#]} 1... Ke2 2. Kh2 Kf1 3. Nf4 Ra4 4. Kg3 Rxf4 *
+
+[Event "Москва 1996"]
+[Site "?"]
+[Date "2024.07.30"]
+[Round "?"]
+[White "Е. Ковалевская"]
+[Black "Войцеховский"]
+[Result "*"]
+[Annotator "Соня"]
+[SetUp "1"]
+[FEN "8/1R6/6p1/3pK3/r1kP2P1/1p6/5P2/8 b - - 0 1"]
+[PlyCount "13"]
+[SourceVersionDate "2024.07.30"]
+
+{[#]} 1... Kc3 2. f4 Rb4 3. Rc7+ Rc4 4. Rb7 b2 5. Rxb2 Kxb2 6. f5 g5 7. f6 Kc3
+*
+
+[Event "Со~~и 2020"]
+[Site "?"]
+[Date "2024.07.30"]
+[Round "?"]
+[White "Е.Гольцева"]
+[Black "А.Ко~~укова"]
+[Result "*"]
+[Annotator "Соня"]
+[SetUp "1"]
+[FEN "2b2rk1/p4pp1/1p1R1P1p/4r3/P1B1p3/1P2P3/6PP/5RK1 w - - 0 1"]
+[PlyCount "31"]
+[SourceVersionDate "2024.07.30"]
+
+{[#]} 1. Rc6 Be6 2. fxg7 Kxg7 3. Bxe6 Rxe6 4. Rxe6 fxe6 5. Rxf8 Kxf8 6. g4 Ke7
+7. h4 Kd6 8. Kf2 Ke5 9. Ke2 Kd6 10. Kd2 e5 11. Kc3 Kd5 12. g5 hxg5 13. hxg5 Ke6
+14. Kc4 Kf5 15. Kd5 Kxg5 16. Kxe5 *
+
+[Event "Санкт Петербург 2019"]
+[Site "?"]
+[Date "2024.07.30"]
+[Round "?"]
+[White "Е.Гольцева"]
+[Black "Н.Басишвили"]
+[Result "*"]
+[Annotator "Соня"]
+[SetUp "1"]
+[FEN "6k1/5p2/4r1p1/2K1P2p/3Q1P1P/8/8/8 w - - 0 1"]
+[PlyCount "11"]
+[SourceVersionDate "2024.07.30"]
+
+{[#]} 1. Qd7 Kf8 2. Qxe6 fxe6 3. Kd6 Kf7 4. Kd7 g5 5. fxg5 Kg6 6. Kxe6 *
+
+[Event "Москва 2017"]
+[Site "?"]
+[Date "2024.07.30"]
+[Round "?"]
+[White "Е.Гольцева"]
+[Black "Г.Струтинская"]
+[Result "*"]
+[Annotator "Соня"]
+[SetUp "1"]
+[FEN "3r2k1/pp5p/1q2P2r/3PQ3/6p1/1P3pP1/P2R3P/4R1K1 w - - 0 1"]
+[PlyCount "25"]
+[SourceVersionDate "2024.07.30"]
+
+{[#]} 1. Qe3 Rxe6 2. dxe6 Rxd2 3. Qxb6 axb6 4. e7 f2+ 5. Kf1 fxe1=Q+ 6. Kxe1
+Rd1+ 7. Kxd1 Kf7 8. Kd2 Kxe7 9. Ke3 Kf6 10. Kf4 h5 11. a4 Kg6 12. Ke5 h4 13.
+Kf4 *
+
+[Event "><М до 20 лет, 2005г."]
+[Site "?"]
+[Date "2024.07.30"]
+[Round "?"]
+[White "Н.Погонина"]
+[Black "А.Ушенина"]
+[Result "*"]
+[Annotator "Соня"]
+[SetUp "1"]
+[FEN "8/2Qnqk2/p3p3/1p3pPp/8/P2N4/1PP3PP/1K6 w - - 0 1"]
+[PlyCount "25"]
+[SourceVersionDate "2024.07.30"]
+
+{[#]} 1. Qxd7 Qxd7 2. Ne5+ Ke7 3. Nxd7 Kxd7 4. h4 f4 5. Kc1 e5 6. Kd2 e4 7. b3
+a5 8. c3 Ke6 9. a4 bxa4 10. bxa4 Kf5 11. c4 Kg4 12. g6 Kg3 13. Ke1 *
+
+[Event "Россия, 2005г."]
+[Site "?"]
+[Date "2024.07.30"]
+[Round "?"]
+[White "А.Решетников "]
+[Black "А.Маль~~иков"]
+[Result "*"]
+[Annotator "Соня"]
+[SetUp "1"]
+[FEN "8/7p/6p1/4b1k1/6P1/1R6/P2pK2P/8 w - - 0 1"]
+[PlyCount "13"]
+[SourceVersionDate "2024.07.30"]
+
+{[#]} 1. Rb5 Kf4 2. Rxe5 Kxe5 3. a4 Kf4 4. a5 Kxg4 5. a6 g5 6. a7 Kh3 7. a8=Q *
+
+[Event "Первенство России, до 16 лет, 2005г."]
+[Site "?"]
+[Date "2024.07.30"]
+[Round "?"]
+[White "А.Решетников"]
+[Black "Г.Айрапетян"]
+[Result "*"]
+[Annotator "Соня"]
+[SetUp "1"]
+[FEN "r4k2/p3qnr1/R3b2p/2QpP2B/2pP1ppP/2P2N2/1P3P2/5KR1 w - - 0 1"]
+[PlyCount "7"]
+[SourceVersionDate "2024.07.30"]
+
+{[#]} 1. Rxe6 Qxc5 2. dxc5 gxf3 3. Rxg7 Kxg7 4. Re7 *
+
+[Event "Казань 1995"]
+[Site "?"]
+[Date "2024.07.30"]
+[Round "?"]
+[White "А.Филипенко"]
+[Black "Э.Липатов"]
+[Result "*"]
+[Annotator "Соня"]
+[SetUp "1"]
+[FEN "8/5bkp/3Q4/2p1N3/3p1qPK/7P/8/8 b - - 0 1"]
+[PlyCount "3"]
+[SourceVersionDate "2024.07.30"]
+
+{[#]} 1... h6 2. Nxf7 Qf2+ *
+
+[Event "Воронеж 2010"]
+[Site "?"]
+[Date "2024.07.30"]
+[Round "?"]
+[White "М.Озолин"]
+[Black "В.Кор~~марь"]
+[Result "*"]
+[Annotator "Соня"]
+[SetUp "1"]
+[FEN "5k2/1R5P/3P4/2p2pp1/p1P5/1p3P2/1K5r/8 w - - 0 1"]
+[PlyCount "5"]
+[SourceVersionDate "2024.07.30"]
+
+{[#]} 1. Kc3 b2 2. Rxb2 Rxh7 3. Rb8+ *
+
+[Event "Дубай 2001"]
+[Site "?"]
+[Date "2024.07.30"]
+[Round "?"]
+[White "М.Озолин"]
+[Black "А.Молина Морена"]
+[Result "*"]
+[Annotator "Соня"]
+[SetUp "1"]
+[FEN "8/8/6p1/1B5p/1p1k1KP1/1P2p3/P7/8 w - - 0 1"]
+[PlyCount "15"]
+[SourceVersionDate "2024.07.30"]
+
+{[#]} 1. g5 h4 2. Kg4 Kc3 3. Kxh4 Kd2 4. Kg4 e2 5. Bxe2 Kxe2 6. Kf4 Kd3 7. Ke5
+Kc3 8. Kd5 *
+
+[Event "Аргентина 1994"]
+[Site "?"]
+[Date "2024.07.30"]
+[Round "?"]
+[White "М.Сорокин"]
+[Black "Д.Хобайка"]
+[Result "*"]
+[Annotator "Соня"]
+[SetUp "1"]
+[FEN "8/7p/3k4/P1R1p3/1P6/4p3/2P1K3/7r w - - 0 1"]
+[PlyCount "5"]
+[SourceVersionDate "2024.07.30"]
+
+{[#]} 1. c4 (1. a6 Ra1 2. Ra5 Rxa5 3. bxa5) 1... h5 2. Rd5+ Ke6 3. a6 *
+
+[Event "Португалия, 2002"]
+[Site "?"]
+[Date "2024.07.30"]
+[Round "?"]
+[White "М.Сорокин"]
+[Black "А.Мотылев"]
+[Result "*"]
+[Annotator "Соня"]
+[SetUp "1"]
+[FEN "8/1N6/3p4/1BpP4/p1P5/Pk6/1n6/6K1 w - - 0 1"]
+[PlyCount "15"]
+[SourceVersionDate "2024.07.30"]
+
+{[#]} 1. Nxc5+ Kxa3 2. Nxa4 Nxa4 3. Bxa4 Kxa4 4. c5 dxc5 5. d6 c4 6. d7 c3 7.
+d8=Q c2 8. Qd2 *
+
+[Event "Италия 2006"]
+[Site "?"]
+[Date "2024.07.30"]
+[Round "?"]
+[White "М.Сорокин"]
+[Black "И.Старостис"]
+[Result "*"]
+[Annotator "Соня"]
+[SetUp "1"]
+[FEN "2r5/2P2p2/1p1k4/p4p1p/P2K1P1P/4p3/1P2P3/2R5 w - - 0 1"]
+[PlyCount "33"]
+[SourceVersionDate "2024.07.30"]
+
+{[#]} 1. Rc3 Rxc7 2. Rxc7 Kxc7 3. Ke5 Kc6 4. Kxf5 Kd5 5. Kg5 Ke4 6. f5 Ke5 7.
+f6 Ke6 8. Kxh5 Kxf6 9. Kg4 Kg6 10. Kf4 Kh5 11. Kxe3 Kxh4 12. Kf4 Kh3 13. Kf5
+Kg3 14. Kf6 Kf2 15. Kxf7 Kxe2 16. Ke6 Kd3 17. Kd5 *
+
+[Event "Новгород, 1997"]
+[Site "?"]
+[Date "2024.07.30"]
+[Round "?"]
+[White "В.Исупов"]
+[Black "o/o.Якови~~"]
+[Result "*"]
+[Annotator "Соня"]
+[SetUp "1"]
+[FEN "8/p4pk1/1prpq1p1/P3p3/1PP5/1KQR1PP1/8/8 w - - 0 1"]
+[PlyCount "14"]
+[SourceVersionDate "2024.07.30"]
+
+{[#]} 1. Rd5 Qxd5 2. cxd5 Rxc3+ 3. Kxc3 Kh6 4. Kd3 Kg5 5. Ke4 f5+ 6. Ke3 e4 7.
+fxe4 fxe4 *
+
+[Event "Курск, 1987"]
+[Site "?"]
+[Date "2024.07.30"]
+[Round "?"]
+[White "o/o.Якови~~"]
+[Black "М.Сорокин"]
+[Result "*"]
+[Annotator "Соня"]
+[SetUp "1"]
+[FEN "5r2/pp4k1/2p2b2/4N3/3Pp1P1/8/PP4P1/5RK1 w - - 0 1"]
+[PlyCount "18"]
+[SourceVersionDate "2024.07.30"]
+
+{[#]} 1. Rf4 Bxe5 2. Rxf8 Bxd4+ 3. Rf2 Kg6 4. Kf1 Bxf2 5. Kxf2 Kg5 6. Ke3 Kxg4
+7. Kxe4 Kg3 8. Ke5 Kxg2 9. Kd6 Kf3 *
+
+[Event "Олимпиада, 2008"]
+[Site "?"]
+[Date "2024.07.30"]
+[Round "?"]
+[White "Л.Фта~~ник"]
+[Black "А.Александров"]
+[Result "*"]
+[Annotator "Соня"]
+[SetUp "1"]
+[FEN "8/pp6/b4k1p/2r2pp1/8/1RPpP1PP/P2N1P2/5K2 w - - 0 1"]
+[PlyCount "12"]
+[SourceVersionDate "2024.07.30"]
+
+{[#]} 1. c4 Rxc4 2. Nxc4 Bxc4 3. Ke1 Bxb3 4. axb3 Ke5 5. f3 a5 6. Kd2 g4 *
+
+[Event "Москва 1992"]
+[Site "?"]
+[Date "2024.07.30"]
+[Round "?"]
+[White "А.Харитонов"]
+[Black "С.Железный"]
+[Result "*"]
+[Annotator "Соня"]
+[SetUp "1"]
+[FEN "5rnk/3R3p/4P1p1/8/4BP2/6PP/6K1/8 w - - 0 1"]
+[PlyCount "29"]
+[SourceVersionDate "2024.07.30"]
+
+{[#]} 1. e7 Re8 2. Rd8 Rxe7 3. Bd5 Rg7 4. g4 h6 5. Kf3 Kh7 6. Bxg8+ Rxg8 7.
+Rxg8 Kxg8 8. Ke4 Kf7 9. Ke5 Ke7 10. h4 Kf7 11. h5 gxh5 12. gxh5 Ke7 13. f5 Kf7
+14. f6 Kf8 15. Kf4 *
+
+[Event "Испания, 2007"]
+[Site "?"]
+[Date "2024.07.30"]
+[Round "?"]
+[White "А.Александров"]
+[Black "В.Милов"]
+[Result "*"]
+[Annotator "Соня"]
+[SetUp "1"]
+[FEN "R7/P6k/2K5/8/4p3/8/r4P2/8 w - - 0 1"]
+[PlyCount "1"]
+[SourceVersionDate "2024.07.30"]
+
+{[#]} 1. Rd8 *
+
