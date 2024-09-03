@@ -1,0 +1,79 @@
+[Event "План 1"]
+[Site ""]
+[Date "2024.09.03"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.Nc3 d6 6.Bg5 
+    {Хорошо играть только после вражеской 
+    рокировки!}
+6...h6 7.Bh4 g5 8.Bg3 
+    { [%draw arrow,g3,b8,green] Отвратительное 
+    положение слона!}
+8...Bg4 9.O-O 
+    {Ошибка! Будет дырокол, ослабляющий 
+    короля.}
+    ( 9.h4 {Неплохо! Ладья начнет играть, 
+    длинная рокировка.} )
+    ( 9.Nd5 {Играть можно, но осторожно} 9...Nxd5 
+    10.Bxd5 Nd4 11.c3 Nxf3+ 12.gxf3 Bh3 13.Qb3 O-O 14.O-O-O )
+    ( 9.h3 {Компьютерный вариант} 9...Bh5 10.Bb5 a6 11.
+    Bxc6+ bxc6 12.h4 )
+9...Nd4 
+    { [%draw arrow,d4,f3,green] [%draw arrow,g4,f3,green] [%draw 
+    arrow,g2,f3,green]}
+10.Qd2 Bxf3 11.gxf3 
+    {Снова ужасно!}
+*
+
+[Event "План 2 - не паникуй!"]
+[Site ""]
+[Date "2024.09.03"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "2k1r3/Qpnq3p/r4pp1/3p4/R7/BP4P1/P4P1P/2R3K1 w - - 0 1"]
+
+1.Qa8+ Rxa8 2.Rxa8# *
+
+[Event "План 3 - Матовые цепочки"]
+[Site ""]
+[Date "2024.09.03"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "2rr1b2/pb2qpk1/4pNpp/4P3/2PR4/6P1/PP1Q3P/5RK1 w - - 0 1"]
+
+1.Qxh6+ Kxh6 2.Rh4+ Kg7 
+    ( 2...Kg5 3.Nh7# )
+3.Rh7# *
+
+[Event "План 4 - тактика, незащищенная фигура"]
+[Site ""]
+[Date "????.??.??"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+[FEN "rnb2rk1/5pbp/p1pq2p1/3p4/N2N4/3BQ3/PP3PPP/2R2RK1 b - - 0 1"]
+
+1...Qb4 2.Nf3 Qxa4 *
+
+[Event "План 5 - отвлечение"]
+[Site ""]
+[Date "2024.09.03"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "3r4/1R1P1k1p/1p1q2p1/1Pp5/2P5/6P1/4Q1KP/8 w - - 0 1"]
+
+1.Qe8+ Rxe8 2.d8=Q+ Re7 
+    ( 2...Qe7 3.Rxe7+ Rxe7 4.Qxb6 )
+3.Qxd6 Rxb7 4.Qd5+ *
+
