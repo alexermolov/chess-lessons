@@ -1,0 +1,64 @@
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 g6 4.Be2 Bg7 5.O-O e6 6.a3 Nge7 7.d3 O-O 8.Be3 b6 
+9.h3 d5 10.exd5 exd5 11.b4 d4 12.Bd2 dxc3 13.Bxc3 Bxc3 14.Rb1 Nd4 15.Ng5 
+Nxe2+ 16.Qxe2 Nc6 17.Rb3 
+    { [%draw arrow,c6,d4,green]}
+17...Qxg5 18.Rxc3 Bxh3 19.Qf3 Bd7 20.Re1 Nd4 21.Qe3 Qxe3 22.Rxe3 Rae8 23.
+Rxe8 Rxe8 24.bxc5 Ne2+ 25.Kf1 Nxc3 26.g3 Bh3+ 27.Kg1 Re1+ 28.Kh2 Bg4 29.
+Kg2 Re2 30.Kh2 Bf3 31.Kh3 Re1 32.Kh4 f6 33.Kh3 Rh1# *
+
+[Event "Katalan Anti"]
+[Site ""]
+[Date "2024.07.01"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+
+1.Nf3 d5 2.g3 Bf5 3.Bg2 e6 4.d3 Nf6 5.Nbd2 h6 6.O-O Be7 7.Re1 c6 8.e4 Bh7 9.Qe2
+Na6 10.h4 Nb4 11.Nf1 dxe4 12.dxe4 Bxe4 13.Ne3 Nbd5 14.c3 Nxe3 15.Bxe3 Qd3
+16.Qxd3 Bxd3 17.Rad1 Bc2 18.Rd2 Be4 19.Red1 O-O 20.Ne5 Bxg2 21.Kxg2 Nd5 22.Rd3
+Rfd8 23.c4 Nxe3+ 24.fxe3 Rxd3 25.Rxd3 Rd8 26.Rxd8+ Bxd8 27.c5 Bc7 28.Nd3 f5
+29.Kf3 Kf7 30.Nc1 Kf6 31.Nb3 g5 32.hxg5+ hxg5 33.g4 Ke5 34.Nd4 Bd8 35.Ne2 fxg4+
+36.Kxg4 Ke4 37.Nc3+ Kxe3 38.a4 Kd4 39.Na2 Kxc5 40.b4+ Kc4 41.b5 cxb5 42.axb5
+Kxb5 43.Nc3+ Kb4 44.Ne4 Be7
+*
+
+[Event "Sicilian 2"]
+[Site ""]
+[Date "2024.07.01"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+
+1.e4 c5 2.d3 Nc6 3.Be3 d6 4.Nc3 g6 5.Qe2 Bg7 6.O-O-O b5 7.Nxb5 Rb8 8.Nc3 Qa5
+9.Qd2 Rxb2 10.Kxb2 Qb4+ 11.Kc1 Bxc3 12.Qxc3 Qxc3 13.Bd2 Qa1#
+*
+
+[Event "Sicilian 3"]
+[Site ""]
+[Date "2024.07.01"]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FlipB "1"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bc4 g6 4.O-O Bg7 5.Re1 d6 6.c3 Nf6 7.d4 cxd4 8.cxd4 Bg4 9.e5
+dxe5 10.dxe5 Qxd1 11.Rxd1 Bxf3 12.gxf3 Nxe5 13.Bb5+ Nc6 14.Bxc6+ bxc6 15.Nc3 O-O
+16.Bg5 e6 17.Ne4 Nd5 18.Rac1 Bxb2 19.Rxc6 Rfc8 20.Rxc8+ Rxc8 21.Rb1 Rc2 22.a4
+Kg7 23.a5 h6 24.Be3 Nxe3 25.fxe3 f5 26.Nd6 a6 27.e4 Be5 28.Rb7+ Kf6 29.Rf7+ Kg5
+30.exf5 Bxh2+ 31.Kf1 Bxd6 32.fxe6 Rc8 33.Rd7 Bb4 34.Ra7 Rc6 35.e7 Re6 36.e8=Q
+Rxe8 37.Rxa6 Re5 38.Ra8 Rxa5 39.Rxa5+ Bxa5 40.Ke2 Bb6
+*
+
