@@ -1,0 +1,13 @@
+[Event "Понимание миттельшпиля: Игра без пешки. Крамник-Домингес."]
+[Site "https://lichess.org/study/hf8lST38/TZ1yOVJ7"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Leon2011"]
+[FEN "2q3k1/pp2b2p/4P1p1/2pr4/1n3B2/5N1P/PP2QPP1/5RK1 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.02.03"]
+[UTCTime "13:07:00"]
+
+1... Nd3 2. Bg3 c4?! (2... Qc6 3. Qe4 Rd6!) 3. Qe4 Qc6 4. Nd4? (4. b3! b5? 5. Nd4 Qc5 6. Nxb5 cxb3? 7. Nd4 Qc4 8. Qf3 { [%cal Gf3f7] }) 4... Qc5 5. Nc2 { [%cal Gc2e3,Ge3c4] } 5... Qc6! 6. Ne3?! (6. b3! Nc5 7. Qxc4 Nxe6 8. Qxc6 bxc6 { [%cal Gd5d2] }) 6... Rc5 7. Qg4 b5 8. f4? (8. b3) 8... Qe4! 9. Qf3 (9. Nc2? Rf5) 9... Qxf3 10. Rxf3 Rc6! (10... Nxb2? 11. f5) 11. f5 gxf5 12. Nxf5 Bc5+ 13. Kh2 Rxe6 14. b3 h5 15. bxc4 bxc4 16. Bc7 Re2?! (16... Ra6) 17. Bd6 Bb6 { Kramnik, Vladimir - Dominguez Perez, Leinier, 1/2-1/2, Dresden ol (Men) 38th, 2008, https://lichess.org/7pb49zop } *

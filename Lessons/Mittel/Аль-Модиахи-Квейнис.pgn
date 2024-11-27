@@ -1,0 +1,11 @@
+[Event "Понимание миттельшпиля: Ферзь против двух лёгких фигур. Аль-Модиахи-Квейнис"]
+[Site "https://lichess.org/study/hf8lST38/6bB2lWI9"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Kramnik Variation"]
+[Annotator "https://lichess.org/@/Leon2011"]
+[UTCDate "2022.01.23"]
+[UTCTime "05:40:41"]
+
+1. e4 c5 2. Nf3 e6 3. c4 Nc6 4. Nc3 Nf6 5. Be2 Qc7 6. O-O a6 7. d4 cxd4 8. Nxd4 Bb4 9. Qd3 Qd6?! 10. Nxc6 Qxd3 11. Nxb4? (11. Bxd3 dxc6 (11... bxc6 12. e5 Ng4 13. Bf4 f6 14. exf6 Nxf6 15. Na4) 12. e5 Nd7 13. Bf4) 11... Qd6 12. Nd3 e5! { [%cal Ge5e4] } (12... Qc7 13. e5 Ng8 14. Ne4 Ne7 15. Nd6+ Kf8 16. c5) 13. c5 (13. f4 Qd4+ 14. Kh1 d6) 13... Qe6 14. f4 (14. Nb4 d6 15. Nbd5 Nxd5 16. Nxd5 Qg6 17. Nc7+ Ke7 18. Nxa8 Bh3 19. cxd6+ Kxd6 20. Bf3 Rxa8) 14... d6 15. f5 (15. fxe5 dxe5 16. Bg5 Qc6 17. Bxf6 gxf6 18. Nd5 Be6 19. Nxf6+ Ke7 20. Rac1 Qa4) 15... Qd7 { [%csl Ge7] } 16. Bg5 (16. Be3 dxc5 17. Nxc5 Qe7 { НЕ ОПАСНО ДЛЯ ЧЁРНЫХ }) 16... dxc5? (16... Qc6!) 17. Rfd1? (17. Rad1! Qc7 18. Nxe5 Qxe5 (18... O-O 19. Bxf6 gxf6 20. Ng4) 19. Bf4 Qe7 20. Bd6 Qd8 21. e5) 17... Qc7 18. Bxf6 gxf6 19. Nd5 Qd6 20. b4 c4 21. Nf2 O-O 22. Ng4 Kh8 23. Bxc4 b5 24. Bb3 Bb7 25. Ngxf6 Rae8 26. h3 Bxd5 27. Nxd5 Qh6 28. a4 Rg8 29. Kh2 Qh4 30. Ne3 Qxe4 31. Ng4 h5 { Al Modiahki, Mohamad - Kveinys, Aloyzas, 0-1, Reykjavik op 23rd, 2008, https://lichess.org/XvRsx53B } *

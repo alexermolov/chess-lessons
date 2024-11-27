@@ -1,0 +1,13 @@
+[Event "Понимание миттельшпиля: Игра с лишней пешкой. Карлсен-Крамник"]
+[Site "https://lichess.org/study/hf8lST38/Qbdmlnam"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Leon2011"]
+[FEN "2rq1rk1/3nbp1p/5p2/1bp5/Np1p4/5NPB/1PQ1PP1P/R2R2K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.02.03"]
+[UTCTime "02:41:34"]
+
+1. Bf5?! Ne5! 2. Bxh7+?! (2. b3 d3 3. Qc1 dxe2 4. Rxd8 Nxf3+ 5. Kg2 e1=N+) (2. Nxe5 fxe5 3. b3) 2... Kg7 3. Nxe5 fxe5 4. Bf5 Rc6 5. Qe4 Rh8! 6. Qxe5+ Bf6 7. Qe4 Re8 8. Qg4+ Kf8 9. Be4 c4 10. Bxc6 Bxc6 11. Qh5 Re5 12. Qh6+ Ke7? (12... Kg8! 13. Qf4 Qd5 14. f3 Bg5 15. Qg4 d3) 13. e4 d3 14. Qe3 Bxe4 15. Nb6? (15. Re1 Bc6 16. Qc5+ Qd6 17. Qxc4 d2 18. Red1 Re4 19. Qc5 Re2 20. Kf1 Qxc5 21. Nxc5 Bb5 22. Kg2 Bd4 23. Ne4 Bc6 24. Kf1 Rxe4 25. Rxd2 $15) 15... Bb7 16. Qf4 Qxb6 17. Qxc4 Re2 18. Rf1 { Carlsen, Magnus - Kramnik, Vladimir, 0-1, Corus, 2010, https://lichess.org/NSLHML7s } *

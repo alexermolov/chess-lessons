@@ -1,0 +1,11 @@
+[Event "Понимание миттельшпиля: Ферзь против ладьи и лёгкой фигуры. Лейтао-Каруана"]
+[Site "https://lichess.org/study/hf8lST38/GvwFN0kY"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "E60"]
+[Opening "King's Indian Defense: Normal Variation, King's Knight Variation"]
+[Annotator "https://lichess.org/@/Leon2011"]
+[UTCDate "2021.12.13"]
+[UTCTime "08:55:48"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. Nc3 Nc6 8. e3 O-O 9. O-O Re8 10. Re1 a5 11. Qe2 Be6 12. Rd1?! Bc4 13. Qc2 Nb4 14. Qb1 e5 15. a3 (15. b3 exd4 16. bxc4 (16. exd4 Be6 17. Bf4 Bf5) 16... dxc3 17. Rxd8 Raxd8 18. Qb3 c2 19. Nd4 Rxd4 20. exd4 Re1+ 21. Bf1 Bxd4 22. a3 Bxa1 23. Bh6 Bg7 24. axb4 Bxh6 25. Qxc2 axb4) (15. dxe5? Qxd1+! 16. Nxd1 Bd3) 15... exd4 16. axb4 dxc3 17. Rxd8 Raxd8 18. Qc2 (18. bxc3 Rd1+ 19. Bf1 Bxf1 (19... Rxf1+ 20. Kg2 Bxc3 21. bxa5 Rd1 22. g4) 20. Qc2 Be2+ 21. Kg2 Bf1+) 18... axb4 19. Nd2 cxd2 20. Bxd2 Ra8 21. Rxa8 Rxa8 22. Bxb7 (22. h4! Ra1+ 23. Kh2 b3 24. Qe4 Bxb2 25. Qe8+ Kg7 26. h5) 22... Ra1+ 23. Bc1 (23. Kg2 Bf1+ 24. Kf3 Nc4 25. Bxb4 Ne5+ 26. Kf4 Nd3+ 27. Kf3 Rc1 28. Qa4 Ne5+ 29. Kf4 Rc4+ 30. e4 Nd3+ 31. Kf3 Nxb4) 23... b3 24. Qd1? (24. Qd2 Be6 25. Kg2 Nc4 26. Qd1 h5) 24... Bxb2 { Leitao, Rafael Duailibe - Caruana, Fabiano, 0-1, Khanty-Mansiysk ol (Men) 39th, 2010, https://lichess.org/0GUtcviS } *

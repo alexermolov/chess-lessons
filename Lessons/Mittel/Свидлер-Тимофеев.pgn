@@ -1,0 +1,15 @@
+[Event "Свидлер-Тимофеев (Лишнее качество): Свидлер-Тимофеев (Лишнее качество)"]
+[Site "https://lichess.org/study/VXB1m3hO/TYrFUOYW"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/stepalala"]
+[FEN "b4rk1/p1p2pp1/1p2p2p/3nP3/6Pq/3P4/PP1BQP1P/2KR2R1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2023.04.04"]
+[UTCTime "13:36:10"]
+
+1. f4! { [%cal Gf4f5] } (1. g5? h5 { [%cal Gd2h6,Gg7g6] }) 1... Rd8 2. Rdf1 { Это проще чем ф5. Вступать в осложнения нет никакой необходимости. } { [%cal Gf4f5] } 2... c5 3. f5 Nb4 4. Bxb4 cxb4 5. Qf2 Qe7 (5... Qxf2 6. Rxf2 Rxd3 7. Rd1) 6. Qe3! b3 7. Kb1 Qb4 (7... bxa2+ 8. Ka1) 8. a3 Qb5 9. Rd1 Qc5 10. d4 Qd5 11. Rg3 { [%csl Gb3] } 11... Qe4+ 12. Qxe4 Bxe4+ 13. Kc1 { [%cal Gd8c8,Gg3c3] } 13... exf5 14. gxf5 Bxf5 { [%cal Gd4d5,Gd5d6,Gd6d7,Gd7d8] } 15. d5 Re8 16. d6 Kf8 17. Rxb3 Bd7 18. Re3 Re6 (18... f6 19. e6) 19. Rdd3 Ke8 20. Rc3 a5 21. Kd2 { Черные сдались угроза: Лс7-б7 не отразима } *
+
+

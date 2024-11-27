@@ -1,0 +1,13 @@
+[Event "Понимание миттельшпиля: Ферзь против трёх лёгких фигур. Наер-Аврух"]
+[Site "https://lichess.org/study/hf8lST38/kfpyEbjx"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Leon2011"]
+[FEN "6k1/1b2rpbp/qn3np1/1p1pB3/1P6/5N1P/1Q1NBPP1/4R1K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.12.16"]
+[UTCTime "14:02:00"]
+
+1. Bxf6?! Na4 2. Bxg7 Nxb2 3. Bxb2 Qa4 4. Bc3 Qa3? (4... Qc2! 5. Bd4 Bc6 6. Be3 Bd7 7. Nd4? { [%csl Gb5][%cal Ge1d1] } 7... Qc3) 5. Nb1! { [%cal Gf3d4,Ge1d1] } 5... Qa2 6. Nd4 f6 (6... Re4 7. Nd2 Rxd4) 7. Nd2 Qa8 8. N2b3 { [%cal Ge1a1] } 8... Bc8 9. Ra1 Ra7 10. Rc1 Ra3 11. Bxb5 Bf5 12. Bc6 Qd8 13. Nc5 Be4 14. b5 Qb6 15. Nd7 Qa7 16. b6 { Najer, Evgeniy - Avrukh, Boris, 1-0, Netanya Riordan, 2009, https://lichess.org/EgiTd4qX } *

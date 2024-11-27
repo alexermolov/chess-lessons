@@ -1,0 +1,13 @@
+[Event "Понимание миттельшпиля: Игра без пешки. Иванчук-Леко."]
+[Site "https://lichess.org/study/hf8lST38/nRjjgv9t"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Leon2011"]
+[FEN "r4nk1/1Qb1q1pp/4bp2/4p3/2N1P3/3PBN1P/5PP1/5RK1 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.02.03"]
+[UTCTime "13:19:22"]
+
+1... Rd8 2. Rc1 Rd7 (2... Rxd3?? 3. Ncxe5) 3. Ne1 Ba5! 4. Qb1 Bxe1 5. Rxe1 Qd8 6. Bb6 Qb8 7. Qc2 Ng6 8. Ra1 h6! 9. Be3 Kh7 10. Nb6 Rd8 11. Ra3 Qd6 12. Rc3 Bf7 13. Na4 Ra8 14. Rc7 Bb3 15. Rxg7+ Kxg7 16. Qxb3 Rb8 17. Qc4 Nf4 18. Nc5 (18. Bxf4 Rb1+ 19. Kh2 exf4 20. f3 Rb4 21. Qc2 h5) 18... Rc8 19. Kh2 Rc6 20. Qb5 Ne6 21. Nxe6+ Qxe6 22. f4 Rd6 23. Bc5 Qd7 24. Qb8 Rxd3 25. fxe5 fxe5 26. Qxe5+ Kh7 27. Bb4 Qg7 28. Qf4 Qg5 29. Qb8 Qg8 30. Qf4 Qg5 31. Qb8 { Ivanchuk, Vassily - Leko, Peter, 1/2-1/2, Nalchik FIDE GP, 2009, https://lichess.org/fbmiietZ } *

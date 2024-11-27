@@ -1,0 +1,13 @@
+[Event "Понимание миттельшпиля: Фигура за три пешки. Дамянович-Неведничий"]
+[Site "https://lichess.org/study/hf8lST38/SOv7zxsp"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Leon2011"]
+[FEN "r3k2r/3b1pp1/2nRpn1p/8/4PP2/2N1B3/PPP3PP/1K5R b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.12.13"]
+[UTCTime "08:35:36"]
+
+1... Ne7 2. Rhd1 Bc6 3. Bb6 Nd7 4. Bf2 Rc8 5. a4 Nf6 6. Bh4?! (6. R6d4) 6... Rg8! 7. Bxf6 gxf6 8. g3 f5 9. e5 Nd5 10. Nxd5?! (10. Nb5) 10... Bxd5 11. b3 Be4 12. R6d2 h5 13. Kb2 h4 14. Rg1 Ke7 15. c4 Rcd8 16. Rxd8 Rxd8 17. Kc3? (17. gxh4 Rd2+ 18. Kc3 Rd3+ 19. Kb4 Rf3 20. a5 Rxf4 21. h5 Rh4 22. a6 f4 23. Kc3 f3 24. b4 Rxh5 25. Kd4 Ba8 26. b5 Rxh2 27. b6 Rb2 28. b7 Bxb7 29. axb7 Rxb7 30. Rf1) 17... Rd3+ 18. Kb4 h3! 19. a5 Rd2 20. a6 Rxh2 21. Ra1 Rg2 22. Kb5 Rxg3 23. a7 h2 24. a8=Q Bxa8 25. Ra7+ Bb7 26. Rxb7+ Kf8 { Damjanovic, Vladimir - Nevednichy, Vladislav, 0-1, Bucharest, 1996, https://lichess.org/KdvklBwn } *

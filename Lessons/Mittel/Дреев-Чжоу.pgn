@@ -1,0 +1,13 @@
+[Event "Понимание миттельшпиля: Ферзь против двух ладей. Дреев-Чжоу Цзянчао"]
+[Site "https://lichess.org/study/hf8lST38/mpJKbvHC"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Leon2011"]
+[FEN "2r4r/p1q2pk1/1p2p2p/3b3Q/5pN1/P4P2/1P4PP/R2R2K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.12.16"]
+[UTCTime "11:54:18"]
+
+1. Rac1! Qxc1 (1... Qd8 2. Rxc8 Qxc8 3. Qe5+ Kh7 4. Qxf4 Qf8 5. Rc1 { [%cal Gc1c7] }) 2. Qe5+! (2. Rxc1? Rxc1+ 3. Kf2 Rc2+ 4. Ke1 f5 5. Ne5 Kf6 6. Qg6+ Kxe5 7. Qg7+ Kd6 8. Qxh8 Rxg2 $14) 2... Kh7 (2... Kg8 3. Rxc1 Rxc1+ 4. Kf2 Rc2+ 5. Ke1 Bc4 6. Qxf4 { [%cal Gg4f6,Gg8f8,Gf4d6,Gf8g7,Gf6h5,Gg7h7,Gd6g3] }) 3. Rxc1 Rxc1+ 4. Kf2 Rc2+ 5. Ke1 Rc1+ (5... Rhc8 6. Qxf4 f5 7. Qxh6+ Kg8 8. Qg6+ Kf8 9. Ne3 Rc1+ 10. Kf2 Ba2 11. h4) 6. Kd2 Rhc8 7. Qxf4 (7. Qf6 Kg8 8. Nxh6+ Kh7 9. Nxf7 Kg8 10. Ne5) 7... f5 (7... R8c2+ 8. Ke3 Re1+ 9. Kd3) 8. Qxh6+ Kg8 9. Qg6+ Kf8 { [%cal Gc8c2,Gd2e3,Gc1e1,Ge3f4] } 10. Ne5 R1c7 11. Qf6+ Ke8 (11... Kg8 12. Ng6 { [%cal Gg6e7] }) 12. Ke3 Rd8 13. h4 { Dreev, Alexey - Zhou, Jianchao, 1-0, Moscow Aeroflot op-A1, 2008, https://lichess.org/FhdJq8RM } *

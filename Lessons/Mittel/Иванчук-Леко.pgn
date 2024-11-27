@@ -1,0 +1,13 @@
+[Event "Понимание миттельшпиля: Ферзь против двух ладей. Иванчук-Леко"]
+[Site "https://lichess.org/study/hf8lST38/P5S1OKDh"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Leon2011"]
+[FEN "b6k/4b1pp/p1q5/1pp5/4pB2/8/PPP2PPP/RN2R1K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.12.16"]
+[UTCTime "11:39:46"]
+
+1. Be3 Qf6 2. c3 Bd6?! (2... h5!) 3. Nd2 Qe5?! (3... Bc6!) 4. g3 h6 (4... Bc6? 5. Bf4 Qe6 6. Bxd6 e3 7. Rxe3 Qxd6 8. Rae1 g5 9. Ne4 Qd5 10. f3) 5. a4! Bc6 6. axb5 axb5 7. Nb3? (7. c4! Qxb2? (7... b4 8. Ra6 Qe8 9. Nb3) 8. Ra6 b4 { [%csl Ge8] }) 7... Bf8 8. Red1 Bd5! 9. h4 Kg8 (9... Bxb3 10. Rd8 Kg8 11. Raa8 Qf5) 10. Nc1 g5 11. hxg5 hxg5 12. Ra5 Qc7 13. Ra6 Qf7 14. Rb6 Be7?! (14... Bg7! 15. Bxg5 Bd4! 16. cxd4 e3 $10) 15. Rxb5 Be6 16. Rb8+ Kg7 17. Rb7 Kh6 18. Re1? (18. Ne2 { [%cal Gb7b6] } 18... Bh3 19. Rd8!) 18... Qf6? (18... Bh3! { [%cal Gf7f3] } 19. Kh2 Bg4 { [%cal Gg4f3] }) 19. Rb6 Qf5 20. Nb3 Kh5 21. Nd2 Bd7 22. Ra1 Bd8 23. Rb8 $18 { Ivanchuk, Vassily - Leko, Peter, 1-0, Morelia/Linares 25th, 2008, https://lichess.org/P2lN80dS } *
